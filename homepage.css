@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+/*reset*/
+* {
+	margin: 0;
+	font-family: 'Raleway', sans-serif;
+	scroll-behavior: smooth;
+
+}
+
+body::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+body {
+    background-image: url("./public/wwe_back1.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+	-ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+
+}
+
+.hide {
+    display: none;
+}
+
+header {
+    height: 100vh;
+}
+
+.my-video {
+	width:100%;
+}
+
+.top-border {
+	height:4em;
+	position:absolute;
+	top: 0;
+	width:100%;
+	background: black;
+}
+.bottom-border {
+	height:4em;
+	position:absolute;
+	bottom: 0;
+	width:100%;
+	background: black;
+
+}
+
+
+.position-relative {
+	position: relative;
+}
+
+.sidebar-close-button {
+    position: absolute; 
+    right:1em; 
+	top: 50%;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.cursor:hover {
+    opacity: .7;
+}
+.sidebar {
+	height:100%;
+	background:black;
+	top:0;
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    color: white;
+    padding:2%;
+
+	overflow: scroll;
+}
+
+.sidebar-closed {
+	width: 5%;
+}
+
+table {
+    color: white !important;
+}
+
+
+.no-bg {
+	background: none; 
+	color: white;
+	font-size: x-small;
+}
+
+.profile-pic {
+    width: 7em;
+    height: 7em;
+	object-fit: cover; 
+	object-position: 100% 0;
+}
+
+.sort-title {
+	font-size: xx-small;
+}
+
+.flex-space-between {
+	justify-content: space-between;
+    display: flex;
+}
+
+.sidebar-content {
+	width:90%;
+}
+
+.nav {
+
+	display: flex;
+    justify-content: space-around;
+    margin-bottom: 5em;
+}
+
+.selected {
+	text-decoration: underline;
+	color: gold;
+}
+
+.tag-member {
+	font-size: small;
+	color: pink !important;
+}
+
+.hof-nameplate{
+	text-align: center;
+}

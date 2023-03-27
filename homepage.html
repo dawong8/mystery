@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WWE - Clippyland</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="./homepage.css">
+
+</head>
+<body>
+
+
+<!-- Header with image -->
+  <header class=" position-relative" id="home">
+    
+    <div class="top-border"></div>
+    <div class="bottom-border">
+    </div>
+    <div class="sidebar sidebar-closed position-relative" id="sidebar">
+        <div class="hide sidebar-content" id="sidebar-content">
+            <div class="nav" id="title-nav"> 
+                <span class="cursor selected nav-title">RAW</span>
+                <span class="cursor nav-title">SD</span>
+                <span class="cursor nav-title">TAG</span>
+                <span class="cursor nav-title">HD</span>
+                <span class="cursor nav-title">NXT</span>
+                <span class="cursor nav-title">AT</span>
+                <span class="cursor nav-title">WT</span>
+                <span class="cursor nav-title">HoF</span>
+
+            </div>
+            <div class="flex-space-between" > <h3 id="title-name">RAW Championship</h3> <span class="sort-title cursor" id="sort-toggle"> SORT BY REIGNS </span></div>
+            <table class="table hide" id="hof" data-type="RAW">
+                <thead>
+                    <tr>
+                      <th scope="col">YEAR</th>
+                      <th scope="col" >INDUCTEE(S)</th>
+                      <th scope="col"></th>
+
+                    </tr>
+                  </thead>
+                  <tbody>    
+                      <tr>
+                          <td>2018</td>
+                          <td class="hof-nameplate">
+                                <img src="https://dawong8.github.io/portfolio/public/kaine.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic"/>
+                                <p class="text-centered">KAINE</p>
+                            </td>
+                          <td>Recognized for ground breaking high-flying technical abilities. <br> <br>2x RAW Champion<br>2x SMACKDOWN Champion<br>1x NXT Champion</td>
+
+                      </tr>
+                      <tr>
+                        <td>2019</td>
+                        <td class="hof-nameplate">
+                              <img src="https://dawong8.github.io/portfolio/public/violetjade.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic"/>
+                              <p class="text-centered">VIOLET JADE</p>
+                          </td>
+                        <td>Nicknamed "Violent" Jade, recognized for outstanding in-ring persona and strong technical skills. Dominated the RAW division in the 6 historic title reigns. <br> <br>6x RAW Champion<br>1x SMACKDOWN Champion<br>2x NXT Champion</td>
+
+                    </tr>
+                    <tr>
+                        <td>2020</td>
+                        <td class="hof-nameplate">
+                              <img src="https://dawong8.github.io/portfolio/public/lauravee.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic"/>
+                              <p class="text-centered">LAURA VEE</p>
+                          </td>
+                        <td>Leader of the infamous stable "Black Lotus" (along with members Cali and Aori Sato). Appreciated as one of the best high-flyers. <br> <br>1x RAW Champion<br>2x SMACKDOWN Champion</td>
+
+                    </tr>
+                    <tr>
+                        <td>2021</td>
+                        <td class="hof-nameplate">
+                              <img src="https://dawong8.github.io/portfolio/public/blu.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic"/>
+                              <p class="text-centered">BLU</p>
+                          </td>
+                        <td>Known as the "Queen of Smackdown". One of the best in-ring high-flying wrestlers of all time. <br> <br>3x SMACKDOWN Champion<br>1x NXT Champion<br>1x TAG Champion - w/ Asuka</td>
+                    </tr>
+                    <tr>
+                        <td>2022</td>
+                        <td class="hof-nameplate">
+                              <div>
+                                <img src="https://dawong8.github.io/portfolio/public/jelinalopez.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic hof-pic"/>
+                                <img src="https://dawong8.github.io/portfolio/public/selitamendes.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic hof-pic"/>
+                                <img src="https://dawong8.github.io/portfolio/public/alisonjans.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic hof-pic"/>
+                                <img src="https://dawong8.github.io/portfolio/public/flora.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic hof-pic"/>
+                              </div>
+                              <p class="text-centered">THE 4 HORSEWOMEN</p>
+                          </td>
+                        <td>Regarded as "The 4 Horsewomen" that dominanted the RAW division. Consists of Jelina Lopez, Selita Mendes, Alison Jans, and Flora. <br> <br>
+                            
+                            19 RAW Championship Reigns Combined<br>3 SMACKDOWN Championship Reigns Combined <br>3 NXT Championship Reigns Combined
+                            <br> 2x MITB Winner Combined <br> 2x Elimination Chamber Combined
+                        </td>
+
+                    </tr>
+                  </tbody>
+            </table>
+            
+            
+            
+            <table class="table" id="table" data-type="RAW">
+                <thead>
+                    <tr>
+                      <th scope="col">NAME</th>
+                      <th scope="col" id="secCol">DEFENSES</th>
+                    </tr>
+                  </thead>
+                  <tbody id="tbody">    
+                  </tbody>
+            </table>
+
+
+            
+        </div>
+
+        <p class="cursor sidebar-close-button" id="sidebar-button">❯</p>
+    </div>
+  </header>
+
+
+
+
+  <script type="text/javascript" src="./titleHistory.js"></script>
+  <script type="text/javascript" src="./homepage.js"></script>
+
+</body>
+</html>
