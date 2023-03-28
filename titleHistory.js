@@ -346,7 +346,7 @@ const titleHistory = {
 			"number": 60, 
 			"name": "CHELSEA_GREEN",
 			"reign": 1,
-			"defenses": ["ASUKA"]
+			"defenses": ["ASUKA", "ASUKA"]
 		}
 	],
 	"SMACKDOWN": [
@@ -590,7 +590,7 @@ const titleHistory = {
 			"number": 38, 
 			"name": "SONYA_DEVILLE",
 			"reign": 1,
-			"defenses": ["SARRAY"]
+			"defenses": ["SARRAY", "LACEY_EVANS]
 		}
 
 	], 
@@ -862,7 +862,7 @@ const titleHistory = {
 			"number": 23, 
 			"name": "DIVAS UNITE",
 			"members": "KELLY_KELLY[1]&ALIYAH[1]",
-			"defenses": ["TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)"]
+			"defenses": ["TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)"]
 		}
 		
 	],
@@ -876,6 +876,12 @@ const titleHistory = {
 		{
 			"number": 2,
 			"name": "VACATED"
+		},
+		{
+			"number": 3,
+			"name": "STACY_KEIBLER",
+			"reign": 1, 
+			"defenses": ["ALBA_FYRE"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -889,15 +895,22 @@ const titleHistory = {
 			"number": 2, 
 			"name": "JOHNNY_GARGANO",
 			"reign": 1,
-			"defenses": ["DREW_GULAK"]
+			"defenses": ["DREW_GULAK", "DREW_GULAK"]
+		},
+		{
+			"number": 3, 
+			"name": "ILJA_DRAGUNOV",
+			"reign": 1,
+			"defenses": ["JOHNNY_GARGANO"]
 		}
+		
 	],
 	"WORLD-TOP":[
 		{
 			"number": 1, 
 			"name": "KARRION_KROSS",
 			"reign": 1,
-			"defenses": ["THE_MIZ&ILJA_DRAGUNOV&MATT_CARDONA", "MR_ENVIRONMENT", "THE_MIZ"]
+			"defenses": ["THE_MIZ&ILJA_DRAGUNOV&MATT_CARDONA", "MR_ENVIRONMENT", "THE_MIZ", "RIDGE_HOLLAND"]
 		}
 	]
 };
