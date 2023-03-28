@@ -576,7 +576,7 @@ const titleHistory = {
 			"reign": 1,
 			"defenses": ["POLLY_SEAN", "POLLY_SEAN", "VICTORIA_WINTERS&FLORA&POLLY_SEAN"]
 		},
-        {
+        	{
 			"number": 36, 
 			"name": "VACATED"
 		},
@@ -591,6 +591,12 @@ const titleHistory = {
 			"name": "SONYA_DEVILLE",
 			"reign": 1,
 			"defenses": ["SARRAY", "LACEY_EVANS"]
+		},
+		{
+			"number": 39, 
+			"name": "LACEY_EVANS",
+			"reign": 1,
+			"defenses": ["SONYA_DEVILLE"]
 		}
 
 	], 
@@ -709,7 +715,7 @@ const titleHistory = {
 			"number": 21, 
 			"name": "NIKKITA_LYONS",
 			"reign": 1,
-			"defenses": ["ZOEY_STARK&CORA_JADE"]
+			"defenses": ["ZOEY_STARK&CORA_JADE", "ZOEY_STARK"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -854,7 +860,7 @@ const titleHistory = {
 			"members": "MOLITA[2]&AMBER_LEE[2]",
 			"defenses": ["PRETTY GIRL NATION (JICKIE_MAMES, JESSICA_WILD)", "PRETTY GIRL NATION (JICKIE_MAMES, JESSICA_WILD)", "HARDLETHICS (TORNADO_MAY, OLIVIA_ANNE)", "BLACK LOTUS (CALI, AORI_SATO)", "HARDLETHICS (TORNADO_MAY, OLIVIA_ANNE)"]
 		},
-        {
+        	{
 			"number": 22, 
 			"name": "VACATED"
 		},
@@ -863,6 +869,12 @@ const titleHistory = {
 			"name": "DIVAS UNITE",
 			"members": "KELLY_KELLY[1]&ALIYAH[1]",
 			"defenses": ["TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)"]
+		},
+		{
+			"number": 24, 
+			"name": "TOXIC ATTRACTION",
+			"members": "GIGI_DOLIN[1]&JACY_JAYNE[1]",
+			"defenses": ["DIVAS UNITE (KELLY_KELLY, ALIYAH)"]
 		}
 		
 	],
@@ -881,7 +893,7 @@ const titleHistory = {
 			"number": 3,
 			"name": "STACY_KEIBLER",
 			"reign": 1, 
-			"defenses": ["ALBA_FYRE"]
+			"defenses": ["ALBA_FYRE", "ALBA_FYRE"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -901,7 +913,7 @@ const titleHistory = {
 			"number": 3, 
 			"name": "ILJA_DRAGUNOV",
 			"reign": 1,
-			"defenses": ["JOHNNY_GARGANO"]
+			"defenses": ["JOHNNY_GARGANO", "DREW_GULAK"]
 		}
 		
 	],
@@ -910,7 +922,7 @@ const titleHistory = {
 			"number": 1, 
 			"name": "KARRION_KROSS",
 			"reign": 1,
-			"defenses": ["THE_MIZ&ILJA_DRAGUNOV&MATT_CARDONA", "MR_ENVIRONMENT", "THE_MIZ", "RIDGE_HOLLAND"]
+			"defenses": ["THE_MIZ&ILJA_DRAGUNOV&MATT_CARDONA", "MR_ENVIRONMENT", "THE_MIZ", "RIDGE_HOLLAND", "RIDGE_HOLLAND"]
 		}
 	]
 };
