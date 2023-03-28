@@ -590,7 +590,7 @@ const titleHistory = {
 			"number": 38, 
 			"name": "SONYA_DEVILLE",
 			"reign": 1,
-			"defenses": ["SARRAY", "LACEY_EVANS]
+			"defenses": ["SARRAY", "LACEY_EVANS"]
 		}
 
 	], 
