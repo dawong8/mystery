@@ -346,7 +346,7 @@ const titleHistory = {
 			"number": 60, 
 			"name": "CHELSEA_GREEN",
 			"reign": 1,
-			"defenses": ["ASUKA", "ASUKA"]
+			"defenses": ["ASUKA", "ASUKA", "LIV_MORGAN"]
 		}
 	],
 	"SMACKDOWN": [
@@ -596,7 +596,7 @@ const titleHistory = {
 			"number": 39, 
 			"name": "LACEY_EVANS",
 			"reign": 1,
-			"defenses": ["SONYA_DEVILLE"]
+			"defenses": ["SONYA_DEVILLE", "SONYA_DEVILLE", "SONYA_DEVILLE"]
 		}
 
 	], 
@@ -733,7 +733,8 @@ const titleHistory = {
 		"FLORA": 1, 
 		"TERRI_RENNELS": 1, 
 		"VICTORIA_WINTERS": 1, 
-		"TIFFANY_VIOLET": 1
+		"TIFFANY_VIOLET": 1,
+		"DANA_BROOKE": 1
 	},
 	"TAG": [
 		{
@@ -874,7 +875,7 @@ const titleHistory = {
 			"number": 24, 
 			"name": "TOXIC ATTRACTION",
 			"members": "GIGI_DOLIN[1]&JACY_JAYNE[1]",
-			"defenses": ["DIVAS UNITE (KELLY_KELLY, ALIYAH)"]
+			"defenses": ["DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)"]
 		}
 		
 	],
@@ -894,6 +895,12 @@ const titleHistory = {
 			"name": "STACY_KEIBLER",
 			"reign": 1, 
 			"defenses": ["ALBA_FYRE", "ALBA_FYRE"]
+		},
+		{
+			"number": 4,
+			"name": "SHOTZI",
+			"reign": 1, 
+			"defenses": ["STACY_KEIBLER", "STACY_KEIBLER"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -914,6 +921,12 @@ const titleHistory = {
 			"name": "ILJA_DRAGUNOV",
 			"reign": 1,
 			"defenses": ["JOHNNY_GARGANO", "DREW_GULAK"]
+		},
+		{
+			"number": 4, 
+			"name": "DREW_GULAK",
+			"reign": 2,
+			"defenses": ["ILJA_DRAGUNOV"]
 		}
 		
 	],
@@ -922,7 +935,13 @@ const titleHistory = {
 			"number": 1, 
 			"name": "KARRION_KROSS",
 			"reign": 1,
-			"defenses": ["THE_MIZ&ILJA_DRAGUNOV&MATT_CARDONA", "MR_ENVIRONMENT", "THE_MIZ", "RIDGE_HOLLAND", "RIDGE_HOLLAND"]
+			"defenses": ["THE_MIZ&ILJA_DRAGUNOV&MATT_CARDONA", "MR_ENVIRONMENT", "THE_MIZ", "RIDGE_HOLLAND", "RIDGE_HOLLAND", "MATT_CARDONA"]
+		},
+		{
+			"number": 2, 
+			"name": "AJ_STYLES",
+			"reign": 1,
+			"defenses": ["KARRION_KROSS"]
 		}
 	]
 };
