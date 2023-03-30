@@ -346,7 +346,13 @@ const titleHistory = {
 			"number": 60, 
 			"name": "CHELSEA_GREEN",
 			"reign": 1,
-			"defenses": ["ASUKA", "ASUKA", "LIV_MORGAN"]
+			"defenses": ["ASUKA", "ASUKA", "LIV_MORGAN", "TAMINA", "DANA_BROOKE"]
+		},
+		{
+			"number": 61, 
+			"name": "LIV_MORGAN",
+			"reign": 1,
+			"defenses": ["CHELSEA_GREEN"]
 		}
 	],
 	"SMACKDOWN": [
@@ -716,6 +722,12 @@ const titleHistory = {
 			"name": "NIKKITA_LYONS",
 			"reign": 1,
 			"defenses": ["ZOEY_STARK&CORA_JADE", "ZOEY_STARK"]
+		},
+		{
+			"number": 22, 
+			"name": "ROXANNE_PEREZ",
+			"reign": 1,
+			"defenses": ["NIKKITA_LYONS"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -926,7 +938,7 @@ const titleHistory = {
 			"number": 4, 
 			"name": "DREW_GULAK",
 			"reign": 2,
-			"defenses": ["ILJA_DRAGUNOV"]
+			"defenses": ["ILJA_DRAGUNOV", "JOHNNY_GARGANO", "DEXTER_LUMIS-DQ"]
 		}
 		
 	],
@@ -941,7 +953,13 @@ const titleHistory = {
 			"number": 2, 
 			"name": "AJ_STYLES",
 			"reign": 1,
-			"defenses": ["KARRION_KROSS"]
+			"defenses": ["KARRION_KROSS", "ADAM_PEARCE", "MATT_CARDONA"]
+		},
+		{
+			"number": 3, 
+			"name": "KARRION_KROSS",
+			"reign": 2,
+			"defenses": ["AJ_STYLES&MATT_CARDONA"]
 		}
 	]
 };
