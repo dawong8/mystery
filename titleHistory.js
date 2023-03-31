@@ -962,12 +962,6 @@ const titleHistory = {
 			"defenses": ["AJ_STYLES&MATT_CARDONA", "AJ_STYLES", "ADAM_PEARCE", "MATT_CARDONA"]
 		},
 		{
-			"number": 3, 
-			"name": "KARRION_KROSS",
-			"reign": 2,
-			"defenses": ["AJ_STYLES&MATT_CARDONA", "AJ_STYLES", "ADAM_PEARCE", "MATT_CARDONA"]
-		},
-		{
 			"number": 4, 
 			"name": "FINN_BALOR",
 			"reign": 1,
