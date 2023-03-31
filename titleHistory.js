@@ -352,7 +352,7 @@ const titleHistory = {
 			"number": 61, 
 			"name": "LIV_MORGAN",
 			"reign": 1,
-			"defenses": ["CHELSEA_GREEN", "CHELSEA_GREEN", "ASUKA", "TAMINA", "CHELSEA_GREEN"]
+			"defenses": ["CHELSEA_GREEN", "CHELSEA_GREEN", "ASUKA", "TAMINA", "CHELSEA_GREEN", "CHARLOTTE_FLAIR"]
 		}
 	],
 	"SMACKDOWN": [
@@ -603,6 +603,12 @@ const titleHistory = {
 			"name": "LACEY_EVANS",
 			"reign": 1,
 			"defenses": ["SONYA_DEVILLE", "SONYA_DEVILLE", "SONYA_DEVILLE", "SARRAY", "RHEA_RIPLEY", "SARRAY", "RAQUEL_RODRIGUEZ"]
+		},
+		{
+			"number": 40, 
+			"name": "IYO_SKY",
+			"reign": 1,
+			"defenses": ["LACEY_EVANS", "LACEY_EVANS"]
 		}
 
 	], 
@@ -727,7 +733,7 @@ const titleHistory = {
 			"number": 22, 
 			"name": "ROXANNE_PEREZ",
 			"reign": 1,
-			"defenses": ["NIKKITA_LYONS"]
+			"defenses": ["NIKKITA_LYONS", "ZOEY_STARK"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -887,7 +893,7 @@ const titleHistory = {
 			"number": 24, 
 			"name": "TOXIC ATTRACTION",
 			"members": "GIGI_DOLIN[1]&JACY_JAYNE[1]",
-			"defenses": ["DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DAMAGE CTRL (IYO_SKY, DAKOTA_KAI)"]
+			"defenses": ["DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DAMAGE CTRL (IYO_SKY, DAKOTA_KAI)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)"]
 		}
 		
 	],
@@ -912,7 +918,7 @@ const titleHistory = {
 			"number": 4,
 			"name": "SHOTZI",
 			"reign": 1, 
-			"defenses": ["STACY_KEIBLER", "STACY_KEIBLER", "ALBA_FYRE", "NATALYA"]
+			"defenses": ["STACY_KEIBLER", "STACY_KEIBLER", "ALBA_FYRE", "NATALYA", "DOUDROP"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -938,7 +944,13 @@ const titleHistory = {
 			"number": 4, 
 			"name": "DREW_GULAK",
 			"reign": 2,
-			"defenses": ["ILJA_DRAGUNOV", "JOHNNY_GARGANO", "DEXTER_LUMIS-DQ", "ILJA_DRAGUNOV", "JOHNNY_GARGANO", "DEXTER_LUMIS", "JOHNNY_GARGANO", "GIOVANNI_VINCI", "JOHNNY_GARGANO"]
+			"defenses": ["ILJA_DRAGUNOV", "JOHNNY_GARGANO", "DEXTER_LUMIS-DQ", "ILJA_DRAGUNOV", "JOHNNY_GARGANO", "DEXTER_LUMIS", "JOHNNY_GARGANO", "GIOVANNI_VINCI", "JOHNNY_GARGANO", "FANDANGO"]
+		},
+		{
+			"number": 5, 
+			"name": "GIOVANNI_VINCI",
+			"reign": 1,
+			"defenses": ["DREW_GULAK"]
 		}
 		
 	],
@@ -965,7 +977,7 @@ const titleHistory = {
 			"number": 4, 
 			"name": "FINN_BALOR",
 			"reign": 1,
-			"defenses": ["KARRION_KROSS"]
+			"defenses": ["KARRION_KROSS", "AJ_STYLES"]
 		}
 	]
 };
