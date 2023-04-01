@@ -365,6 +365,12 @@ const titleHistory = {
 			"name": "SHAYNA_BASZLER",
 			"reign": 1,
 			"defenses": ["ASUKA"]
+		},
+		{
+			"number": 64, 
+			"name": "KAIRI",
+			"reign": 1,
+			"defenses": ["SHAYNA_BASZLER"]
 		}
 	],
 	"SMACKDOWN": [
@@ -626,7 +632,7 @@ const titleHistory = {
 			"number": 41, 
 			"name": "MANDY_ROSE",
 			"reign": 1,
-			"defenses": ["IYO_SKY"]
+			"defenses": ["IYO_SKY", "IYO_SKY"]
 		}
 
 	], 
@@ -912,6 +918,12 @@ const titleHistory = {
 			"name": "TOXIC ATTRACTION",
 			"members": "GIGI_DOLIN[1]&JACY_JAYNE[1]",
 			"defenses": ["DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DAMAGE CTRL (IYO_SKY, DAKOTA_KAI)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)"]
+		},
+		{
+			"number": 25, 
+			"name": "COSMIC POWER",
+			"members": "MAYU_IWANTANI[1]&SARRAY[1]",
+			"defenses": ["TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)"]
 		}
 		
 	],
@@ -937,6 +949,12 @@ const titleHistory = {
 			"name": "SHOTZI",
 			"reign": 1, 
 			"defenses": ["STACY_KEIBLER", "STACY_KEIBLER", "ALBA_FYRE", "NATALYA", "DOUDROP"]
+		},
+		{
+			"number": 5,
+			"name": "STARLIGHT_KID",
+			"reign": 1, 
+			"defenses": ["SHOTZI"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -975,6 +993,12 @@ const titleHistory = {
 			"name": "DREW_GULAK",
 			"reign": 3,
 			"defenses": ["GIOVANNI_VINCI", "GIOVANNI_VINCI"]
+		},
+		{
+			"number": 7, 
+			"name": "JOHNNY_GARGANO",
+			"reign": 2,
+			"defenses": ["DREW_GULAK"]
 		}
 		
 	],
@@ -1014,6 +1038,12 @@ const titleHistory = {
 			"name": "ADAM_PEARCE",
 			"reign": 1,
 			"defenses": ["MATT_CARDONA"]
+		},
+		{
+			"number": 7, 
+			"name": "FINN_BALOR",
+			"reign": 2,
+			"defenses": ["ADAM_PEARCE"]
 		}
 	]
 };
