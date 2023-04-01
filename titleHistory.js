@@ -353,6 +353,18 @@ const titleHistory = {
 			"name": "LIV_MORGAN",
 			"reign": 1,
 			"defenses": ["CHELSEA_GREEN", "CHELSEA_GREEN", "ASUKA", "TAMINA", "CHELSEA_GREEN", "CHARLOTTE_FLAIR", "ASUKA"]
+		},
+		{
+			"number": 62, 
+			"name": "ASUKA",
+			"reign": 2,
+			"defenses": ["LIV_MORGAN"]
+		},
+		{
+			"number": 63, 
+			"name": "SHAYNA_BASZLER",
+			"reign": 1,
+			"defenses": ["ASUKA"]
 		}
 	],
 	"SMACKDOWN": [
@@ -609,6 +621,12 @@ const titleHistory = {
 			"name": "IYO_SKY",
 			"reign": 1,
 			"defenses": ["LACEY_EVANS", "LACEY_EVANS", "RHEA_RIPLEY"]
+		},
+		{
+			"number": 41, 
+			"name": "MANDY_ROSE",
+			"reign": 1,
+			"defenses": ["IYO_SKY"]
 		}
 
 	], 
@@ -951,6 +969,12 @@ const titleHistory = {
 			"name": "GIOVANNI_VINCI",
 			"reign": 1,
 			"defenses": ["DREW_GULAK", "LA_KNIGHT", "ADAM_PEARCE"]
+		},
+		{
+			"number": 6, 
+			"name": "DREW_GULAK",
+			"reign": 3,
+			"defenses": ["GIOVANNI_VINCI", "GIOVANNI_VINCI"]
 		}
 		
 	],
@@ -983,7 +1007,13 @@ const titleHistory = {
 			"number": 5, 
 			"name": "MATT_CARDONA",
 			"reign": 1,
-			"defenses": ["FINN_BALOR&AJ_STYLES"]
+			"defenses": ["FINN_BALOR&AJ_STYLES", "FINN_BALOR"]
+		},
+		{
+			"number": 6, 
+			"name": "ADAM_PEARCE",
+			"reign": 1,
+			"defenses": ["MATT_CARDONA"]
 		}
 	]
 };
