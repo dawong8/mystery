@@ -370,7 +370,7 @@ const titleHistory = {
 			"number": 64, 
 			"name": "KAIRI",
 			"reign": 1,
-			"defenses": ["SHAYNA_BASZLER"]
+			"defenses": ["SHAYNA_BASZLER", "SHAYNA_BASZLER", "CHELSEA_GREEN", "CHELSEA_GREEN"]
 		}
 	],
 	"SMACKDOWN": [
@@ -632,7 +632,7 @@ const titleHistory = {
 			"number": 41, 
 			"name": "MANDY_ROSE",
 			"reign": 1,
-			"defenses": ["IYO_SKY", "IYO_SKY"]
+			"defenses": ["IYO_SKY", "IYO_SKY", "DAKOTA_KAI", "BAYLEY", "XIA_LI"]
 		}
 
 	], 
@@ -757,7 +757,7 @@ const titleHistory = {
 			"number": 22, 
 			"name": "ROXANNE_PEREZ",
 			"reign": 1,
-			"defenses": ["NIKKITA_LYONS", "ZOEY_STARK"]
+			"defenses": ["NIKKITA_LYONS", "ZOEY_STARK", "AMI_SOHREI", "RAM_KAICHOW-DQ", "RAM_KAICHOW", "ZOEY_STARK&RAM_KAICHOW&AMI_SOHREI&CORA_JADE"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -923,7 +923,7 @@ const titleHistory = {
 			"number": 25, 
 			"name": "COSMIC POWER",
 			"members": "MAYU_IWANTANI[1]&SARRAY[1]",
-			"defenses": ["TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)"]
+			"defenses": ["TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)"]
 		}
 		
 	],
@@ -954,7 +954,7 @@ const titleHistory = {
 			"number": 5,
 			"name": "STARLIGHT_KID",
 			"reign": 1, 
-			"defenses": ["SHOTZI"]
+			"defenses": ["SHOTZI", "NATALYA"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -998,7 +998,7 @@ const titleHistory = {
 			"number": 7, 
 			"name": "JOHNNY_GARGANO",
 			"reign": 2,
-			"defenses": ["DREW_GULAK"]
+			"defenses": ["DREW_GULAK", "FANDANGO", "ILJA_DRAGUNOV", "ILJA_DRAGUNOV"]
 		}
 		
 	],
@@ -1043,7 +1043,7 @@ const titleHistory = {
 			"number": 7, 
 			"name": "FINN_BALOR",
 			"reign": 2,
-			"defenses": ["ADAM_PEARCE"]
+			"defenses": ["ADAM_PEARCE", "RIDGE_HOLLAND", "MATT_CARDONA", "AJ_STYLES", "DREW_GULAK"]
 		}
 	]
 };
