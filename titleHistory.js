@@ -371,6 +371,12 @@ const titleHistory = {
 			"name": "KAIRI",
 			"reign": 1,
 			"defenses": ["SHAYNA_BASZLER", "SHAYNA_BASZLER", "CHELSEA_GREEN", "CHELSEA_GREEN"]
+		},
+		{
+			"number": 65, 
+			"name": "RONDA_ROUSEY",
+			"reign": 1,
+			"defenses": ["KAIRI"]
 		}
 	],
 	"SMACKDOWN": [
@@ -758,6 +764,12 @@ const titleHistory = {
 			"name": "ROXANNE_PEREZ",
 			"reign": 1,
 			"defenses": ["NIKKITA_LYONS", "ZOEY_STARK", "AMI_SOHREI", "RAM_KAICHOW-DQ", "RAM_KAICHOW", "ZOEY_STARK&RAM_KAICHOW&AMI_SOHREI&CORA_JADE"]
+		},
+		{
+			"number": 23, 
+			"name": "RIHO",
+			"reign": 1,
+			"defenses": ["ROXANNE_PEREZ"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -955,6 +967,18 @@ const titleHistory = {
 			"name": "STARLIGHT_KID",
 			"reign": 1, 
 			"defenses": ["SHOTZI", "NATALYA"]
+		},
+		{
+			"number": 6,
+			"name": "VACATED"
+		}
+	],
+	"US": [
+		{
+			"number": 1, 
+			"name": "UNAGI_SAYAKA",
+			"reign": 1,
+			"defenses": ["CAMERON&ALBA_FYRE"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -998,7 +1022,7 @@ const titleHistory = {
 			"number": 7, 
 			"name": "JOHNNY_GARGANO",
 			"reign": 2,
-			"defenses": ["DREW_GULAK", "FANDANGO", "ILJA_DRAGUNOV", "ILJA_DRAGUNOV"]
+			"defenses": ["DREW_GULAK", "FANDANGO", "ILJA_DRAGUNOV", "ILJA_DRAGUNOV", "CASH_WHEELER"]
 		}
 		
 	],
