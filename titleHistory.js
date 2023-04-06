@@ -376,7 +376,7 @@ const titleHistory = {
 			"number": 65, 
 			"name": "RONDA_ROUSEY",
 			"reign": 1,
-			"defenses": ["KAIRI"]
+			"defenses": ["KAIRI", "KAIRI&CHELSEA_GREEN"]
 		}
 	],
 	"SMACKDOWN": [
@@ -638,7 +638,7 @@ const titleHistory = {
 			"number": 41, 
 			"name": "MANDY_ROSE",
 			"reign": 1,
-			"defenses": ["IYO_SKY", "IYO_SKY", "DAKOTA_KAI", "BAYLEY", "XIA_LI"]
+			"defenses": ["IYO_SKY", "IYO_SKY", "DAKOTA_KAI", "BAYLEY", "XIA_LI", "XIA_LI"]
 		}
 
 	], 
@@ -936,6 +936,12 @@ const titleHistory = {
 			"name": "COSMIC POWER",
 			"members": "MAYU_IWANTANI[1]&SARRAY[1]",
 			"defenses": ["TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)"]
+		},
+		{
+			"number": 26, 
+			"name": "THE RESISTANCE",
+			"members": "LACEY_EVANS[1]&NATALYA[2]",
+			"defenses": ["COSMIC POWER (MAYU_IWANTANI, SARRAY)"]
 		}
 		
 	],
@@ -971,14 +977,21 @@ const titleHistory = {
 		{
 			"number": 6,
 			"name": "VACATED"
+		},
+		{
+			"number": 7,
+			"name": "TAM_NAKANO",
+			"reign": 1, 
+			"defenses": ["RAQUEL_RODRIGUEZ&CANDICE_LERAE&XIA_LI&ZELINA_VEGA&AZM&NATALYA&SHOTZI", "RAQUEL_RODRIGUEZ"]
 		}
+		
 	],
 	"US": [
 		{
 			"number": 1, 
 			"name": "UNAGI_SAYAKA",
 			"reign": 1,
-			"defenses": ["CAMERON&ALBA_FYRE"]
+			"defenses": ["CAMERON&ALBA_FYRE", "ALBA_FYRE"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1023,6 +1036,12 @@ const titleHistory = {
 			"name": "JOHNNY_GARGANO",
 			"reign": 2,
 			"defenses": ["DREW_GULAK", "FANDANGO", "ILJA_DRAGUNOV", "ILJA_DRAGUNOV", "CASH_WHEELER"]
+		},
+		{
+			"number": 8, 
+			"name": "GIOVANNI_VINCI",
+			"reign": 2,
+			"defenses": ["JOHNNY_GARGANO", "DEXTER_LUMIS"]
 		}
 		
 	],
@@ -1068,6 +1087,12 @@ const titleHistory = {
 			"name": "FINN_BALOR",
 			"reign": 2,
 			"defenses": ["ADAM_PEARCE", "RIDGE_HOLLAND", "MATT_CARDONA", "AJ_STYLES", "DREW_GULAK"]
+		},
+		{
+			"number": 8, 
+			"name": "JON_MOXLEY",
+			"reign": 1,
+			"defenses": ["FINN_BALOR", "ADAM_PEARCE", "KARRION_KROSS-DQ"]
 		}
 	]
 };
