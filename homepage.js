@@ -210,6 +210,7 @@ let shortHandDictionary = {
     "TAG": "TAG",
     "NXT": "NXT",
     "HD": "HARDCORE",
+    "US": "US",
     "AT": "ALPHA-TOP",
     "WT": "WORLD-TOP"
 };
