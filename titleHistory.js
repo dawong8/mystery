@@ -376,7 +376,13 @@ const titleHistory = {
 			"number": 65, 
 			"name": "RONDA_ROUSEY",
 			"reign": 1,
-			"defenses": ["KAIRI", "KAIRI&CHELSEA_GREEN"]
+			"defenses": ["KAIRI", "KAIRI&CHELSEA_GREEN", "MINA_SHIRAKAWA"]
+		},
+		{
+			"number": 66, 
+			"name": "SYURI",
+			"reign": 1,
+			"defenses": ["RONDA_ROUSEY"]
 		}
 	],
 	"SMACKDOWN": [
@@ -639,6 +645,12 @@ const titleHistory = {
 			"name": "MANDY_ROSE",
 			"reign": 1,
 			"defenses": ["IYO_SKY", "IYO_SKY", "DAKOTA_KAI", "BAYLEY", "XIA_LI", "XIA_LI"]
+		},
+		{
+			"number": 42, 
+			"name": "MAYU_IWATANI",
+			"reign": 1,
+			"defenses": ["MANDY_ROSE"]
 		}
 
 	], 
@@ -769,7 +781,7 @@ const titleHistory = {
 			"number": 23, 
 			"name": "RIHO",
 			"reign": 1,
-			"defenses": ["ROXANNE_PEREZ"]
+			"defenses": ["ROXANNE_PEREZ", "NIKKITA_LYONS"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -934,14 +946,20 @@ const titleHistory = {
 		{
 			"number": 25, 
 			"name": "COSMIC POWER",
-			"members": "MAYU_IWANTANI[1]&SARRAY[1]",
+			"members": "MAYU_IWATANI[1]&SARRAY[1]",
 			"defenses": ["TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)"]
 		},
 		{
 			"number": 26, 
 			"name": "THE RESISTANCE",
 			"members": "LACEY_EVANS[1]&NATALYA[2]",
-			"defenses": ["COSMIC POWER (MAYU_IWANTANI, SARRAY)"]
+			"defenses": ["COSMIC POWER (MAYU_IWATANI, SARRAY)"]
+		},
+		{
+			"number": 27, 
+			"name": "DAMAGE CTRL",
+			"members": "IYO_SKY[1]&DAKOTA_KAI[1]",
+			"defenses": ["THE RESISTANCE (LACEY_EVANS, NATALYA)"]
 		}
 		
 	],
@@ -982,7 +1000,7 @@ const titleHistory = {
 			"number": 7,
 			"name": "TAM_NAKANO",
 			"reign": 1, 
-			"defenses": ["RAQUEL_RODRIGUEZ&CANDICE_LERAE&XIA_LI&ZELINA_VEGA&AZM&NATALYA&SHOTZI", "RAQUEL_RODRIGUEZ"]
+			"defenses": ["RAQUEL_RODRIGUEZ&CANDICE_LERAE&XIA_LI&ZELINA_VEGA&AZM&NATALYA&SHOTZI", "RAQUEL_RODRIGUEZ", "SONYA_DEVILLE"]
 		}
 		
 	],
@@ -991,7 +1009,7 @@ const titleHistory = {
 			"number": 1, 
 			"name": "UNAGI_SAYAKA",
 			"reign": 1,
-			"defenses": ["CAMERON&ALBA_FYRE", "ALBA_FYRE"]
+			"defenses": ["CAMERON&ALBA_FYRE", "ALBA_FYRE", "TIFFANY_STRATTON"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1041,7 +1059,7 @@ const titleHistory = {
 			"number": 8, 
 			"name": "GIOVANNI_VINCI",
 			"reign": 2,
-			"defenses": ["JOHNNY_GARGANO", "DEXTER_LUMIS"]
+			"defenses": ["JOHNNY_GARGANO", "DEXTER_LUMIS", "RIDGE_HOLLAND"]
 		}
 		
 	],
@@ -1092,7 +1110,7 @@ const titleHistory = {
 			"number": 8, 
 			"name": "JON_MOXLEY",
 			"reign": 1,
-			"defenses": ["FINN_BALOR", "ADAM_PEARCE", "KARRION_KROSS-DQ"]
+			"defenses": ["FINN_BALOR", "ADAM_PEARCE", "KARRION_KROSS-DQ", "DANIEL_BRYAN", "KARRION_KROSS", "DREW_GULAK"]
 		}
 	]
 };
