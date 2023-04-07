@@ -383,6 +383,12 @@ const titleHistory = {
 			"name": "SYURI",
 			"reign": 1,
 			"defenses": ["RONDA_ROUSEY"]
+		},
+		{
+			"number": 67, 
+			"name": "RONDA_ROUSEY",
+			"reign": 2,
+			"defenses": ["SYURI&MAYU_IWATANI&UNAGI_SAYAKA&TAM_NAKANO-WARGAMES"]
 		}
 	],
 	"SMACKDOWN": [
@@ -651,6 +657,12 @@ const titleHistory = {
 			"name": "MAYU_IWATANI",
 			"reign": 1,
 			"defenses": ["MANDY_ROSE"]
+		},
+		{
+			"number": 43, 
+			"name": "MANDY_ROSE",
+			"reign": 2,
+			"defenses": ["SYURI&MAYU_IWATANI&UNAGI_SAYAKA&TAM_NAKANO-WARGAMES"]
 		}
 
 	], 
@@ -1001,6 +1013,12 @@ const titleHistory = {
 			"name": "TAM_NAKANO",
 			"reign": 1, 
 			"defenses": ["RAQUEL_RODRIGUEZ&CANDICE_LERAE&XIA_LI&ZELINA_VEGA&AZM&NATALYA&SHOTZI", "RAQUEL_RODRIGUEZ", "SONYA_DEVILLE"]
+		},
+		{
+			"number": 8, 
+			"name": "RHEA_RIPLEY",
+			"reign": 1,
+			"defenses": ["SYURI&MAYU_IWATANI&UNAGI_SAYAKA&TAM_NAKANO-WARGAMES", "TAM_NAKANO"]
 		}
 		
 	],
@@ -1010,6 +1028,12 @@ const titleHistory = {
 			"name": "UNAGI_SAYAKA",
 			"reign": 1,
 			"defenses": ["CAMERON&ALBA_FYRE", "ALBA_FYRE", "TIFFANY_STRATTON"]
+		},
+		{
+			"number": 2, 
+			"name": "SHAYNA_BASZLER",
+			"reign": 1,
+			"defenses": ["SYURI&MAYU_IWATANI&UNAGI_SAYAKA&TAM_NAKANO-WARGAMES"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1060,6 +1084,12 @@ const titleHistory = {
 			"name": "GIOVANNI_VINCI",
 			"reign": 2,
 			"defenses": ["JOHNNY_GARGANO", "DEXTER_LUMIS", "RIDGE_HOLLAND"]
+		},
+		{
+			"number": 9, 
+			"name": "RIDGE_HOLLAND",
+			"reign": 1,
+			"defenses": ["GIOVANNI_VINCI"]
 		}
 		
 	],
@@ -1110,7 +1140,7 @@ const titleHistory = {
 			"number": 8, 
 			"name": "JON_MOXLEY",
 			"reign": 1,
-			"defenses": ["FINN_BALOR", "ADAM_PEARCE", "KARRION_KROSS-DQ", "DANIEL_BRYAN", "KARRION_KROSS", "DREW_GULAK"]
+			"defenses": ["FINN_BALOR", "ADAM_PEARCE", "KARRION_KROSS-DQ", "DANIEL_BRYAN", "KARRION_KROSS", "DREW_GULAK", "MATT_CARDONA"]
 		}
 	]
 };
