@@ -394,7 +394,7 @@ const titleHistory = {
 			"number": 68, 
 			"name": "KAIRI",
 			"reign": 2,
-			"defenses": ["SAYA_KAMITANI&RONDA_ROUSEY", "RONDA_ROUSEY", "DANA_BROOKE&CHELSEA_GREEN&RONDA_ROUSEY"]
+			"defenses": ["SAYA_KAMITANI&RONDA_ROUSEY", "RONDA_ROUSEY", "DANA_BROOKE&CHELSEA_GREEN&RONDA_ROUSEY", "RONDA_ROUSEY", "TIFFANY_STRATTON-DQ", "TIFFANY_STRATTON"]
 		}
 	],
 	"SMACKDOWN": [
@@ -674,7 +674,7 @@ const titleHistory = {
 			"number": 44, 
 			"name": "AZM",
 			"reign": 1,
-			"defenses": ["MANDY_ROSE"]
+			"defenses": ["MANDY_ROSE", "MANDY_ROSE", "SONYA_DEVILLE&MANDY_ROSE", "RAQUEL_RODRIGUEZ"]
 		}
 
 	], 
@@ -805,7 +805,7 @@ const titleHistory = {
 			"number": 23, 
 			"name": "RIHO",
 			"reign": 1,
-			"defenses": ["ROXANNE_PEREZ", "NIKKITA_LYONS", "BIANCA_BELAIR&NIKKITA_LYONS"]
+			"defenses": ["ROXANNE_PEREZ", "NIKKITA_LYONS", "BIANCA_BELAIR&NIKKITA_LYONS", "ZOEY_STARK"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -815,7 +815,9 @@ const titleHistory = {
 		"HEAVY_FLO": 1, 
 		"AMY_ORTON": 1, 
 		"TIFFANY_VIOLET": 1, 
-		"NICOLE_SUNSHINE": 1
+		"NICOLE_SUNSHINE": 1,
+		"ADAM_PEARCE": 1, 
+		"MANDY_ROSE": 1
 	},
 	"MITB": {
 		"JELINA_LOPEZ": 1, 
@@ -989,7 +991,7 @@ const titleHistory = {
 			"number": 28, 
 			"name": "THE RESISTANCE",
 			"members": "LACEY_EVANS[2]&NATALYA[3]",
-			"defenses": ["DAMAGE CTRL (IYO_SKY, DAKOTA_KAI)"]
+			"defenses": ["DAMAGE CTRL (IYO_SKY, DAKOTA_KAI)", "DAMAGE CTRL (IYO_SKY, DAKOTA_KAI)", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)"]
 		}
 		
 	],
@@ -1043,8 +1045,19 @@ const titleHistory = {
 			"name": "XIA_LI",
 			"reign": 1,
 			"defenses": ["RHEA_RIPLEY"]
+		},
+		{
+			"number": 10, 
+			"name": "ZELINA_VEGA",
+			"reign": 1,
+			"defenses": ["XIA_LI"]
+		},
+		{
+			"number": 11, 
+			"name": "XIA_LI",
+			"reign": 2,
+			"defenses": ["STARLIGHT_KID&ZELINA_VEGA"]
 		}
-		
 	],
 	"US": [
 		{
@@ -1057,8 +1070,14 @@ const titleHistory = {
 			"number": 2, 
 			"name": "SHAYNA_BASZLER",
 			"reign": 1,
-			"defenses": ["SYURI&MAYU_IWATANI&UNAGI_SAYAKA&TAM_NAKANO-WARGAMES", "UNAGI_SAYAKA", "MINA_SHIRAKAWA"]
-		}
+			"defenses": ["SYURI&MAYU_IWATANI&UNAGI_SAYAKA&TAM_NAKANO-WARGAMES", "UNAGI_SAYAKA", "MINA_SHIRAKAWA", "SAYA_KAMITANI"]
+		},
+		{
+			"number": 3, 
+			"name": "UNAGI_SAYAKA",
+			"reign": 2,
+			"defenses": ["SHAYNA_BASZLER"]
+		},
 	],
 	"ALPHA-TOP":[
 		{
@@ -1113,7 +1132,19 @@ const titleHistory = {
 			"number": 9, 
 			"name": "RIDGE_HOLLAND",
 			"reign": 1,
-			"defenses": ["GIOVANNI_VINCI", "LA_KNIGHT", "GIOVANNI_VINCI", "JOHNNY_GARGANO", "JOHNNY_GARGANO"]
+			"defenses": ["GIOVANNI_VINCI", "LA_KNIGHT", "GIOVANNI_VINCI", "JOHNNY_GARGANO", "JOHNNY_GARGANO", "FANDANGO"]
+		},
+		{
+			"number": 10, 
+			"name": "GIOVANNI_VINCI",
+			"reign": 3,
+			"defenses": ["RIDGE_HOLLAND"]
+		},
+		{
+			"number": 11, 
+			"name": "RIDGE_HOLLAND",
+			"reign": 2,
+			"defenses": ["GIOVANNI_VINCI"]
 		}
 		
 	],
@@ -1170,7 +1201,14 @@ const titleHistory = {
 			"number": 9, 
 			"name": "FINN_BALOR",
 			"reign": 3,
-			"defenses": ["JON_MOXLEY", "KARRION_KROSS&DREW_GULAK&JON_MOXLEY", "JON_MOXLEY"]
+			"defenses": ["JON_MOXLEY", "KARRION_KROSS&DREW_GULAK&JON_MOXLEY", "JON_MOXLEY", "DREW_GULAK"]
+		},
+		{
+			"number": 10, 
+			"name": "DREW_GULAK",
+			"reign": 1,
+			"defenses": ["AJ_STYLES&FINN_BALOR", "FINN_BALOR"]
 		}
+		
 	]
 };
