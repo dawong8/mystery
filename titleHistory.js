@@ -407,6 +407,12 @@ const titleHistory = {
 			"name": "LIV_MORGAN",
 			"reign": 2,
 			"defenses": ["SHAYNA_BASZLER", "RONDA_ROUSEY", "TIFFANY_STRATTON-DQ"]
+		},
+		{
+			"number": 71, 
+			"name": "TIFFANY_STRATTON",
+			"reign": 1,
+			"defenses": ["LIV_MORGAN"]
 		}
 	],
 	"SMACKDOWN": [
@@ -692,7 +698,7 @@ const titleHistory = {
 			"number": 45, 
 			"name": "MANDY_ROSE",
 			"reign": 3,
-			"defenses": ["AZM&SONYA_DEVILLE"]
+			"defenses": ["AZM&SONYA_DEVILLE", "MAYU_IWATANI",  "IYO_SKY"]
 		}
 
 	], 
@@ -1080,7 +1086,7 @@ const titleHistory = {
 			"number": 12, 
 			"name": "SONYA_DEVILLE",
 			"reign": 1,
-			"defenses": ["XIA_LI"]
+			"defenses": ["XIA_LI", "BAYLEY"]
 		}
 	],
 	"US": [
@@ -1106,7 +1112,7 @@ const titleHistory = {
 			"number": 4, 
 			"name": "DOUDROP",
 			"reign": 1,
-			"defenses": ["UNAGI_SAYAKA", "MINA_SHIRAKAWA"]
+			"defenses": ["UNAGI_SAYAKA", "MINA_SHIRAKAWA", "UNAGI_SAYAKA"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1180,7 +1186,7 @@ const titleHistory = {
 			"number": 12, 
 			"name": "CASH_WHEELER",
 			"reign": 1,
-			"defenses": ["RIDGE_HOLLAND", "FANDANGO"]
+			"defenses": ["RIDGE_HOLLAND", "FANDANGO", "DOLPH_ZIGGLER"]
 		}
 		
 	],
@@ -1249,7 +1255,13 @@ const titleHistory = {
 			"number": 11, 
 			"name": "KARRION_KROSS",
 			"reign": 3,
-			"defenses": ["DREW_GULAK"]
+			"defenses": ["DREW_GULAK", "ADAM_PEARCE"]
+		},
+		{
+			"number": 12, 
+			"name": "FINN_BALOR",
+			"reign": 4,
+			"defenses": ["KARRION_KROSS"]
 		}
 		
 	]
