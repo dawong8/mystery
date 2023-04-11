@@ -406,7 +406,7 @@ const titleHistory = {
 			"number": 70, 
 			"name": "LIV_MORGAN",
 			"reign": 2,
-			"defenses": ["SHAYNA_BASZLER"]
+			"defenses": ["SHAYNA_BASZLER", "RONDA_ROUSEY", "TIFFANY_STRATTON-DQ"]
 		}
 	],
 	"SMACKDOWN": [
