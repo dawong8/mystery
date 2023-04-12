@@ -418,7 +418,7 @@ const titleHistory = {
 			"number": 72, 
 			"name": "RONDA_ROUSEY",
 			"reign": 3,
-			"defenses": ["MINA_SHIRAKAWA&KAIRI&TIFFANY_STRATTON"]
+			"defenses": ["MINA_SHIRAKAWA&KAIRI&TIFFANY_STRATTON", "CHELSEA_GREEN", "KAIRI", "MINA_SHIRAKAWA"]
 		}
 	],
 	"SMACKDOWN": [
@@ -710,7 +710,7 @@ const titleHistory = {
 			"number": 46, 
 			"name": "TAM_NAKANO",
 			"reign": 1,
-			"defenses": ["MANDY_ROSE", "MANDY_ROSE&RHEA_RIPLEY&IYO_SKY&MAYU_IWATANI"]
+			"defenses": ["MANDY_ROSE", "MANDY_ROSE&RHEA_RIPLEY&IYO_SKY&MAYU_IWATANI", "MANDY_ROSE", "RHEA_RIPLEY"]
 		}
 
 	], 
@@ -1298,9 +1298,9 @@ const titleHistory = {
 	"MENS-TAG":[
 		{
 			"number": 1, 
-			"name": "DIVAS OF DOOM",
-			"members": "BETH_PHOENIX[1]&NATALYA[1]",
-			"defenses": ["FAB LOVE (JASMINE_LOVE, CARMELLA)", "BELLA TWINS", "AMBER_LEE, GAIL_KIM"]
+			"name": "THE BRO JOBS",
+			"members": "JOHN_MORRISON[1]&MATT_CARDONA[1]",
+			"defenses": ["THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS) & HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)"]
 		},
 	]
 };
