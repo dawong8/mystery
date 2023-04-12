@@ -1294,5 +1294,13 @@ const titleHistory = {
 			"defenses": ["KARRION_KROSS", "KARRION_KROSS"]
 		}
 		
+	],
+	"MENS-TAG":[
+		{
+			"number": 1, 
+			"name": "DIVAS OF DOOM",
+			"members": "BETH_PHOENIX[1]&NATALYA[1]",
+			"defenses": ["FAB LOVE (JASMINE_LOVE, CARMELLA)", "BELLA TWINS", "AMBER_LEE, GAIL_KIM"]
+		},
 	]
 };

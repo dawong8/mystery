@@ -9,6 +9,7 @@ const $titleName = $("#title-name");
 const $sortToggle = $("#sort-toggle");
 const $table = $("#table"); 
 const $hof = $("#hof");
+const $nameCol = $("#nameCol");
 // sort by # of reigns
 
 function sortByReign(titleName) {
@@ -146,22 +147,45 @@ function renderTable(titleArray, byReign=false) {
         let reignNumStr = typeof titleArray[i].reign !== "undefined" && titleArray[i].reign != 1 && !byReign ? `(${titleArray[i].reign})` : ""; 
         let currTxt = isCurrent && !byReign ? "(Current) " : ""; 
         let champName = titleArray[i].name.replace("_", " ");
-        let $name = $(`<td>${champName + " " + reignNumStr + " " + currTxt}</td>`);
+        let $name = $(`<td class="name-cell"></td>`);
         let picName = champName.replace(" ", "").toLowerCase();
+        let $nameplate = $(`<p>${champName + " " + reignNumStr + " " + currTxt} </p>`);
+
+        // let $picture = $(`<td/>`);
 
         if (titleArray[i].name !== "VACATED" && !isTag) {
             let $profilepic = $(`<img src="https://dawong8.github.io/portfolio/public/${picName}.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic"/>`);
             $name.append($profilepic);
         } else if (isTag && titleArray[i].name !== "VACATED") {
+
             let parsedText = titleArray[i].members.replaceAll("[", "(").replaceAll("]", ")").replaceAll("_", " ");
             let splitArr = parsedText.split("&");
-            let member1 = splitArr[0].charAt(splitArr[0].length-2) == "1" ? splitArr[0].split("(")[0] : splitArr[0];
-            let member2 = splitArr[1].charAt(splitArr[1].length-2) == "1" ? splitArr[1].split("(")[0] : splitArr[1];
+            let memberName1 = splitArr[0].split("(")[0];
+            let memberName2 = splitArr[1].split("(")[0];
+            let member1 = splitArr[0].charAt(splitArr[0].length-2) == "1" ? memberName1 : splitArr[0];
+            let member2 = splitArr[1].charAt(splitArr[1].length-2) == "1" ? memberName2 : splitArr[1];
+            // handle tag pics
+
+            memberName1 = memberName1.replaceAll(" ", "").toLowerCase();
+            memberName2 = memberName2.replaceAll(" ", "").toLowerCase();
+
+            let $picContainer = $(`<div/>`)
+            let $pic1 = $(`<img src="https://dawong8.github.io/portfolio/public/${memberName1}.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic"/>`);
+            let $pic2 = $(`<img src="https://dawong8.github.io/portfolio/public/${memberName2}.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic"/>`);
+
+            $picContainer.append($pic1);
+            $picContainer.append($pic2);
+
+            $name.append($picContainer);
+            // handle texts and names 
+
+
             let $members = $(`<span class="tag-member">${member1} & ${member2}</span>`);
             $name.append($members);
         } else {
             $name.css({color: "grey"});
         }
+        $name.append($nameplate)
 
         // if current Champ 
         if (isCurrent && !byReign) {
@@ -169,6 +193,8 @@ function renderTable(titleArray, byReign=false) {
         }
 
         $row.append($name); 
+        // $row.append($picture); 
+
         if (!byReign) {
             $row.append(getDefenses(titleArray[i].defenses));
         } else {
@@ -188,14 +214,16 @@ renderTable(titleHistory["RAW"]);
 
 
 
-
-
-$("#sidebar").mouseenter(function() {
+function openBar() {
     $sidebarButton.html("");
-    $(this).animate({width: "65%", opacity: ".9"}, {
+    $("#sidebar").animate({width: "100%", opacity: ".9"}, {
         complete: () => {$sidebarButton.html("x");}
     });    
     $sidebarContent.removeClass("hide");
+}
+
+$("#sidebar").mouseenter(function() {
+    openBar();
 }); 
 
 $("#sidebar-button").click(function() {
@@ -212,12 +240,15 @@ let shortHandDictionary = {
     "HD": "HARDCORE",
     "US": "US",
     "AT": "ALPHA-TOP",
-    "WT": "WORLD-TOP"
+    "WT": "WORLD-TOP",
+    "MTAG": "MENS-TAG"
 };
 $(".nav-title").click(function() {
     $hof.addClass("hide");
     $table.removeClass("hide");
     $sortToggle.removeClass("hide");
+    $nameCol.removeClass("name-width");
+    $nameCol.removeClass("tag-width");
     $(".selected").removeClass("selected");
     let $term = $(this).html().trim();
     let titleName = shortHandDictionary[$term]; 
@@ -232,11 +263,14 @@ $(".nav-title").click(function() {
     } 
     if ($term === "TAG") {
         $sortToggle.addClass("hide");
+        $nameCol.addClass("tag-width");
+    } else {
+        $nameCol.addClass("name-width");
     }
 
     $titleName.html(titleName + " Championship");
 
-    let sortText = $sortToggle.text().trim(); 
+    // let sortText = $sortToggle.text().trim(); 
     renderTable(titleHistory[titleName]);
     $sortToggle.html("SORT BY REIGNS");
 
@@ -265,5 +299,8 @@ $sortToggle.click(function() {
 
 $(window).on("load", function() {
     // weave your magic here.
-    console.log("Everything is loaded")
+    console.log("Everything is loaded");
+
+
+    openBar();
 });
