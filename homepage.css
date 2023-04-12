@@ -7,6 +7,9 @@
 	scroll-behavior: smooth;
 
 }
+p {
+	margin-bottom: 0;
+}
 ::-webkit-scrollbar {
     display: none;
 }
@@ -136,4 +139,17 @@ table {
 
 .hof-nameplate{
 	text-align: center;
+}
+
+
+.name-cell{
+	text-align: center;
+	vertical-align: middle;
+}
+.name-width {
+	width:25%;
+}
+
+.tag-width {
+	width:40%;
 }
