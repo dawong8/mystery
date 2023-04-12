@@ -413,6 +413,12 @@ const titleHistory = {
 			"name": "TIFFANY_STRATTON",
 			"reign": 1,
 			"defenses": ["LIV_MORGAN"]
+		},
+		{
+			"number": 72, 
+			"name": "RONDA_ROUSEY",
+			"reign": 3,
+			"defenses": ["MINA_SHIRAKAWA&KAIRI&TIFFANY_STRATTON"]
 		}
 	],
 	"SMACKDOWN": [
@@ -699,6 +705,12 @@ const titleHistory = {
 			"name": "MANDY_ROSE",
 			"reign": 3,
 			"defenses": ["AZM&SONYA_DEVILLE", "MAYU_IWATANI",  "IYO_SKY"]
+		},
+		{
+			"number": 46, 
+			"name": "TAM_NAKANO",
+			"reign": 1,
+			"defenses": ["MANDY_ROSE", "MANDY_ROSE&RHEA_RIPLEY&IYO_SKY&MAYU_IWATANI"]
 		}
 
 	], 
@@ -1015,7 +1027,13 @@ const titleHistory = {
 			"number": 28, 
 			"name": "THE RESISTANCE",
 			"members": "LACEY_EVANS[2]&NATALYA[3]",
-			"defenses": ["DAMAGE CTRL (IYO_SKY, DAKOTA_KAI)", "DAMAGE CTRL (IYO_SKY, DAKOTA_KAI)", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)"]
+			"defenses": ["DAMAGE CTRL (IYO_SKY, DAKOTA_KAI)", "DAMAGE CTRL (IYO_SKY, DAKOTA_KAI)", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)", "LUNAR RUSH (AZM, SARRAY)"]
+		},
+		{
+			"number": 29, 
+			"name": "LUNAR RUSH",
+			"members": "AZM[1]&SARRAY[2]",
+			"defenses": ["THE RESISTANCE (LACEY_EVANS, NATALYA)"]
 		}
 		
 	],
@@ -1087,6 +1105,12 @@ const titleHistory = {
 			"name": "SONYA_DEVILLE",
 			"reign": 1,
 			"defenses": ["XIA_LI", "BAYLEY"]
+		},
+		{
+			"number": 13, 
+			"name": "XIA_LI",
+			"reign": 3,
+			"defenses": ["SONYA_DEVILLE"]
 		}
 	],
 	"US": [
@@ -1113,6 +1137,12 @@ const titleHistory = {
 			"name": "DOUDROP",
 			"reign": 1,
 			"defenses": ["UNAGI_SAYAKA", "MINA_SHIRAKAWA", "UNAGI_SAYAKA"]
+		},
+		{
+			"number": 5, 
+			"name": "SAYA_KAMITANI",
+			"reign": 1,
+			"defenses": ["DOUDROP"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1186,7 +1216,7 @@ const titleHistory = {
 			"number": 12, 
 			"name": "CASH_WHEELER",
 			"reign": 1,
-			"defenses": ["RIDGE_HOLLAND", "FANDANGO", "DOLPH_ZIGGLER"]
+			"defenses": ["RIDGE_HOLLAND", "FANDANGO", "DOLPH_ZIGGLER", "RIDGE_HOLLAND&FANDANGO"]
 		}
 		
 	],
@@ -1261,7 +1291,7 @@ const titleHistory = {
 			"number": 12, 
 			"name": "FINN_BALOR",
 			"reign": 4,
-			"defenses": ["KARRION_KROSS"]
+			"defenses": ["KARRION_KROSS", "KARRION_KROSS"]
 		}
 		
 	]
