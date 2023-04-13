@@ -144,6 +144,8 @@ function renderTable(titleArray, byReign=false) {
     for (let i = titleArray.length - 1; i >= 0; i--) {
         let isCurrent = i === titleArray.length-1; 
         let $row = $("<tr/>");
+        let $reignNo = $(`<td>${titleArray[i].number}</td>`);
+        $row.append($reignNo);
         let reignNumStr = typeof titleArray[i].reign !== "undefined" && titleArray[i].reign != 1 && !byReign ? `(${titleArray[i].reign})` : ""; 
         let currTxt = isCurrent && !byReign ? "(Current) " : ""; 
         let champName = titleArray[i].name.replace("_", " ");
