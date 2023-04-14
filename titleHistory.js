@@ -425,6 +425,18 @@ const titleHistory = {
 			"name": "KAIRI",
 			"reign": 3,
 			"defenses": ["RONDA_ROUSEY", "RONDA_ROUSEY"]
+		},
+		{
+			"number": 74, 
+			"name": "SHAYNA_BASZLER",
+			"reign": 3,
+			"defenses": ["KAIRI", "KAIRI"]
+		},
+		{
+			"number": 75, 
+			"name": "KAIRI",
+			"reign": 4,
+			"defenses": ["SHAYNA_BASZLER"]
 		}
 	],
 	"SMACKDOWN": [
@@ -723,6 +735,12 @@ const titleHistory = {
 			"name": "LACEY_EVANS",
 			"reign": 2,
 			"defenses": ["TAM_NAKANO&MANDY_ROSE", "BAYLEY", "IYO_SKY"]
+		},
+		{
+			"number": 48, 
+			"name": "IYO_SKY",
+			"reign": 2,
+			"defenses": ["LACEY_EVANS", "MANDY_ROSE"]
 		}
 
 	], 
@@ -854,6 +872,12 @@ const titleHistory = {
 			"name": "RIHO",
 			"reign": 1,
 			"defenses": ["ROXANNE_PEREZ", "NIKKITA_LYONS", "BIANCA_BELAIR&NIKKITA_LYONS", "ZOEY_STARK"]
+		},
+		{
+			"number": 24, 
+			"name": "ROXANNE_PEREZ",
+			"reign": 2,
+			"defenses": ["RIHO"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -874,7 +898,9 @@ const titleHistory = {
 		"TERRI_RENNELS": 1, 
 		"VICTORIA_WINTERS": 1, 
 		"TIFFANY_VIOLET": 1,
-		"DANA_BROOKE": 1
+		"DANA_BROOKE": 1,
+		"RIDGE_HOLLAND": 1,
+		"UNAGI_SAYAKA": 1
 	},
 	"TAG": [
 		{
@@ -1045,7 +1071,7 @@ const titleHistory = {
 			"number": 29, 
 			"name": "LUNAR RUSH",
 			"members": "AZM[1]&SARRAY[2]",
-			"defenses": ["THE RESISTANCE (LACEY_EVANS, NATALYA)", "TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)"]
+			"defenses": ["THE RESISTANCE (LACEY_EVANS, NATALYA)", "TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)"]
 		}
 		
 	],
@@ -1123,6 +1149,18 @@ const titleHistory = {
 			"name": "XIA_LI",
 			"reign": 3,
 			"defenses": ["SONYA_DEVILLE", "NATALYA", "NATALYA"]
+		},
+		{
+			"number": 14, 
+			"name": "NATALYA",
+			"reign": 1,
+			"defenses": ["XIA_LI"]
+		},
+		{
+			"number": 13, 
+			"name": "STARLIGHT_KID",
+			"reign": 2,
+			"defenses": ["NATALYA", "SHOTZI"]
 		}
 	],
 	"US": [
@@ -1155,6 +1193,18 @@ const titleHistory = {
 			"name": "SAYA_KAMITANI",
 			"reign": 1,
 			"defenses": ["DOUDROP", "DOUDROP"]
+		},
+		{
+			"number": 6, 
+			"name": "CARMELLA",
+			"reign": 1,
+			"defenses": ["SAYA_KAMITANI"]
+		},
+		{
+			"number": 7, 
+			"name": "MINA_SHIRAKAWA",
+			"reign": 1,
+			"defenses": ["CARMELLA", "DOUDROP"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1234,7 +1284,13 @@ const titleHistory = {
 			"number": 13, 
 			"name": "DOLPH_ZIGGLER",
 			"reign": 1,
-			"defenses": ["RIDGE_HOLLAND&CASH_WHEELER", "RIDGE_HOLLAND"]
+			"defenses": ["RIDGE_HOLLAND&CASH_WHEELER", "RIDGE_HOLLAND", "JOHNNY_GARGANO", "CASH_WHEELER"]
+		},
+		{
+			"number": 14, 
+			"name": "DEXTER_LUMIS",
+			"reign": 1,
+			"defenses": ["DOLPH_ZIGGLER"]
 		}
 		
 	],
@@ -1310,6 +1366,12 @@ const titleHistory = {
 			"name": "FINN_BALOR",
 			"reign": 4,
 			"defenses": ["KARRION_KROSS", "KARRION_KROSS", "ADAM_COLE", "MATT_CARDONA"]
+		},
+		{
+			"number": 13, 
+			"name": "THE_MIZ",
+			"reign": 1,
+			"defenses": ["FINN_BALOR", "AJ_STYLES", "ADAM_PEARCE"]
 		}
 		
 	],
@@ -1330,7 +1392,13 @@ const titleHistory = {
 			"number": 3, 
 			"name": "EIFFEL TOWER",
 			"members": "FANDANGO[1]&GIOVANNI_VINCI[1]",
-			"defenses": ["THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)"]
+			"defenses": ["THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)"]
+		},
+		{
+			"number": 4, 
+			"name": "HARSH PUNISHMENT",
+			"members": "ILJA_DRAGUNOV[1]&JON_MOXLEY[1]",
+			"defenses": ["EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)"]
 		}
 	]
 };
