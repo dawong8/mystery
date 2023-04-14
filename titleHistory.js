@@ -878,6 +878,12 @@ const titleHistory = {
 			"name": "ROXANNE_PEREZ",
 			"reign": 2,
 			"defenses": ["RIHO"]
+		},
+		{
+			"number": 25, 
+			"name": "MAYU_IWATANI",
+			"reign": 1,
+			"defenses": ["ROXANNE_PEREZ&LACEY_EVANS", "LACEY_EVANS-DQ"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1072,6 +1078,18 @@ const titleHistory = {
 			"name": "LUNAR RUSH",
 			"members": "AZM[1]&SARRAY[2]",
 			"defenses": ["THE RESISTANCE (LACEY_EVANS, NATALYA)", "TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)", "DIVAS UNITE (KELLY_KELLY, ALIYAH)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)"]
+		},
+		{
+			"number": 30, 
+			"name": "TOXIC ATTRACTION (FIRE & DESIRE)",
+			"members": "MANDY_ROSE[2]&SONYA_DEVILLE[1]",
+			"defenses": ["LUNAR RUSH (AZM, SARRAY)"]
+		},
+		{
+			"number": 31, 
+			"name": "LUNAR RUSH",
+			"members": "AZM[2]&SARRAY[3]",
+			"defenses": ["TOXIC ATTRACTION/FIRE & DESIRE (MANDY_ROSE, SONYA_DEVILLE)", "TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)"]
 		}
 		
 	],
@@ -1157,7 +1175,7 @@ const titleHistory = {
 			"defenses": ["XIA_LI"]
 		},
 		{
-			"number": 13, 
+			"number": 15, 
 			"name": "STARLIGHT_KID",
 			"reign": 2,
 			"defenses": ["NATALYA", "SHOTZI", "SONYA_DEVILLE", "NATALYA", "ZELINA_VEGA"]
@@ -1297,6 +1315,18 @@ const titleHistory = {
 			"name": "CASH_WHEELER",
 			"reign": 2,
 			"defenses": ["DEXTER_LUMIS", "JOHNNY_GARGANO-DQ", "DEXTER_LUMIS-DQ"]
+		},
+		{
+			"number": 16, 
+			"name": "AJ_STYLES",
+			"reign": 1,
+			"defenses": ["CASH_WHEELER", "RIDGE_HOLLAND"]
+		},
+		{
+			"number": 17, 
+			"name": "CASH_WHEELER",
+			"reign": 3,
+			"defenses": ["AJ_STYLES"]
 		}
 		
 	],
@@ -1384,6 +1414,12 @@ const titleHistory = {
 			"name": "FINN_BALOR",
 			"reign": 5,
 			"defenses": ["THE_MIZ", "AJ_STYLES", "DANIEL_BRYAN", "DREW_GULAK", "KARRION_KROSS", "SHANE_MCMAHON"]
+		},
+		{
+			"number": 15, 
+			"name": "JON_MOXLEY",
+			"reign": 2,
+			"defenses": ["KARRION_KROSS&FINN_BALOR"]
 		}
 		
 	],
@@ -1410,7 +1446,13 @@ const titleHistory = {
 			"number": 4, 
 			"name": "HARSH PUNISHMENT",
 			"members": "ILJA_DRAGUNOV[1]&JON_MOXLEY[1]",
-			"defenses": ["EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)"]
+			"defenses": ["EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)", "THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)"]
+		},
+		{
+			"number": 5, 
+			"name": "THE BRO JOBS",
+			"members": "DOLPH_ZIGGLER[1]&THE_MIZ[2]",
+			"defenses": ["HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)"]
 		}
 	]
 };
