@@ -437,6 +437,18 @@ const titleHistory = {
 			"name": "KAIRI",
 			"reign": 4,
 			"defenses": ["SHAYNA_BASZLER", "CHELSEA_GREEN", "TIFFANY_STRATTON", "RONDA_ROUSEY&SHAYNA_BASZLER", "UNAGI_SAYAKA-MITB", "ALBA_FYRE"]
+		},
+		{
+			"number": 76, 
+			"name": "CHELSEA_GREEN",
+			"reign": 2,
+			"defenses": ["KAIRI"]
+		},
+		{
+			"number": 77, 
+			"name": "KAIRI",
+			"reign": 5,
+			"defenses": ["CHELSEA_GREEN&RONDA_ROUSEY&SHAYNA_BASZLER", "RONDA_ROUSEY-DQ"]
 		}
 	],
 	"SMACKDOWN": [
@@ -740,7 +752,7 @@ const titleHistory = {
 			"number": 48, 
 			"name": "IYO_SKY",
 			"reign": 2,
-			"defenses": ["LACEY_EVANS", "MANDY_ROSE", "LACEY_EVANS", "SONYA_DEVILLE", "MANDY_ROSE", "LACEY_EVANS", "RHEA_RIPLEY", "RAQUEL_RODRIGUEZ", "RAQUEL_RODRIGUEZ"]
+			"defenses": ["LACEY_EVANS", "MANDY_ROSE", "LACEY_EVANS", "SONYA_DEVILLE", "MANDY_ROSE", "LACEY_EVANS", "RHEA_RIPLEY", "RAQUEL_RODRIGUEZ", "RAQUEL_RODRIGUEZ", "RHEA_RIPLEY", "MANDY_ROSE-DQ"]
 		}
 
 	], 
@@ -1326,7 +1338,7 @@ const titleHistory = {
 			"number": 17, 
 			"name": "CASH_WHEELER",
 			"reign": 3,
-			"defenses": ["AJ_STYLES"]
+			"defenses": ["AJ_STYLES", "AJ_STYLES"]
 		}
 		
 	],
@@ -1419,7 +1431,7 @@ const titleHistory = {
 			"number": 15, 
 			"name": "JON_MOXLEY",
 			"reign": 2,
-			"defenses": ["KARRION_KROSS&FINN_BALOR"]
+			"defenses": ["KARRION_KROSS&FINN_BALOR", "FINN_BALOR", "ADAM_COLE"]
 		}
 		
 	],
