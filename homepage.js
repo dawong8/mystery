@@ -139,6 +139,7 @@ function renderTable(titleArray, byReign=false) {
     $tbody.empty();
 
     let isTag = typeof titleArray[0].members !== "undefined";
+    let isTrio = titleArray[0].name === "THE STARDOM THREEDOM";
     
 
     for (let i = titleArray.length - 1; i >= 0; i--) {
@@ -164,25 +165,40 @@ function renderTable(titleArray, byReign=false) {
             let splitArr = parsedText.split("&");
             let memberName1 = splitArr[0].split("(")[0];
             let memberName2 = splitArr[1].split("(")[0];
+            let memberName3; 
             let member1 = splitArr[0].charAt(splitArr[0].length-2) == "1" ? memberName1 : splitArr[0];
             let member2 = splitArr[1].charAt(splitArr[1].length-2) == "1" ? memberName2 : splitArr[1];
+            let member3; 
+            
             // handle tag pics
 
             memberName1 = memberName1.replaceAll(" ", "").toLowerCase();
             memberName2 = memberName2.replaceAll(" ", "").toLowerCase();
 
+            
+
             let $picContainer = $(`<div/>`)
             let $pic1 = $(`<img src="https://dawong8.github.io/portfolio/public/${memberName1}.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic"/>`);
             let $pic2 = $(`<img src="https://dawong8.github.io/portfolio/public/${memberName2}.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic"/>`);
+            let $pic3; 
 
             $picContainer.append($pic1);
             $picContainer.append($pic2);
 
-            $name.append($picContainer);
             // handle texts and names 
 
+            if (isTrio) {
+                memberName3 = splitArr[2].split("(")[0];
+                member3 = splitArr[2].charAt(splitArr[2].length-2) == "1" ? memberName3 : splitArr[2];
+                memberName3 = memberName3.replaceAll(" ", "").toLowerCase();
+                $pic3 = $(`<img src="https://dawong8.github.io/portfolio/public/${memberName3}.png" onerror="this.src='./public/vacant.png';this.onerror='';" class="profile-pic"/>`);
+                $picContainer.append($pic3);
+            }
 
-            let $members = $(`<span class="tag-member">${member1} & ${member2}</span>`);
+            $name.append($picContainer);
+
+
+            let $members = $(`<span class="tag-member">${member1} & ${member2} ${typeof member3 !== "undefined" ? `& ${member3}` : ""}</span>`);
             $name.append($members);
         } else {
             $name.css({color: "grey"});
@@ -238,6 +254,7 @@ let shortHandDictionary = {
     "RAW" : "RAW", 
     "SD" : "SMACKDOWN",
     "TAG": "TAG",
+    "TRIO": "TRIOS",
     "NXT": "NXT",
     "HD": "HARDCORE",
     "US": "US",
@@ -263,8 +280,9 @@ $(".nav-title").click(function() {
         $sortToggle.addClass("hide");
         return;
     } 
-    if ($term === "TAG") {
+    if ($term === "TRIO" || $term === "TAG" || $term === "MTAG") {
         $sortToggle.addClass("hide");
+        
         $nameCol.addClass("tag-width");
     } else {
         $nameCol.addClass("name-width");

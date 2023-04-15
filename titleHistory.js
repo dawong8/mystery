@@ -448,7 +448,7 @@ const titleHistory = {
 			"number": 77, 
 			"name": "KAIRI",
 			"reign": 5,
-			"defenses": ["CHELSEA_GREEN&RONDA_ROUSEY&SHAYNA_BASZLER", "RONDA_ROUSEY-DQ"]
+			"defenses": ["CHELSEA_GREEN&RONDA_ROUSEY&SHAYNA_BASZLER", "RONDA_ROUSEY-DQ", "RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR"]
 		}
 	],
 	"SMACKDOWN": [
@@ -752,7 +752,11 @@ const titleHistory = {
 			"number": 48, 
 			"name": "IYO_SKY",
 			"reign": 2,
-			"defenses": ["LACEY_EVANS", "MANDY_ROSE", "LACEY_EVANS", "SONYA_DEVILLE", "MANDY_ROSE", "LACEY_EVANS", "RHEA_RIPLEY", "RAQUEL_RODRIGUEZ", "RAQUEL_RODRIGUEZ", "RHEA_RIPLEY", "MANDY_ROSE-DQ"]
+			"defenses": ["LACEY_EVANS", "MANDY_ROSE", "LACEY_EVANS", "SONYA_DEVILLE", "MANDY_ROSE", "LACEY_EVANS", "RHEA_RIPLEY", "RAQUEL_RODRIGUEZ", "RAQUEL_RODRIGUEZ", "RHEA_RIPLEY", "MANDY_ROSE-DQ", "RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR"]
+		},
+		{
+			"number": 49, 
+			"name": "VACATED"
 		}
 
 	], 
@@ -895,7 +899,11 @@ const titleHistory = {
 			"number": 25, 
 			"name": "MAYU_IWATANI",
 			"reign": 1,
-			"defenses": ["ROXANNE_PEREZ&LACEY_EVANS", "LACEY_EVANS-DQ"]
+			"defenses": ["ROXANNE_PEREZ&LACEY_EVANS", "LACEY_EVANS-DQ", "RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR"]
+		},
+		{
+			"number": 26, 
+			"name": "VACATED"
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1101,7 +1109,11 @@ const titleHistory = {
 			"number": 31, 
 			"name": "LUNAR RUSH",
 			"members": "AZM[2]&SARRAY[3]",
-			"defenses": ["TOXIC ATTRACTION/FIRE & DESIRE (MANDY_ROSE, SONYA_DEVILLE)", "TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)"]
+			"defenses": ["TOXIC ATTRACTION/FIRE & DESIRE (MANDY_ROSE, SONYA_DEVILLE)", "TOXIC ATTRACTION (GIGI_DOLIN, JACY_JAYNE)", "SONYA_DEVILLE&SHAYNA_BASZLER&GIGI_DOLIN&JACY_JAYNE - THE GREAT WAR"]
+		},
+		{
+			"number": 32, 
+			"name": "VACATED"
 		}
 		
 	],
@@ -1190,7 +1202,7 @@ const titleHistory = {
 			"number": 15, 
 			"name": "STARLIGHT_KID",
 			"reign": 2,
-			"defenses": ["NATALYA", "SHOTZI", "SONYA_DEVILLE", "NATALYA", "ZELINA_VEGA"]
+			"defenses": ["NATALYA", "SHOTZI", "SONYA_DEVILLE", "NATALYA", "ZELINA_VEGA", "SONYA_DEVILLE&SHAYNA_BASZLER&GIGI_DOLIN&JACY_JAYNE - THE GREAT WAR"]
 		}
 	],
 	"US": [
@@ -1234,7 +1246,11 @@ const titleHistory = {
 			"number": 7, 
 			"name": "MINA_SHIRAKAWA",
 			"reign": 1,
-			"defenses": ["CARMELLA", "DOUDROP", "CARMELLA", "ALBA_FYRE", "DOUDROP"]
+			"defenses": ["CARMELLA", "DOUDROP", "CARMELLA", "ALBA_FYRE", "DOUDROP", "SONYA_DEVILLE&SHAYNA_BASZLER&GIGI_DOLIN&JACY_JAYNE - THE GREAT WAR"]
+		},
+		{
+			"number": 8, 
+			"name": "VACATED"
 		}
 	],
 	"ALPHA-TOP":[
@@ -1465,6 +1481,18 @@ const titleHistory = {
 			"name": "THE BRO JOBS",
 			"members": "DOLPH_ZIGGLER[1]&THE_MIZ[2]",
 			"defenses": ["HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)"]
+		}
+	],
+	"TRIOS":[
+		{
+			"number": 1, 
+			"name": "THE STARDOM THREEDOM",
+			"members": "KAIRI[1]&IYO_SKY[1]&MAYU_IWATANI[1]",
+			"defenses": ["RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR"]
+		},
+		{
+			"number": 2, 
+			"name": "VACATED"
 		}
 	]
 };
