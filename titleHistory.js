@@ -448,7 +448,7 @@ const titleHistory = {
 			"number": 77, 
 			"name": "KAIRI",
 			"reign": 5,
-			"defenses": ["CHELSEA_GREEN&RONDA_ROUSEY&SHAYNA_BASZLER", "RONDA_ROUSEY-DQ", "RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR"]
+			"defenses": ["CHELSEA_GREEN&RONDA_ROUSEY&SHAYNA_BASZLER", "RONDA_ROUSEY-DQ", "RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR", "DANA_BROOKE"]
 		}
 	],
 	"SMACKDOWN": [
@@ -904,6 +904,12 @@ const titleHistory = {
 		{
 			"number": 26, 
 			"name": "VACATED"
+		},
+		{
+			"number": 27, 
+			"name": "RAM_KAICHOW",
+			"reign": 1,
+			"defenses": ["JAKARA_JACKSON&MARIAH_MAY&ZOEY_STARK"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1114,6 +1120,12 @@ const titleHistory = {
 		{
 			"number": 32, 
 			"name": "VACATED"
+		},
+		{
+			"number": 33, 
+			"name": "NEXUS",
+			"members": "ROXANNE_PEREZ[1]&CORA_JADE[1]",
+			"defenses": ["TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)"]
 		}
 		
 	],
@@ -1480,7 +1492,13 @@ const titleHistory = {
 			"number": 5, 
 			"name": "THE BRO JOBS",
 			"members": "DOLPH_ZIGGLER[1]&THE_MIZ[2]",
-			"defenses": ["HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)"]
+			"defenses": ["HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)", "GOLDEN LOVERS (KENNY_OMEGA, KOTA_IBUSHI)"]
+		},
+		{
+			"number": 6, 
+			"name": "GOLDEN LOVERS",
+			"members": "KENNY_OMEGA[1]&KOTA_IBUSHI[2]",
+			"defenses": ["THE BRO JOBS (DOLPH_ZIGGLER, THE_MIZ)"]
 		}
 	],
 	"TRIOS":[
