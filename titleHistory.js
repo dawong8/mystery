@@ -448,7 +448,7 @@ const titleHistory = {
 			"number": 77, 
 			"name": "KAIRI",
 			"reign": 5,
-			"defenses": ["CHELSEA_GREEN&RONDA_ROUSEY&SHAYNA_BASZLER", "RONDA_ROUSEY-DQ", "RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR", "DANA_BROOKE", "DANA_BROOKE&CARMELLA"], 
+			"defenses": ["CHELSEA_GREEN&RONDA_ROUSEY&SHAYNA_BASZLER", "RONDA_ROUSEY-DQ", "RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR", "DANA_BROOKE", "DANA_BROOKE&CARMELLA", "ALEXA_BLISS", "ALEXA_BLISS", "TAMINA"], 
 		}
 	],
 	"SMACKDOWN": [
@@ -762,7 +762,7 @@ const titleHistory = {
 			"number": 50, 
 			"name": "CHELSEA_GREEN",
 			"reign": 1,
-			"defenses": ["DAKOTA_KAI&LIV_MORGAN&MADISON_RAYNE&VELVET_SKY&ANGELINA_LOVE&SHOTZI&NAOMI"]
+			"defenses": ["DAKOTA_KAI&LIV_MORGAN&MADISON_RAYNE&VELVET_SKY&ANGELINA_LOVE&SHOTZI&NAOMI", "BAYLEY"]
 		}
 
 	], 
@@ -915,7 +915,7 @@ const titleHistory = {
 			"number": 27, 
 			"name": "RAM_KAICHOW",
 			"reign": 1,
-			"defenses": ["JAKARA_JACKSON&MARIAH_MAY&ZOEY_STARK"]
+			"defenses": ["JAKARA_JACKSON&MARIAH_MAY&ZOEY_STARK", "ZOEY_STARK"]
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1131,7 +1131,7 @@ const titleHistory = {
 			"number": 33, 
 			"name": "NEXUS",
 			"members": "ROXANNE_PEREZ[1]&CORA_JADE[1]",
-			"defenses": ["TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)"]
+			"defenses": ["TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)", "DAMAGE CTRL (DAKOTA_KAI, BAYLEY)", "THE BEAUTIFUL PEOPLE (ANGELINA_LOVE, VELVET_SKY)"]
 		}
 		
 	],
@@ -1221,6 +1221,12 @@ const titleHistory = {
 			"name": "STARLIGHT_KID",
 			"reign": 2,
 			"defenses": ["NATALYA", "SHOTZI", "SONYA_DEVILLE", "NATALYA", "ZELINA_VEGA", "SONYA_DEVILLE&SHAYNA_BASZLER&GIGI_DOLIN&JACY_JAYNE - THE GREAT WAR"]
+		},
+		{
+			"number": 16, 
+			"name": "NAOMI",
+			"reign": 1,
+			"defenses": ["STARLIGHT_KID"]
 		}
 	],
 	"US": [
@@ -1269,6 +1275,12 @@ const titleHistory = {
 		{
 			"number": 8, 
 			"name": "VACATED"
+		},
+		{
+			"number": 9, 
+			"name": "DANA_BROOKE",
+			"reign": 1,
+			"defenses": ["SABLE&CARMELLA&DOUDROP", "CARMELLA", "CARMELLA"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1372,7 +1384,7 @@ const titleHistory = {
 			"number": 17, 
 			"name": "CASH_WHEELER",
 			"reign": 3,
-			"defenses": ["AJ_STYLES", "AJ_STYLES", "DOLPH_ZIGGLER"]
+			"defenses": ["AJ_STYLES", "AJ_STYLES", "DOLPH_ZIGGLER", "JULIUS_CREED"]
 		}
 		
 	],
@@ -1465,7 +1477,7 @@ const titleHistory = {
 			"number": 15, 
 			"name": "JON_MOXLEY",
 			"reign": 2,
-			"defenses": ["KARRION_KROSS&FINN_BALOR", "FINN_BALOR", "ADAM_COLE", "THE_MIZ"]
+			"defenses": ["KARRION_KROSS&FINN_BALOR", "FINN_BALOR", "ADAM_COLE", "THE_MIZ", "RIDGE_HOLLAND-MITB", "ADAM_COLE", "ADAM_COLE"]
 		}
 		
 	],
@@ -1504,7 +1516,7 @@ const titleHistory = {
 			"number": 6, 
 			"name": "GOLDEN LOVERS",
 			"members": "KENNY_OMEGA[1]&KOTA_IBUSHI[2]",
-			"defenses": ["THE BRO JOBS (DOLPH_ZIGGLER, THE_MIZ)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)", "THE BRO JOBS (MATT_CARDONA, JOHN_MORRISON)"]
+			"defenses": ["THE BRO JOBS (DOLPH_ZIGGLER, THE_MIZ)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)", "THE BRO JOBS (MATT_CARDONA, JOHN_MORRISON)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "THE HUNTER BROTHERS (BRETT_HUNTER, BRENT_HUNTER)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)"]
 		}
 	],
 	"TRIOS":[
