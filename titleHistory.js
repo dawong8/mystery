@@ -448,7 +448,7 @@ const titleHistory = {
 			"number": 77, 
 			"name": "KAIRI",
 			"reign": 5,
-			"defenses": ["CHELSEA_GREEN&RONDA_ROUSEY&SHAYNA_BASZLER", "RONDA_ROUSEY-DQ", "RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR", "DANA_BROOKE", "DANA_BROOKE&CARMELLA", "ALEXA_BLISS", "ALEXA_BLISS", "TAMINA", "UNAGI_SAYAKA"], 
+			"defenses": ["CHELSEA_GREEN&RONDA_ROUSEY&SHAYNA_BASZLER", "RONDA_ROUSEY-DQ", "RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR", "DANA_BROOKE", "DANA_BROOKE&CARMELLA", "ALEXA_BLISS", "ALEXA_BLISS", "TAMINA", "UNAGI_SAYAKA", "NIKKI_CROSS"], 
 		}
 	],
 	"SMACKDOWN": [
@@ -763,6 +763,12 @@ const titleHistory = {
 			"name": "CHELSEA_GREEN",
 			"reign": 1,
 			"defenses": ["DAKOTA_KAI&LIV_MORGAN&MADISON_RAYNE&VELVET_SKY&ANGELINA_LOVE&SHOTZI&NAOMI", "BAYLEY", "DAKOTA_KAI"]
+		},
+		{
+			"number": 51, 
+			"name": "DAKOTA_KAI",
+			"reign": 1,
+			"defenses": ["CHELSEA_GREEN", "CHELSEA_GREEN"]
 		}
 
 	], 
@@ -915,7 +921,7 @@ const titleHistory = {
 			"number": 27, 
 			"name": "RAM_KAICHOW",
 			"reign": 1,
-			"defenses": ["JAKARA_JACKSON&MARIAH_MAY&ZOEY_STARK", "ZOEY_STARK"]
+			"defenses": ["JAKARA_JACKSON&MARIAH_MAY&ZOEY_STARK", "ZOEY_STARK", "BIANCA_BELAIR"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1132,6 +1138,12 @@ const titleHistory = {
 			"name": "NEXUS",
 			"members": "ROXANNE_PEREZ[1]&CORA_JADE[1]",
 			"defenses": ["TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "THE WAY (INDI_HARTWELL, CANDICE_LERAE)", "DAMAGE CTRL (DAKOTA_KAI, BAYLEY)", "THE BEAUTIFUL PEOPLE (ANGELINA_LOVE, VELVET_SKY)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)"]
+		},
+		{
+			"number": 34, 
+			"name": "COUGAR FANTASY",
+			"members": "SABLE[1]&SCARLETT[1]",
+			"defenses": ["NEXUS (ROXANNE_PEREZ, CORA_JADE)"]
 		}
 		
 	],
@@ -1226,7 +1238,7 @@ const titleHistory = {
 			"number": 16, 
 			"name": "NAOMI",
 			"reign": 1,
-			"defenses": ["STARLIGHT_KID", "SASHA_BANKS", "ANGELINA_LOVE"]
+			"defenses": ["STARLIGHT_KID", "SASHA_BANKS", "ANGELINA_LOVE", "SHOTZI"]
 		}
 	],
 	"US": [
@@ -1385,6 +1397,12 @@ const titleHistory = {
 			"name": "CASH_WHEELER",
 			"reign": 3,
 			"defenses": ["AJ_STYLES", "AJ_STYLES", "DOLPH_ZIGGLER", "JULIUS_CREED", "LA_KNIGHT"]
+		},
+		{
+			"number": 18, 
+			"name": "KOTA_IBUSHI",
+			"reign": 1,
+			"defenses": ["CASH_WHEELER"]
 		}
 		
 	],
@@ -1478,8 +1496,22 @@ const titleHistory = {
 			"name": "JON_MOXLEY",
 			"reign": 2,
 			"defenses": ["KARRION_KROSS&FINN_BALOR", "FINN_BALOR", "ADAM_COLE", "THE_MIZ", "RIDGE_HOLLAND-MITB", "ADAM_COLE", "ADAM_COLE", "KARRION_KROSS"]
+		},
+		{
+			"number": 16, 
+			"name": "KENNY_OMEGA",
+			"reign": 1,
+			"defenses": ["JON_MOXLEY"]
 		}
 		
+	],
+	"MENS-NXT":[
+		{
+			"number": 1, 
+			"name": "BUDDY_MURPHY",
+			"reign": 1,
+			"defenses": ["SHANE_HASTE"]
+		}
 	],
 	"MENS-TAG":[
 		{

@@ -256,6 +256,7 @@ let shortHandDictionary = {
     "TAG": "TAG",
     "TRIO": "TRIOS",
     "NXT": "NXT",
+    "MNXT": "MENS-NXT",
     "HD": "HARDCORE",
     "US": "US",
     "AT": "ALPHA-TOP",
