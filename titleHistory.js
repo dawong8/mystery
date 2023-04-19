@@ -449,6 +449,12 @@ const titleHistory = {
 			"name": "KAIRI",
 			"reign": 5,
 			"defenses": ["CHELSEA_GREEN&RONDA_ROUSEY&SHAYNA_BASZLER", "RONDA_ROUSEY-DQ", "RONDA_ROUSEY&MANDY_ROSE&LACEY_EVANS - THE GREAT WAR", "DANA_BROOKE", "DANA_BROOKE&CARMELLA", "ALEXA_BLISS", "ALEXA_BLISS", "TAMINA", "UNAGI_SAYAKA", "NIKKI_CROSS"], 
+		},
+		{
+			"number": 78, 
+			"name": "UNAGI_SAYAKA",
+			"reign": 1,
+			"defenses": ["KAIRI"]
 		}
 	],
 	"SMACKDOWN": [
@@ -1143,7 +1149,7 @@ const titleHistory = {
 			"number": 34, 
 			"name": "COUGAR FANTASY",
 			"members": "SABLE[1]&SCARLETT[1]",
-			"defenses": ["NEXUS (ROXANNE_PEREZ, CORA_JADE)"]
+			"defenses": ["NEXUS (ROXANNE_PEREZ, CORA_JADE)", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)"]
 		}
 		
 	],
@@ -1238,7 +1244,7 @@ const titleHistory = {
 			"number": 16, 
 			"name": "NAOMI",
 			"reign": 1,
-			"defenses": ["STARLIGHT_KID", "SASHA_BANKS", "ANGELINA_LOVE", "SHOTZI"]
+			"defenses": ["STARLIGHT_KID", "SASHA_BANKS", "ANGELINA_LOVE", "SHOTZI", "BAYLEY"]
 		}
 	],
 	"US": [
@@ -1402,7 +1408,7 @@ const titleHistory = {
 			"number": 18, 
 			"name": "KOTA_IBUSHI",
 			"reign": 1,
-			"defenses": ["CASH_WHEELER"]
+			"defenses": ["CASH_WHEELER", "JOHN_MORRISON"]
 		}
 		
 	],
