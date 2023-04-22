@@ -454,7 +454,7 @@ const titleHistory = {
 			"number": 78, 
 			"name": "UNAGI_SAYAKA",
 			"reign": 1,
-			"defenses": ["KAIRI"]
+			"defenses": ["KAIRI", "TIFFANY_STRATTON", "TIFFANY_STRATTON"]
 		}
 	],
 	"SMACKDOWN": [
@@ -774,7 +774,13 @@ const titleHistory = {
 			"number": 51, 
 			"name": "DAKOTA_KAI",
 			"reign": 1,
-			"defenses": ["CHELSEA_GREEN", "CHELSEA_GREEN"]
+			"defenses": ["CHELSEA_GREEN", "CHELSEA_GREEN", "CANDICE_LERAE-DQ"]
+		},
+		{
+			"number": 52, 
+			"name": "CANDICE_LERAE",
+			"reign": 1,
+			"defenses": ["DAKOTA_KAI"]
 		}
 
 	], 
@@ -1149,7 +1155,7 @@ const titleHistory = {
 			"number": 34, 
 			"name": "COUGAR FANTASY",
 			"members": "SABLE[1]&SCARLETT[1]",
-			"defenses": ["NEXUS (ROXANNE_PEREZ, CORA_JADE)", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)"]
+			"defenses": ["NEXUS (ROXANNE_PEREZ, CORA_JADE)", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)", "THE GUARDIANS (KAIRI, XIA_LI) - DQ"]
 		}
 		
 	],
@@ -1244,7 +1250,7 @@ const titleHistory = {
 			"number": 16, 
 			"name": "NAOMI",
 			"reign": 1,
-			"defenses": ["STARLIGHT_KID", "SASHA_BANKS", "ANGELINA_LOVE", "SHOTZI", "BAYLEY"]
+			"defenses": ["STARLIGHT_KID", "SASHA_BANKS", "ANGELINA_LOVE", "SHOTZI", "BAYLEY", "SHOTZI", "SHOTZI"]
 		}
 	],
 	"US": [
@@ -1299,6 +1305,12 @@ const titleHistory = {
 			"name": "DANA_BROOKE",
 			"reign": 1,
 			"defenses": ["SABLE&CARMELLA&DOUDROP", "CARMELLA", "CARMELLA", "ALIYAH"]
+		},
+		{
+			"number": 10, 
+			"name": "DOUDROP",
+			"reign": 2,
+			"defenses": ["DANA_BROOKE"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1408,7 +1420,7 @@ const titleHistory = {
 			"number": 18, 
 			"name": "KOTA_IBUSHI",
 			"reign": 1,
-			"defenses": ["CASH_WHEELER", "JOHN_MORRISON"]
+			"defenses": ["CASH_WHEELER", "JOHN_MORRISON", "LA_KNIGHT"]
 		}
 		
 	],
@@ -1554,7 +1566,7 @@ const titleHistory = {
 			"number": 6, 
 			"name": "GOLDEN LOVERS",
 			"members": "KENNY_OMEGA[1]&KOTA_IBUSHI[1]",
-			"defenses": ["THE BRO JOBS (DOLPH_ZIGGLER, THE_MIZ)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)", "THE BRO JOBS (MATT_CARDONA, JOHN_MORRISON)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "THE HUNTER BROTHERS (BRETT_HUNTER, BRENT_HUNTER)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "THE BRO JOBS (THE_MIZ, JOHN_MORRISON)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)"]
+			"defenses": ["THE BRO JOBS (DOLPH_ZIGGLER, THE_MIZ)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)", "THE BRO JOBS (MATT_CARDONA, JOHN_MORRISON)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "THE HUNTER BROTHERS (BRETT_HUNTER, BRENT_HUNTER)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "THE BRO JOBS (THE_MIZ, JOHN_MORRISON)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)"]
 		}
 	],
 	"TRIOS":[
@@ -1567,6 +1579,12 @@ const titleHistory = {
 		{
 			"number": 2, 
 			"name": "VACATED"
+		},
+		{
+			"number": 3, 
+			"name": "THE GUARDIANS",
+			"members": "KAIRI[2]&ASUKA[1]&XIA_LI[1]",
+			"defenses": ["THE BEAUTIFUL PEOPLE (ANGELINA_LOVE, VELVET_SKY, MADISON_RAYNE)"]
 		}
 	]
 };
