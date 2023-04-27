@@ -934,6 +934,12 @@ const titleHistory = {
 			"name": "RAM_KAICHOW",
 			"reign": 1,
 			"defenses": ["JAKARA_JACKSON&MARIAH_MAY&ZOEY_STARK", "ZOEY_STARK", "BIANCA_BELAIR"], 
+		},
+		{
+			"number": 28, 
+			"name": "ANGELINA_LOVE",
+			"reign": 1,
+			"defenses": ["RAM_KAICHOW"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -957,6 +963,9 @@ const titleHistory = {
 		"DANA_BROOKE": 1,
 		"RIDGE_HOLLAND": 1,
 		"UNAGI_SAYAKA": 1
+	},
+	"ROYAL_RUMBLE":{
+		"ASUKA": 1
 	},
 	"TAG": [
 		{
@@ -1156,6 +1165,12 @@ const titleHistory = {
 			"name": "COUGAR FANTASY",
 			"members": "SABLE[1]&SCARLETT[1]",
 			"defenses": ["NEXUS (ROXANNE_PEREZ, CORA_JADE)", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)", "THE GUARDIANS (KAIRI, XIA_LI) - DQ", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)"]
+		},
+		{
+			"number": 35, 
+			"name": "THE GUARDIANS",
+			"members": "KAIRI[1]&XIA_LI[1]",
+			"defenses": ["COUGAR FANTASY (SABLE, SCARLETT)"]
 		}
 		
 	],
@@ -1310,7 +1325,7 @@ const titleHistory = {
 			"number": 10, 
 			"name": "DOUDROP",
 			"reign": 2,
-			"defenses": ["DANA_BROOKE"]
+			"defenses": ["DANA_BROOKE", "DANA_BROOKE"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1431,6 +1446,12 @@ const titleHistory = {
 			"name": "JOHN_MORRISON",
 			"reign": 1,
 			"defenses": ["CASH_WHEELER", "AJ_STYLES"]
+		},
+		{
+			"number": 21, 
+			"name": "RIDGE_HOLLAND",
+			"reign": 3,
+			"defenses": ["JOHN_MORRISON&AJ_STYLES&ADAM_COLE", "ADAM_COLE"]
 		}
 		
 	],
@@ -1529,7 +1550,7 @@ const titleHistory = {
 			"number": 16, 
 			"name": "KENNY_OMEGA",
 			"reign": 1,
-			"defenses": ["JON_MOXLEY", "JON_MOXLEY"]
+			"defenses": ["JON_MOXLEY", "JON_MOXLEY", "KARRION_KROSS"]
 		}
 		
 	],
@@ -1538,13 +1559,13 @@ const titleHistory = {
 			"number": 1, 
 			"name": "BUDDY_MURPHY",
 			"reign": 1,
-			"defenses": ["SHANE_HASTE", "BEN_SEED", "MIKE_BENNETT", "BRETT_HUNTER"]
+			"defenses": ["SHANE_HASTE", "BEN_SEED", "MIKE_KANELLIS", "BRETT_HUNTER"]
 		},
 		{
 			"number": 2, 
 			"name": "SHANE_HASTE",
 			"reign": 1,
-			"defenses": ["BUDDY_MURPHY"]
+			"defenses": ["BUDDY_MURPHY", "MIKE_KANELLIS&BUDDY_MURPHY"]
 		}
 	],
 	"MENS-TAG":[
@@ -1592,7 +1613,7 @@ const titleHistory = {
 			"number": 8, 
 			"name": "THE WAY",
 			"members": "JOHNNY_GARGANO[2]&DEXTER_LUMIS[2]",
-			"defenses": ["ALPHA ACADEMY (CHAD_GABLE, OTIS)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)"]
+			"defenses": ["ALPHA ACADEMY (CHAD_GABLE, OTIS)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)", "MALE ALLURE (DANIEL_BRYAN, SAMMY)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)"]
 		}
 	],
 	"TRIOS":[
