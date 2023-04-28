@@ -1656,7 +1656,7 @@ const titleHistory = {
 		{
 			"number": 9, 
 			"name": "FLY BOYS",
-			"members": "JOHN_MORRISON[1]&AJ_STYLES[1]",
+			"members": "JOHN_MORRISON[2]&AJ_STYLES[1]",
 			"defenses": ["THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)"]
 		}
 	],
