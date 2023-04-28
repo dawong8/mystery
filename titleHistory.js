@@ -460,7 +460,7 @@ const titleHistory = {
 			"number": 79, 
 			"name": "GIGI_DOLIN",
 			"reign": 1,
-			"defenses": ["UNAGI_SAYAKA"]
+			"defenses": ["UNAGI_SAYAKA", "XIA_LI", "KAIRI"]
 		}
 	],
 	"SMACKDOWN": [
@@ -786,7 +786,13 @@ const titleHistory = {
 			"number": 52, 
 			"name": "CANDICE_LERAE",
 			"reign": 1,
-			"defenses": ["DAKOTA_KAI", "DAKOTA_KAI", "BAYLEY", "SASHA_BANKS-DQ", "SASHA_BANKS", "IYO_SKY", "IYO_SKY", "CHELSEA_GREEN&STARLIGHT_KID"]
+			"defenses": ["DAKOTA_KAI", "DAKOTA_KAI", "BAYLEY", "SASHA_BANKS-DQ", "SASHA_BANKS", "IYO_SKY", "IYO_SKY", "CHELSEA_GREEN&STARLIGHT_KID", "IYO_SKY"]
+		},
+		{
+			"number": 53, 
+			"name": "LIV_MORGAN",
+			"reign": 1,
+			"defenses": ["CANDICE_LERAE"]
 		}
 
 	], 
@@ -1184,7 +1190,7 @@ const titleHistory = {
 			"number": 36, 
 			"name": "DAMAGE CTRL",
 			"members": "IYO_SKY[2]&DAKOTA_KAI[2]",
-			"defenses": ["THE GUARDIANS (KAIRI, XIA_LI)"]
+			"defenses": ["THE GUARDIANS (KAIRI, XIA_LI)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)"]
 		}
 		
 	],
@@ -1285,7 +1291,7 @@ const titleHistory = {
 			"number": 17, 
 			"name": "ROXANNE_PEREZ",
 			"reign": 1,
-			"defenses": ["NAOMI", "NAOMI", "SASHA_BANKS"]
+			"defenses": ["NAOMI", "NAOMI", "SASHA_BANKS", "SHOTZI"]
 		}
 	],
 	"US": [
@@ -1351,7 +1357,7 @@ const titleHistory = {
 			"number": 11, 
 			"name": "AZM",
 			"reign": 1,
-			"defenses": ["DOUDROP", "DANA_BROOKE"]
+			"defenses": ["DOUDROP", "DANA_BROOKE", "CARMELLA"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1483,7 +1489,7 @@ const titleHistory = {
 			"number": 22, 
 			"name": "THE_MIZ",
 			"reign": 1,
-			"defenses": ["DREW_GULAK&RIDGE_HOLLAND&FANDANGO&CASH_WHEELER&JULIUS_CREED-EC"]
+			"defenses": ["DREW_GULAK&RIDGE_HOLLAND&FANDANGO&CASH_WHEELER&JULIUS_CREED-EC", "DOLPH_ZIGGLER", "JULIUS_CREED"]
 		}
 		
 	],
@@ -1597,7 +1603,7 @@ const titleHistory = {
 			"number": 2, 
 			"name": "SHANE_HASTE",
 			"reign": 1,
-			"defenses": ["BUDDY_MURPHY", "MIKE_KANELLIS&BUDDY_MURPHY"]
+			"defenses": ["BUDDY_MURPHY", "MIKE_KANELLIS&BUDDY_MURPHY", "BUDDY_MURPHY"]
 		}
 	],
 	"MENS-TAG":[
@@ -1645,7 +1651,13 @@ const titleHistory = {
 			"number": 8, 
 			"name": "THE WAY",
 			"members": "JOHNNY_GARGANO[2]&DEXTER_LUMIS[2]",
-			"defenses": ["ALPHA ACADEMY (CHAD_GABLE, OTIS)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)", "MALE ALLURE (DANIEL_BRYAN, SAMMY)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "MALE ALLURE (DANIEL_BRYAN, SAMMY)", "MALE ALLURE (DANIEL_BRYAN, SAMMY)"]
+			"defenses": ["ALPHA ACADEMY (CHAD_GABLE, OTIS)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)", "MALE ALLURE (DANIEL_BRYAN, SAMMY)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "MALE ALLURE (DANIEL_BRYAN, SAMMY)", "MALE ALLURE (DANIEL_BRYAN, SAMMY)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)"]
+		},
+		{
+			"number": 9, 
+			"name": "FLY BOYS",
+			"members": "JOHN_MORRISON[1]&AJ_STYLES[1]",
+			"defenses": ["THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)"]
 		}
 	],
 	"TRIOS":[
