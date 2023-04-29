@@ -1357,7 +1357,7 @@ const titleHistory = {
 			"number": 11, 
 			"name": "AZM",
 			"reign": 1,
-			"defenses": ["DOUDROP", "DANA_BROOKE", "CARMELLA"]
+			"defenses": ["DOUDROP", "DANA_BROOKE", "CARMELLA", "ZELINA_VEGA"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1657,7 +1657,7 @@ const titleHistory = {
 			"number": 9, 
 			"name": "FLY BOYS",
 			"members": "JOHN_MORRISON[2]&AJ_STYLES[1]",
-			"defenses": ["THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)"]
+			"defenses": ["THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "THE BRO JOBS (THE_MIZ, MATT_CARDONA)"]
 		}
 	],
 	"TRIOS":[
