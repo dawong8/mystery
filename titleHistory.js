@@ -467,6 +467,12 @@ const titleHistory = {
 			"name": "BLU",
 			"reign": 1,
 			"defenses": ["GIGI_DOLIN", "ALISON_JANS-DQ"]
+		},
+		{
+			"number": 81, 
+			"name": "LIV_MORGAN",
+			"reign": 1,
+			"defenses": ["BLU - WRESTLEMANIA: WINNER TAKES ALL"]
 		}
 	],
 	"SMACKDOWN": [
@@ -798,7 +804,7 @@ const titleHistory = {
 			"number": 53, 
 			"name": "LIV_MORGAN",
 			"reign": 1,
-			"defenses": ["CANDICE_LERAE", "DAKOTA_KAI", "BAYLEY"]
+			"defenses": ["CANDICE_LERAE", "DAKOTA_KAI", "BAYLEY", "CHELSEA_GREEN", "IYO_SKY", "BLU - WRESTLEMANIA: WINNER TAKES ALL"]
 		}
 
 	], 
@@ -957,7 +963,7 @@ const titleHistory = {
 			"number": 28, 
 			"name": "ANGELINA_LOVE",
 			"reign": 1,
-			"defenses": ["RAM_KAICHOW", "RAM_KAICHOW"], 
+			"defenses": ["RAM_KAICHOW", "RAM_KAICHOW", "NIKKITA_LYONS", "JAKARA_JACKSON"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1197,6 +1203,12 @@ const titleHistory = {
 			"name": "DAMAGE CTRL",
 			"members": "IYO_SKY[2]&DAKOTA_KAI[2]",
 			"defenses": ["THE GUARDIANS (KAIRI, XIA_LI)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)"]
+		},
+		{
+			"number": 37, 
+			"name": "ALISON JANS & ROXANNE PEREZ",
+			"members": "ALISON_JANS[1]&ROXANNE_PEREZ[2]",
+			"defenses": ["DAMAGE CTRL (IYO_SKY, DAKOTA_KAI) - WRESTLEMANIA"]
 		}
 		
 	],
@@ -1298,6 +1310,12 @@ const titleHistory = {
 			"name": "ROXANNE_PEREZ",
 			"reign": 1,
 			"defenses": ["NAOMI", "NAOMI", "SASHA_BANKS", "SHOTZI", "STARLIGHT_KID"]
+		},
+		{
+			"number": 18, 
+			"name": "INDI_HARTWELL",
+			"reign": 1,
+			"defenses": ["ROXANNE_PEREZ", "NAOMI - WRESTLEMANIA"]
 		}
 	],
 	"US": [
@@ -1363,7 +1381,7 @@ const titleHistory = {
 			"number": 11, 
 			"name": "AZM",
 			"reign": 1,
-			"defenses": ["DOUDROP", "DANA_BROOKE", "CARMELLA", "ZELINA_VEGA"]
+			"defenses": ["DOUDROP", "DANA_BROOKE", "CARMELLA", "ZELINA_VEGA", "SABLE&ALIYAH&ZELINA_VEGA&RAQUEL_RODRIQUEZ - WRESTLEMANIA"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1502,6 +1520,18 @@ const titleHistory = {
 			"name": "JULIUS_CREED",
 			"reign": 1,
 			"defenses": ["THE_MIZ", "LA_KNIGHT"]
+		},
+		{
+			"number": 24, 
+			"name": "GIOVANNI_VINCI",
+			"reign": 4,
+			"defenses": ["JULIUS_CREED", "JOHN_MORRISON", "LA_KNIGHT"]
+		},
+		{
+			"number": 25, 
+			"name": "JULIUS_CREED",
+			"reign": 2,
+			"defenses": ["GIOVANNI_VINCI - WRESTLEMANIA"]
 		}
 		
 	],
@@ -1600,7 +1630,7 @@ const titleHistory = {
 			"number": 16, 
 			"name": "KENNY_OMEGA",
 			"reign": 1,
-			"defenses": ["JON_MOXLEY", "JON_MOXLEY", "KARRION_KROSS", "DANIEL_BRYAN", "JON_MOXLEY", "RIDGE_HOLLAND"], 
+			"defenses": ["JON_MOXLEY", "JON_MOXLEY", "KARRION_KROSS", "DANIEL_BRYAN", "JON_MOXLEY", "RIDGE_HOLLAND", "FINN_BALOR - WRESTLEMANIA"], 
 		}
 		
 	],
@@ -1621,7 +1651,13 @@ const titleHistory = {
 			"number": 3, 
 			"name": "MIKE_KANELLIS",
 			"reign": 1,
-			"defenses": ["SHANE_HASTE"]
+			"defenses": ["SHANE_HASTE", "MR_ENVIRONMENT"]
+		},
+		{
+			"number": 4, 
+			"name": "BUDDY_MURPHY",
+			"reign": 2,
+			"defenses": ["SHANE_HASTE&MIKE_KANELLIS"]
 		}
 	],
 	"MENS-TAG":[
@@ -1676,6 +1712,12 @@ const titleHistory = {
 			"name": "FLY BOYS",
 			"members": "JOHN_MORRISON[2]&AJ_STYLES[1]",
 			"defenses": ["THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "THE BRO JOBS (THE_MIZ, MATT_CARDONA)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)"]
+		},
+		{
+			"number": 10, 
+			"name": "DUELING FORCES",
+			"members": "JOHNNY_GARGANO[3]&AJ_STYLES[1]",
+			"defenses": ["FLY BOYS (JOHN_MORRISON, AJ_STYLES) - WRESTLEMANIA"]
 		}
 	],
 	"TRIOS":[
