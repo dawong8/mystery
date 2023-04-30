@@ -1716,7 +1716,7 @@ const titleHistory = {
 		{
 			"number": 10, 
 			"name": "DUELING FORCES",
-			"members": "JOHNNY_GARGANO[3]&AJ_STYLES[1]",
+			"members": "JOHNNY_GARGANO[3]&DREW_GULAK[1]",
 			"defenses": ["FLY BOYS (JOHN_MORRISON, AJ_STYLES) - WRESTLEMANIA"]
 		}
 	],
