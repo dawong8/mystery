@@ -461,6 +461,12 @@ const titleHistory = {
 			"name": "GIGI_DOLIN",
 			"reign": 1,
 			"defenses": ["UNAGI_SAYAKA", "XIA_LI", "KAIRI"]
+		},
+		{
+			"number": 80, 
+			"name": "BLU",
+			"reign": 1,
+			"defenses": ["GIGI_DOLIN", "ALISON_JANS-DQ"]
 		}
 	],
 	"SMACKDOWN": [
@@ -792,7 +798,7 @@ const titleHistory = {
 			"number": 53, 
 			"name": "LIV_MORGAN",
 			"reign": 1,
-			"defenses": ["CANDICE_LERAE"]
+			"defenses": ["CANDICE_LERAE", "DAKOTA_KAI", "BAYLEY"]
 		}
 
 	], 
@@ -1291,7 +1297,7 @@ const titleHistory = {
 			"number": 17, 
 			"name": "ROXANNE_PEREZ",
 			"reign": 1,
-			"defenses": ["NAOMI", "NAOMI", "SASHA_BANKS", "SHOTZI"]
+			"defenses": ["NAOMI", "NAOMI", "SASHA_BANKS", "SHOTZI", "STARLIGHT_KID"]
 		}
 	],
 	"US": [
@@ -1490,6 +1496,12 @@ const titleHistory = {
 			"name": "THE_MIZ",
 			"reign": 1,
 			"defenses": ["DREW_GULAK&RIDGE_HOLLAND&FANDANGO&CASH_WHEELER&JULIUS_CREED-EC", "DOLPH_ZIGGLER", "JULIUS_CREED"]
+		},
+		{
+			"number": 23, 
+			"name": "JULIUS_CREED",
+			"reign": 1,
+			"defenses": ["THE_MIZ", "LA_KNIGHT"]
 		}
 		
 	],
@@ -1588,7 +1600,7 @@ const titleHistory = {
 			"number": 16, 
 			"name": "KENNY_OMEGA",
 			"reign": 1,
-			"defenses": ["JON_MOXLEY", "JON_MOXLEY", "KARRION_KROSS", "DANIEL_BRYAN", "JON_MOXLEY"]
+			"defenses": ["JON_MOXLEY", "JON_MOXLEY", "KARRION_KROSS", "DANIEL_BRYAN", "JON_MOXLEY", "RIDGE_HOLLAND"], 
 		}
 		
 	],
@@ -1604,6 +1616,12 @@ const titleHistory = {
 			"name": "SHANE_HASTE",
 			"reign": 1,
 			"defenses": ["BUDDY_MURPHY", "MIKE_KANELLIS&BUDDY_MURPHY", "BUDDY_MURPHY"]
+		},
+		{
+			"number": 3, 
+			"name": "MIKE_KANELLIS",
+			"reign": 1,
+			"defenses": ["SHANE_HASTE"]
 		}
 	],
 	"MENS-TAG":[
@@ -1657,7 +1675,7 @@ const titleHistory = {
 			"number": 9, 
 			"name": "FLY BOYS",
 			"members": "JOHN_MORRISON[2]&AJ_STYLES[1]",
-			"defenses": ["THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "THE BRO JOBS (THE_MIZ, MATT_CARDONA)"]
+			"defenses": ["THE WAY (JOHNNY_GARGANO, DEXTER_LUMIS)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "THE BRO JOBS (THE_MIZ, MATT_CARDONA)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)"]
 		}
 	],
 	"TRIOS":[
