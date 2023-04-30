@@ -471,7 +471,7 @@ const titleHistory = {
 		{
 			"number": 81, 
 			"name": "LIV_MORGAN",
-			"reign": 1,
+			"reign": 3,
 			"defenses": ["BLU - WRESTLEMANIA: WINNER TAKES ALL"]
 		}
 	],
