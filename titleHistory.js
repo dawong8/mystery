@@ -824,7 +824,7 @@ const titleHistory = {
 			"number": 55, 
 			"name": "STARLIGHT_KID",
 			"reign": 1,
-			"defenses": ["CANDICE_LERAE&IYO_SKY&CHELSEA_GREEN", "CANDICE_LERAE", "CHELSEA_GREEN", "DAKOTA_KAI"]
+			"defenses": ["CANDICE_LERAE&IYO_SKY&CHELSEA_GREEN", "CANDICE_LERAE", "CHELSEA_GREEN", "DAKOTA_KAI", "IYO_SKY"]
 		}
 
 	], 
@@ -1234,7 +1234,7 @@ const titleHistory = {
 			"number": 38, 
 			"name": "THE IICONICS",
 			"members": "PEYTON_ROYCE[1]&BILLIE_KAY[1]",
-			"defenses": ["ALISON_JANS, ROXANNE_PEREZ"]
+			"defenses": ["ALISON_JANS, ROXANNE_PEREZ", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)"]
 		}
 		
 	],
@@ -1348,6 +1348,12 @@ const titleHistory = {
 			"name": "EVA_MARIE",
 			"reign": 1,
 			"defenses": ["INDI_HARTWELL"]
+		},
+		{
+			"number": 20, 
+			"name": "ROXANNE_PEREZ",
+			"reign": 2,
+			"defenses": ["EVA_MARIE"]
 		}
 	],
 	"US": [
@@ -1413,7 +1419,7 @@ const titleHistory = {
 			"number": 11, 
 			"name": "AZM",
 			"reign": 1,
-			"defenses": ["DOUDROP", "DANA_BROOKE", "CARMELLA", "ZELINA_VEGA", "SABLE&ALIYAH&ZELINA_VEGA&RAQUEL_RODRIQUEZ - WRESTLEMANIA", "ALIYAH", "ZELINA_VEGA&RAQUEL_RODRIQUEZ"]
+			"defenses": ["DOUDROP", "DANA_BROOKE", "CARMELLA", "ZELINA_VEGA", "SABLE&ALIYAH&ZELINA_VEGA&RAQUEL_RODRIQUEZ - WRESTLEMANIA", "ALIYAH", "ZELINA_VEGA&RAQUEL_RODRIQUEZ", "XIA_LI"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1563,7 +1569,7 @@ const titleHistory = {
 			"number": 25, 
 			"name": "JULIUS_CREED",
 			"reign": 2,
-			"defenses": ["GIOVANNI_VINCI - WRESTLEMANIA", "ADAM_COLE", "CASH_WHEELER", "FANDANGO"]
+			"defenses": ["GIOVANNI_VINCI - WRESTLEMANIA", "ADAM_COLE", "CASH_WHEELER", "FANDANGO", "ADAM_PEARCE", "SHANE_MCMAHON"]
 		}
 		
 	],
@@ -1668,7 +1674,19 @@ const titleHistory = {
 			"number": 17, 
 			"name": "DOLPH_ZIGGLER",
 			"reign": 1,
-			"defenses": ["KENNY_OMEGA&KARRION_KROSS", "KARRION_KROSS", "THE_MIZ", "MATT_CARDONA", "THE_MIZ", "RIDGE_HOLLAND"], 
+			"defenses": ["KENNY_OMEGA&KARRION_KROSS", "KARRION_KROSS", "THE_MIZ", "MATT_CARDONA", "THE_MIZ", "RIDGE_HOLLAND", "KARRION_KROSS"], 
+		},
+		{
+			"number": 18, 
+			"name": "KARRION_KROSS",
+			"reign": 4,
+			"defenses": ["DOLPH_ZIGGLER"], 
+		},
+		{
+			"number": 19, 
+			"name": "LIV_MORGAN",
+			"reign": 1,
+			"defenses": ["KARRION_KROSS", "KARRION_KROSS - DQ", "KARRION_KROSS"], 
 		}
 		
 	],
@@ -1695,7 +1713,7 @@ const titleHistory = {
 			"number": 4, 
 			"name": "BUDDY_MURPHY",
 			"reign": 2,
-			"defenses": ["SHANE_HASTE&MIKE_KANELLIS", "SHANE_HASTE", "SHANE_HASTE", "MIKE_KANELLIS"]
+			"defenses": ["SHANE_HASTE&MIKE_KANELLIS", "SHANE_HASTE", "SHANE_HASTE", "MIKE_KANELLIS", "SHANE_HASTE"]
 		}
 	],
 	"MENS-TAG":[
@@ -1755,7 +1773,7 @@ const titleHistory = {
 			"number": 10, 
 			"name": "DUELING FORCES",
 			"members": "JOHNNY_GARGANO[3]&DREW_GULAK[1]",
-			"defenses": ["FLY BOYS (JOHN_MORRISON, AJ_STYLES) - WRESTLEMANIA", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)"]
+			"defenses": ["FLY BOYS (JOHN_MORRISON, AJ_STYLES) - WRESTLEMANIA", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "ALPHA ACADEMY (CHAD_GABLE, OTIS)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)", "CORPORATE DADDIES (ADAM_PEARCE, SHANE_MCMAHON)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)", "FLY BOYS (JOHN_MORRISON, AJ_STYLES)"]
 		}
 	],
 	"TRIOS":[
