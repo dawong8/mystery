@@ -836,7 +836,7 @@ const titleHistory = {
 			"number": 57, 
 			"name": "LIV_MORGAN",
 			"reign": 2,
-			"defenses": ["SASHA_BANKS"]
+			"defenses": ["SASHA_BANKS", "CHELSEA_GREEN"]
 		}
 
 	], 
@@ -1001,7 +1001,7 @@ const titleHistory = {
 			"number": 29, 
 			"name": "VELVET_SKY",
 			"reign": 1,
-			"defenses": ["ANGELINA_LOVE&MADISON_RAYNE"], 
+			"defenses": ["ANGELINA_LOVE&MADISON_RAYNE", "MARIAH_MAY"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1720,7 +1720,7 @@ const titleHistory = {
 			"number": 19, 
 			"name": "DANIEL_BRYAN",
 			"reign": 1,
-			"defenses": ["KARRION_KROSS&FINN_BALOR&RIDGE_HOLLAND&CASH_WHEELER"], 
+			"defenses": ["KARRION_KROSS&FINN_BALOR&RIDGE_HOLLAND&CASH_WHEELER", "LA_KNIGHT"], 
 		}
 		
 	],
@@ -1759,7 +1759,7 @@ const titleHistory = {
 			"number": 6, 
 			"name": "KRIPPLER",
 			"reign": 1,
-			"defenses": ["SHANE_HASTE"]
+			"defenses": ["SHANE_HASTE", "BRENT_HUNTER"]
 		}
 	],
 	"MENS-TAG":[
@@ -1825,7 +1825,7 @@ const titleHistory = {
 			"number": 11, 
 			"name": "KNIGHTS IN LOVE",
 			"members": "LA_KNIGHT[1]&SAMMY_KNIGHT[1]",
-			"defenses": ["DUELING FORCES (JOHNNY_GARGANO, DREW_GULAK)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY) - DQ"]
+			"defenses": ["DUELING FORCES (JOHNNY_GARGANO, DREW_GULAK)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY) - DQ", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)"]
 		}
 	],
 	"TRIOS":[
@@ -1849,7 +1849,7 @@ const titleHistory = {
 			"number": 4, 
 			"name": "DAMAGE CTRL",
 			"members": "DAKOTA_KAI[1]&BAYLEY[1]&IYO_SKY[2]",
-			"defenses": ["THE GUARDIANS (KAIRI, ASUKA, XIA_LI)"]
+			"defenses": ["THE GUARDIANS (KAIRI, ASUKA, XIA_LI)", "BLACK GIRL MAGIC (SASHA_BANKS, NAOMI, JAKARA_JACKSON)", "BLACK GIRL MAGIC (SASHA_BANKS, NAOMI, JAKARA_JACKSON)"]
 		}
 	]
 };
