@@ -1896,7 +1896,7 @@ const titleHistory = {
 		{
 			"number": 13, 
 			"name": "NEVERLAND",
-			"members": "DANIEL_BRYAN[1]&HOOK[1]",
+			"members": "HOOK[1]&DANIEL_BRYAN[1]",
 			"defenses": ["FLY BOYS (JOHN_MORRISON, AJ_STYLES)", "EIFFEL TOWER (FANDANGO, GIOVANNI_VINCI)"]
 		}
 	],
