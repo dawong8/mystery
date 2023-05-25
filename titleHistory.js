@@ -494,7 +494,7 @@ const titleHistory = {
 			"number": 84, 
 			"name": "BETH_PHOENIX",
 			"reign": 3,
-			"defenses": ["STARLIGHT_KID", "ASUKA"]
+			"defenses": ["STARLIGHT_KID", "ASUKA", "GIGI_DOLIN"]
 		}
 	],
 	"SMACKDOWN": [
@@ -849,6 +849,12 @@ const titleHistory = {
 			"name": "LIV_MORGAN",
 			"reign": 2,
 			"defenses": ["SASHA_BANKS", "CHELSEA_GREEN", "CANDICE_LERAE", "IYO_SKY", "DAKOTA_KAI", "ALISON_JANS", "BAYLEY", "DAKOTA_KAI", "IYO_SKY", "CHELSEA_GREEN"]
+		},
+		{
+			"number": 58, 
+			"name": "SASHA_BANKS",
+			"reign": 2,
+			"defenses": ["LIV_MORGAN"]
 		}
 
 	], 
@@ -1793,7 +1799,7 @@ const titleHistory = {
 			"number": 25, 
 			"name": "FINN_BALOR",
 			"reign": 6,
-			"defenses": ["PAC", "PAC"], 
+			"defenses": ["PAC", "PAC", "RIDGE_HOLLAND"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1844,6 +1850,22 @@ const titleHistory = {
 			"name": "KRIPPLER",
 			"reign": 2,
 			"defenses": ["MIKE_KANELLIS&KILLIAN_MCMURPHY&MR_ENVIRONMENT&BEN_SEED", "MR_ENVIRONMENT"]
+		}
+	],
+	"UNDERGROUND-KING":[
+		{
+			"number": 1, 
+			"name": "DOLPH_ZIGGLER",
+			"reign": 1,
+			"defenses": ["PAC"]
+		}
+	],
+	"UFC":[
+		{
+			"number": 1, 
+			"name": "LIV_MORGAN",
+			"reign": 1,
+			"defenses": ["SELF-PROCLAIMED"]
 		}
 	],
 	"MENS-TAG":[
@@ -1927,7 +1949,7 @@ const titleHistory = {
 			"number": 14, 
 			"name": "DREAM COME TRUE",
 			"members": "DARBY_ALLIN[1]&SHANE_HASTE[1]",
-			"defenses": ["NEVERLAND (HOOK, DANIEL_BRYAN)"]
+			"defenses": ["NEVERLAND (HOOK, DANIEL_BRYAN)", "KNIGHTS IN LOVE (LA_KNIGHT, SAMMY_KNIGHT)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)"]
 		}
 	],
 	"TRIOS":[
