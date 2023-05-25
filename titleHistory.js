@@ -495,6 +495,12 @@ const titleHistory = {
 			"name": "BETH_PHOENIX",
 			"reign": 3,
 			"defenses": ["STARLIGHT_KID", "ASUKA", "GIGI_DOLIN"]
+		},
+		{
+			"number": 85, 
+			"name": "TIFFANY_STRATTON",
+			"reign": 2,
+			"defenses": ["BETH_PHOENIX"]
 		}
 	],
 	"SMACKDOWN": [
@@ -1290,7 +1296,7 @@ const titleHistory = {
 			"number": 40, 
 			"name": "THE IICONICS",
 			"members": "PEYTON_ROYCE[2]&BILLIE_KAY[2]",
-			"defenses": ["THE WAY (INDI_HARTWELL, CANDICE_LERAE)"]
+			"defenses": ["THE WAY (INDI_HARTWELL, CANDICE_LERAE)", "TWISTED BLISS (ALEXA_BLISS, NIKKI_CROSS)"]
 		}
 		
 	],
@@ -1649,7 +1655,7 @@ const titleHistory = {
 			"number": 26, 
 			"name": "BUDDY_MURPHY",
 			"reign": 1,
-			"defenses": ["JULIUS_CREED&DREW_GULAK&SHANE_HASTE", "JULIUS_CREED", "SHANE_HASTE", "JOHNNY_GARGANO", "DREW_GULAK", "SHANE_HASTE", "FANDANGO"]
+			"defenses": ["JULIUS_CREED&DREW_GULAK&SHANE_HASTE", "JULIUS_CREED", "SHANE_HASTE", "JOHNNY_GARGANO", "DREW_GULAK", "SHANE_HASTE", "FANDANGO", "DREW_GULAK"]
 		}
 	],
 	"WORLD-TOP":[
@@ -1799,7 +1805,7 @@ const titleHistory = {
 			"number": 25, 
 			"name": "FINN_BALOR",
 			"reign": 6,
-			"defenses": ["PAC", "PAC", "RIDGE_HOLLAND"], 
+			"defenses": ["PAC", "PAC", "RIDGE_HOLLAND", "DANIEL_BRYAN"], 
 		}
 	],
 	"MENS-NXT":[
