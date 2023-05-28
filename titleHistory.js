@@ -1032,6 +1032,12 @@ const titleHistory = {
 			"name": "ANGELINA_LOVE",
 			"reign": 2,
 			"defenses": ["VELVET_SKY&MADISON_RAYNE"], 
+		},
+		{
+			"number": 31, 
+			"name": "MADISON_RAYNE",
+			"reign": 1,
+			"defenses": ["ANGELINA_LOVE"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1855,7 +1861,13 @@ const titleHistory = {
 			"number": 8, 
 			"name": "KRIPPLER",
 			"reign": 2,
-			"defenses": ["MIKE_KANELLIS&KILLIAN_MCMURPHY&MR_ENVIRONMENT&BEN_SEED", "MR_ENVIRONMENT"]
+			"defenses": ["MIKE_KANELLIS&KILLIAN_MCMURPHY&MR_ENVIRONMENT&BEN_SEED", "MR_ENVIRONMENT", "KILLIAN_MCMURPHY"]
+		},
+		{
+			"number": 9, 
+			"name": "MR_ENVIRONMENT",
+			"reign": 1,
+			"defenses": ["KRIPPLER"]
 		}
 	],
 	"UNDERGROUND-KING":[
@@ -1869,9 +1881,9 @@ const titleHistory = {
 	"UFC":[
 		{
 			"number": 1, 
-			"name": "LIV_MORGAN",
+			"name": "GIGI_DOLIN",
 			"reign": 1,
-			"defenses": ["SELF-PROCLAIMED"]
+			"defenses": ["SCARLETT&CORA_JADE&STARLIGHT_KID"]
 		}
 	],
 	"MENS-TAG":[
