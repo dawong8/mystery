@@ -500,7 +500,7 @@ const titleHistory = {
 			"number": 85, 
 			"name": "TIFFANY_STRATTON",
 			"reign": 2,
-			"defenses": ["BETH_PHOENIX", "BETH_PHOENIX"]
+			"defenses": ["BETH_PHOENIX", "BETH_PHOENIX", "PEYTON_ROYCE"]
 		}
 	],
 	"SMACKDOWN": [
@@ -860,7 +860,7 @@ const titleHistory = {
 			"number": 58, 
 			"name": "SASHA_BANKS",
 			"reign": 2,
-			"defenses": ["LIV_MORGAN", "ROXANNE_PEREZ-DQ"]
+			"defenses": ["LIV_MORGAN", "ROXANNE_PEREZ-DQ", "ROXANNE_PEREZ"]
 		}
 
 	], 
@@ -1518,6 +1518,12 @@ const titleHistory = {
 			"name": "RAM_KAICHOW",
 			"reign": 2,
 			"defenses": ["STARLIGHT_KID&AZM"]
+		},
+		{
+			"number": 15, 
+			"name": "STARLIGHT_KID",
+			"reign": 1,
+			"defenses": ["RAM_KAICHOW"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1829,7 +1835,13 @@ const titleHistory = {
 			"number": 26, 
 			"name": "JON_MOXLEY",
 			"reign": 3,
-			"defenses": ["FINN_BALOR", "FINN_BALOR&LA_KNIGHT"], 
+			"defenses": ["FINN_BALOR", "FINN_BALOR&LA_KNIGHT", "PAC"], 
+		},
+		{
+			"number": 27, 
+			"name": "KENNY_OMEGA",
+			"reign": 3,
+			"defenses": ["JON_MOXLEY"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1991,7 +2003,7 @@ const titleHistory = {
 			"number": 15, 
 			"name": "DUELING FORCES",
 			"members": "JOHNNY_GARGANO[4]&DREW_GULAK[2]",
-			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)"]
+			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)", "NEVERLAND (HOOK, DANIEL_BRYAN)"]
 		}
 	],
 	"TRIOS":[
