@@ -500,7 +500,7 @@ const titleHistory = {
 			"number": 85, 
 			"name": "TIFFANY_STRATTON",
 			"reign": 2,
-			"defenses": ["BETH_PHOENIX", "BETH_PHOENIX", "PEYTON_ROYCE"]
+			"defenses": ["BETH_PHOENIX", "BETH_PHOENIX", "PEYTON_ROYCE", "BILLIE_KAY", "PEYTON_ROYCE"]
 		}
 	],
 	"SMACKDOWN": [
@@ -860,7 +860,13 @@ const titleHistory = {
 			"number": 58, 
 			"name": "SASHA_BANKS",
 			"reign": 2,
-			"defenses": ["LIV_MORGAN", "ROXANNE_PEREZ-DQ", "ROXANNE_PEREZ"]
+			"defenses": ["LIV_MORGAN", "ROXANNE_PEREZ-DQ", "ROXANNE_PEREZ", "ROXANNE_PEREZ&CORA_JADE"]
+		},
+		{
+			"number": 59, 
+			"name": "CORA_JADE",
+			"reign": 1,
+			"defenses": ["SASHA_BANKS&ROXANNE_PEREZ", "SASHA_BANKS"]
 		}
 
 	], 
@@ -1037,7 +1043,7 @@ const titleHistory = {
 			"number": 31, 
 			"name": "MADISON_RAYNE",
 			"reign": 1,
-			"defenses": ["ANGELINA_LOVE"], 
+			"defenses": ["ANGELINA_LOVE", "ANGELINA_LOVE"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1308,7 +1314,7 @@ const titleHistory = {
 			"number": 41, 
 			"name": "THE WAY",
 			"members": "CANDICE_LERAE[2]&INDI_HARTWELL[2]",
-			"defenses": ["THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)"]
+			"defenses": ["THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "DAMAGE CTRL (BAYLEY, DAKOTA_KAI)"]
 		}
 		
 	],
@@ -1433,7 +1439,7 @@ const titleHistory = {
 			"number": 21, 
 			"name": "ZOEY_STARK",
 			"reign": 1,
-			"defenses": ["ROXANNE_PEREZ", "JACY_JAYNE", "SHOTZI"]
+			"defenses": ["ROXANNE_PEREZ", "JACY_JAYNE", "SHOTZI", "MIA_YIM"]
 		}
 	],
 	"US": [
@@ -1523,7 +1529,7 @@ const titleHistory = {
 			"number": 15, 
 			"name": "STARLIGHT_KID",
 			"reign": 1,
-			"defenses": ["RAM_KAICHOW"]
+			"defenses": ["RAM_KAICHOW", "AZM", "DOUDROP"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1680,6 +1686,12 @@ const titleHistory = {
 			"name": "BUDDY_MURPHY",
 			"reign": 1,
 			"defenses": ["JULIUS_CREED&DREW_GULAK&SHANE_HASTE", "JULIUS_CREED", "SHANE_HASTE", "JOHNNY_GARGANO", "DREW_GULAK", "SHANE_HASTE", "FANDANGO", "DREW_GULAK", "JULIUS_CREED"]
+		},
+		{
+			"number": 27, 
+			"name": "CASH_WHEELER",
+			"reign": 4,
+			"defenses": ["BUDDY_MURPHY", "BUDDY_MURPHY", "LA_KNIGHT"]
 		}
 	],
 	"WORLD-TOP":[
@@ -1841,7 +1853,13 @@ const titleHistory = {
 			"number": 27, 
 			"name": "KENNY_OMEGA",
 			"reign": 3,
-			"defenses": ["JON_MOXLEY"], 
+			"defenses": ["JON_MOXLEY", "RIDGE_HOLLAND", "LA_KNIGHT", "SHANE_HASTE"], 
+		},
+		{
+			"number": 28, 
+			"name": "JON_MOXLEY",
+			"reign": 4,
+			"defenses": ["KENNY_OMEGA"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1897,7 +1915,7 @@ const titleHistory = {
 			"number": 9, 
 			"name": "MR_ENVIRONMENT",
 			"reign": 1,
-			"defenses": ["KRIPPLER", "BEN_SEED"]
+			"defenses": ["KRIPPLER", "BEN_SEED", "BEN_SEED", "BRETT_HUNTER", "KRIPPLER"]
 		}
 	],
 	"UNDERGROUND-KING":[
@@ -1913,7 +1931,7 @@ const titleHistory = {
 			"number": 1, 
 			"name": "GIGI_DOLIN",
 			"reign": 1,
-			"defenses": ["SCARLETT&CORA_JADE&STARLIGHT_KID", "CORA_JADE"]
+			"defenses": ["SCARLETT&CORA_JADE&STARLIGHT_KID", "CORA_JADE", "SCARLETT"]
 		}
 	],
 	"MENS-TAG":[
@@ -2003,7 +2021,13 @@ const titleHistory = {
 			"number": 15, 
 			"name": "DUELING FORCES",
 			"members": "JOHNNY_GARGANO[4]&DREW_GULAK[2]",
-			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)", "NEVERLAND (HOOK, DANIEL_BRYAN)"]
+			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)", "NEVERLAND (HOOK, DANIEL_BRYAN)", "HARSH PUNISHMENT (ILJA_DRAGUNOV, JON_MOXLEY)"]
+		},
+		{
+			"number": 16, 
+			"name": "DREAM COME TRUE",
+			"members": "DARBY_ALLIN[2]&SHANE_HASTE[2]",
+			"defenses": ["DUELING FORCES (JOHNNY_GARGANO, DREW_GULAK)"]
 		}
 	],
 	"TRIOS":[
