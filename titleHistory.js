@@ -866,7 +866,7 @@ const titleHistory = {
 			"number": 59, 
 			"name": "CORA_JADE",
 			"reign": 1,
-			"defenses": ["SASHA_BANKS&ROXANNE_PEREZ", "SASHA_BANKS"]
+			"defenses": ["SASHA_BANKS&ROXANNE_PEREZ", "SASHA_BANKS", "ROXANNE_PEREZ-DQ"]
 		}
 
 	], 
@@ -1859,7 +1859,7 @@ const titleHistory = {
 			"number": 28, 
 			"name": "JON_MOXLEY",
 			"reign": 4,
-			"defenses": ["KENNY_OMEGA"], 
+			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1916,22 +1916,20 @@ const titleHistory = {
 			"name": "MR_ENVIRONMENT",
 			"reign": 1,
 			"defenses": ["KRIPPLER", "BEN_SEED", "BEN_SEED", "BRETT_HUNTER", "KRIPPLER"]
+		},
+		{
+			"number": 10, 
+			"name": "CALLUM_WOLF",
+			"reign": 1,
+			"defenses": ["MR_ENVIRONMENT"]
 		}
 	],
-	"UNDERGROUND-KING":[
+	"DOM-TOP":[
 		{
 			"number": 1, 
 			"name": "DOLPH_ZIGGLER",
 			"reign": 1,
-			"defenses": ["PAC", "SHANE_HASTE"]
-		}
-	],
-	"UFC":[
-		{
-			"number": 1, 
-			"name": "GIGI_DOLIN",
-			"reign": 1,
-			"defenses": ["SCARLETT&CORA_JADE&STARLIGHT_KID", "CORA_JADE", "SCARLETT"]
+			"defenses": ["PAC", "SHANE_HASTE", "DANIEL_BRYAN"]
 		}
 	],
 	"MENS-TAG":[

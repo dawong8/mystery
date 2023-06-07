@@ -262,8 +262,7 @@ let shortHandDictionary = {
     "AT": "ALPHA-TOP",
     "WT": "WORLD-TOP",
     "MTAG": "MENS-TAG",
-    "UFC": "UFC", 
-    "UK": "UNDERGROUND-KING"
+    "DT": "DOM-TOP"
 };
 $(".nav-title").click(function() {
     $hof.addClass("hide");
