@@ -500,7 +500,7 @@ const titleHistory = {
 			"number": 85, 
 			"name": "TIFFANY_STRATTON",
 			"reign": 2,
-			"defenses": ["BETH_PHOENIX", "BETH_PHOENIX", "PEYTON_ROYCE", "BILLIE_KAY", "PEYTON_ROYCE"]
+			"defenses": ["BETH_PHOENIX", "BETH_PHOENIX", "PEYTON_ROYCE", "BILLIE_KAY", "PEYTON_ROYCE", "XIA_LI"]
 		}
 	],
 	"SMACKDOWN": [
@@ -866,7 +866,7 @@ const titleHistory = {
 			"number": 59, 
 			"name": "CORA_JADE",
 			"reign": 1,
-			"defenses": ["SASHA_BANKS&ROXANNE_PEREZ", "SASHA_BANKS", "ROXANNE_PEREZ-DQ"]
+			"defenses": ["SASHA_BANKS&ROXANNE_PEREZ", "SASHA_BANKS", "ROXANNE_PEREZ-DQ", "ROXANNE_PEREZ"]
 		}
 
 	], 
@@ -1314,7 +1314,7 @@ const titleHistory = {
 			"number": 41, 
 			"name": "THE WAY",
 			"members": "CANDICE_LERAE[2]&INDI_HARTWELL[2]",
-			"defenses": ["THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "DAMAGE CTRL (BAYLEY, DAKOTA_KAI)"]
+			"defenses": ["THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "DAMAGE CTRL (BAYLEY, DAKOTA_KAI)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)"]
 		}
 		
 	],
@@ -1859,7 +1859,7 @@ const titleHistory = {
 			"number": 28, 
 			"name": "JON_MOXLEY",
 			"reign": 4,
-			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB"], 
+			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1921,7 +1921,7 @@ const titleHistory = {
 			"number": 10, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT"]
+			"defenses": ["MR_ENVIRONMENT", "BEN_SEED"]
 		}
 	],
 	"DOM-TOP":[
@@ -1929,7 +1929,7 @@ const titleHistory = {
 			"number": 1, 
 			"name": "DOLPH_ZIGGLER",
 			"reign": 1,
-			"defenses": ["PAC", "SHANE_HASTE", "DANIEL_BRYAN"]
+			"defenses": ["PAC", "SHANE_HASTE", "DANIEL_BRYAN", "DREW_GULAK"]
 		}
 	],
 	"MENS-TAG":[
@@ -2026,6 +2026,12 @@ const titleHistory = {
 			"name": "DREAM COME TRUE",
 			"members": "DARBY_ALLIN[2]&SHANE_HASTE[2]",
 			"defenses": ["DUELING FORCES (JOHNNY_GARGANO, DREW_GULAK)"]
+		},
+		{
+			"number": 17, 
+			"name": "THE DP BOYS",
+			"members": "AUSTIN_THEORY[1]&JULIUS_CREED[1]",
+			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)"]
 		}
 	],
 	"TRIOS":[
