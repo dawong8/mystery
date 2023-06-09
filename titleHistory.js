@@ -1529,7 +1529,7 @@ const titleHistory = {
 			"number": 15, 
 			"name": "STARLIGHT_KID",
 			"reign": 1,
-			"defenses": ["RAM_KAICHOW", "AZM", "DOUDROP"]
+			"defenses": ["RAM_KAICHOW", "AZM", "DOUDROP", "DOUDROP"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1859,7 +1859,7 @@ const titleHistory = {
 			"number": 28, 
 			"name": "JON_MOXLEY",
 			"reign": 4,
-			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC"], 
+			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC", "RIDGE_HOLLAND"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1930,6 +1930,12 @@ const titleHistory = {
 			"name": "DOLPH_ZIGGLER",
 			"reign": 1,
 			"defenses": ["PAC", "SHANE_HASTE", "DANIEL_BRYAN", "DREW_GULAK"]
+		},
+		{
+			"number": 2, 
+			"name": "LA_KNIGHT",
+			"reign": 1,
+			"defenses": ["DOLPH_ZIGGLER"]
 		}
 	],
 	"MENS-TAG":[
@@ -2031,7 +2037,7 @@ const titleHistory = {
 			"number": 17, 
 			"name": "THE DP BOYS",
 			"members": "AUSTIN_THEORY[1]&JULIUS_CREED[1]",
-			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)"]
+			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)", "NEVERLAND (HOOK, DANIEL_BRYAN)"]
 		}
 	],
 	"TRIOS":[
