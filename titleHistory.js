@@ -501,6 +501,12 @@ const titleHistory = {
 			"name": "TIFFANY_STRATTON",
 			"reign": 2,
 			"defenses": ["BETH_PHOENIX", "BETH_PHOENIX", "PEYTON_ROYCE", "BILLIE_KAY", "PEYTON_ROYCE", "XIA_LI"]
+		},
+		{
+			"number": 86, 
+			"name": "AZM",
+			"reign": 1,
+			"defenses": ["UNAGI_SAYAKA&TIFFANY_STRATTON"]
 		}
 	],
 	"SMACKDOWN": [
@@ -1314,7 +1320,7 @@ const titleHistory = {
 			"number": 41, 
 			"name": "THE WAY",
 			"members": "CANDICE_LERAE[2]&INDI_HARTWELL[2]",
-			"defenses": ["THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "DAMAGE CTRL (BAYLEY, DAKOTA_KAI)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)"]
+			"defenses": ["THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "DAMAGE CTRL (BAYLEY, DAKOTA_KAI)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "DOUBLEHIT (MIA_YIM, SHOTZI)"]
 		}
 		
 	],
@@ -1691,7 +1697,7 @@ const titleHistory = {
 			"number": 27, 
 			"name": "CASH_WHEELER",
 			"reign": 4,
-			"defenses": ["BUDDY_MURPHY", "BUDDY_MURPHY", "LA_KNIGHT"]
+			"defenses": ["BUDDY_MURPHY", "BUDDY_MURPHY", "LA_KNIGHT", "THE_MIZ"]
 		}
 	],
 	"WORLD-TOP":[
@@ -1859,7 +1865,7 @@ const titleHistory = {
 			"number": 28, 
 			"name": "JON_MOXLEY",
 			"reign": 4,
-			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC", "RIDGE_HOLLAND"], 
+			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC", "RIDGE_HOLLAND", "RIDGE_HOLLAND"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1921,7 +1927,7 @@ const titleHistory = {
 			"number": 10, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT", "BEN_SEED"]
+			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER"]
 		}
 	],
 	"DOM-TOP":[
@@ -1935,7 +1941,7 @@ const titleHistory = {
 			"number": 2, 
 			"name": "LA_KNIGHT",
 			"reign": 1,
-			"defenses": ["DOLPH_ZIGGLER"]
+			"defenses": ["DOLPH_ZIGGLER", "JOHN_MORRISON"]
 		}
 	],
 	"MENS-TAG":[
@@ -2037,7 +2043,7 @@ const titleHistory = {
 			"number": 17, 
 			"name": "THE DP BOYS",
 			"members": "AUSTIN_THEORY[1]&JULIUS_CREED[1]",
-			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)", "NEVERLAND (HOOK, DANIEL_BRYAN)"]
+			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)", "NEVERLAND (HOOK, DANIEL_BRYAN)", "DUELING FORCES (JOHNNY_GARGANO, DREW_GULAK)"]
 		}
 	],
 	"TRIOS":[
