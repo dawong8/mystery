@@ -506,7 +506,7 @@ const titleHistory = {
 			"number": 86, 
 			"name": "AZM",
 			"reign": 1,
-			"defenses": ["UNAGI_SAYAKA&TIFFANY_STRATTON"]
+			"defenses": ["UNAGI_SAYAKA&TIFFANY_STRATTON", "UNAGI_SAYAKA", "TIFFANY_STRATTON"]
 		}
 	],
 	"SMACKDOWN": [
@@ -872,7 +872,7 @@ const titleHistory = {
 			"number": 59, 
 			"name": "CORA_JADE",
 			"reign": 1,
-			"defenses": ["SASHA_BANKS&ROXANNE_PEREZ", "SASHA_BANKS", "ROXANNE_PEREZ-DQ", "ROXANNE_PEREZ"]
+			"defenses": ["SASHA_BANKS&ROXANNE_PEREZ", "SASHA_BANKS", "ROXANNE_PEREZ-DQ", "ROXANNE_PEREZ", "DAKOTA_KAI", "ROXANNE_PEREZ-DQ"]
 		}
 
 	], 
@@ -1049,7 +1049,7 @@ const titleHistory = {
 			"number": 31, 
 			"name": "MADISON_RAYNE",
 			"reign": 1,
-			"defenses": ["ANGELINA_LOVE", "ANGELINA_LOVE"], 
+			"defenses": ["ANGELINA_LOVE", "ANGELINA_LOVE", "VELVET_SKY"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1321,6 +1321,18 @@ const titleHistory = {
 			"name": "THE WAY",
 			"members": "CANDICE_LERAE[2]&INDI_HARTWELL[2]",
 			"defenses": ["THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "DAMAGE CTRL (BAYLEY, DAKOTA_KAI)", "TEAM NINJA (KATANA_CHANCE, KAYDEN_CARTER)", "DOUBLEHIT (MIA_YIM, SHOTZI)"]
+		},
+		{
+			"number": 42, 
+			"name": "BLACK GIRL MAGIC",
+			"members": "NAOMI[1]&JAKARA_JACKSON[1]",
+			"defenses": ["THE WAY (INDI_HARTWELL, CANDICE_LERAE)"]
+		},
+		{
+			"number": 43, 
+			"name": "SILENT ROSE",
+			"members": "CHELSEA_GREEN[1]&MARIAH_MAY[1]",
+			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)"]
 		}
 		
 	],
@@ -1445,7 +1457,7 @@ const titleHistory = {
 			"number": 21, 
 			"name": "ZOEY_STARK",
 			"reign": 1,
-			"defenses": ["ROXANNE_PEREZ", "JACY_JAYNE", "SHOTZI", "MIA_YIM"]
+			"defenses": ["ROXANNE_PEREZ", "JACY_JAYNE", "SHOTZI", "MIA_YIM", "JACY_JAYNE"]
 		}
 	],
 	"US": [
@@ -1697,7 +1709,7 @@ const titleHistory = {
 			"number": 27, 
 			"name": "CASH_WHEELER",
 			"reign": 4,
-			"defenses": ["BUDDY_MURPHY", "BUDDY_MURPHY", "LA_KNIGHT", "THE_MIZ"]
+			"defenses": ["BUDDY_MURPHY", "BUDDY_MURPHY", "LA_KNIGHT", "THE_MIZ", "AUSTIN_THEORY"]
 		}
 	],
 	"WORLD-TOP":[
@@ -1865,7 +1877,7 @@ const titleHistory = {
 			"number": 28, 
 			"name": "JON_MOXLEY",
 			"reign": 4,
-			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC", "RIDGE_HOLLAND", "RIDGE_HOLLAND"], 
+			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC", "RIDGE_HOLLAND", "RIDGE_HOLLAND", "SHANE_HASTE", "SHANE_MCMAHON"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1927,7 +1939,7 @@ const titleHistory = {
 			"number": 10, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER"]
+			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ"]
 		}
 	],
 	"DOM-TOP":[
@@ -1941,7 +1953,7 @@ const titleHistory = {
 			"number": 2, 
 			"name": "LA_KNIGHT",
 			"reign": 1,
-			"defenses": ["DOLPH_ZIGGLER", "JOHN_MORRISON"]
+			"defenses": ["DOLPH_ZIGGLER", "JOHN_MORRISON", "JOHNNY_GARGANO", "AJ_STYLES"]
 		}
 	],
 	"MENS-TAG":[
@@ -2044,6 +2056,12 @@ const titleHistory = {
 			"name": "THE DP BOYS",
 			"members": "AUSTIN_THEORY[1]&JULIUS_CREED[1]",
 			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)", "NEVERLAND (HOOK, DANIEL_BRYAN)", "DUELING FORCES (JOHNNY_GARGANO, DREW_GULAK)"]
+		},
+		{
+			"number": 18, 
+			"name": "NEVERLAND",
+			"members": "HOOK[2]&DANIEL_BRYAN[2]",
+			"defenses": ["THE DP BOYS (AUSTIN_THEORY, JULIUS_CREED)","THE DP BOYS (AUSTIN_THEORY, JULIUS_CREED)","DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)"]
 		}
 	],
 	"TRIOS":[
@@ -2074,6 +2092,10 @@ const titleHistory = {
 			"name": "BLACK GIRL MAGIC",
 			"members": "NAOMI[1]&SASHA_BANKS[1]&JAKARA_JACKSON[1]",
 			"defenses": ["DAMAGE CTRL (DAKOTA_KAI, BAYLEY, IYO_SKY)", "DAMAGE CTRL (DAKOTA_KAI, BAYLEY, IYO_SKY)", "DAMAGE CTRL (DAKOTA_KAI, BAYLEY, IYO_SKY)"]
+		},
+		{
+			"number": 6, 
+			"name": "VACATED"
 		}
 	]
 };
