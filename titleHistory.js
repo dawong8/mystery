@@ -506,7 +506,7 @@ const titleHistory = {
 			"number": 86, 
 			"name": "AZM",
 			"reign": 1,
-			"defenses": ["UNAGI_SAYAKA&TIFFANY_STRATTON", "UNAGI_SAYAKA", "TIFFANY_STRATTON"]
+			"defenses": ["UNAGI_SAYAKA&TIFFANY_STRATTON", "UNAGI_SAYAKA", "TIFFANY_STRATTON", "RAM_KAICHOW"]
 		}
 	],
 	"SMACKDOWN": [
@@ -873,6 +873,12 @@ const titleHistory = {
 			"name": "CORA_JADE",
 			"reign": 1,
 			"defenses": ["SASHA_BANKS&ROXANNE_PEREZ", "SASHA_BANKS", "ROXANNE_PEREZ-DQ", "ROXANNE_PEREZ", "DAKOTA_KAI", "ROXANNE_PEREZ-DQ"]
+		},
+		{
+			"number": 60, 
+			"name": "DAKOTA_KAI",
+			"reign": 2,
+			"defenses": ["CORA_JADE"]
 		}
 
 	], 
@@ -1332,7 +1338,7 @@ const titleHistory = {
 			"number": 43, 
 			"name": "SILENT ROSE",
 			"members": "CHELSEA_GREEN[1]&MARIAH_MAY[1]",
-			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)"]
+			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)"]
 		}
 		
 	],
@@ -1548,6 +1554,12 @@ const titleHistory = {
 			"name": "STARLIGHT_KID",
 			"reign": 1,
 			"defenses": ["RAM_KAICHOW", "AZM", "DOUDROP", "DOUDROP"]
+		},
+		{
+			"number": 16, 
+			"name": "CARMELLA",
+			"reign": 2,
+			"defenses": ["STARLIGHT_KID", "ZELINA_VEGA"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1710,6 +1722,12 @@ const titleHistory = {
 			"name": "CASH_WHEELER",
 			"reign": 4,
 			"defenses": ["BUDDY_MURPHY", "BUDDY_MURPHY", "LA_KNIGHT", "THE_MIZ", "AUSTIN_THEORY"]
+		},
+		{
+			"number": 28, 
+			"name": "DEXTER_LUMIS",
+			"reign": 2,
+			"defenses": ["CASH_WHEELER"]
 		}
 	],
 	"WORLD-TOP":[
@@ -1877,7 +1895,7 @@ const titleHistory = {
 			"number": 28, 
 			"name": "JON_MOXLEY",
 			"reign": 4,
-			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC", "RIDGE_HOLLAND", "RIDGE_HOLLAND", "SHANE_HASTE", "SHANE_MCMAHON"], 
+			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC", "RIDGE_HOLLAND", "RIDGE_HOLLAND", "SHANE_HASTE", "SHANE_MCMAHON", "RIDGE_HOLLAND&SHANE_HASTE"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1939,7 +1957,7 @@ const titleHistory = {
 			"number": 10, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ"]
+			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON"]
 		}
 	],
 	"DOM-TOP":[
@@ -1954,6 +1972,12 @@ const titleHistory = {
 			"name": "LA_KNIGHT",
 			"reign": 1,
 			"defenses": ["DOLPH_ZIGGLER", "JOHN_MORRISON", "JOHNNY_GARGANO", "AJ_STYLES"]
+		},
+		{
+			"number": 3, 
+			"name": "FANDANGO",
+			"reign": 1,
+			"defenses": ["LA_KNIGHT"]
 		}
 	],
 	"MENS-TAG":[
@@ -2062,6 +2086,12 @@ const titleHistory = {
 			"name": "NEVERLAND",
 			"members": "HOOK[2]&DANIEL_BRYAN[2]",
 			"defenses": ["THE DP BOYS (AUSTIN_THEORY, JULIUS_CREED)","THE DP BOYS (AUSTIN_THEORY, JULIUS_CREED)","DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)"]
+		},
+		{
+			"number": 19, 
+			"name": "ALPHA ACADEMY",
+			"members": "CHAD_GABLE[1]&OTIS[1]",
+			"defenses": ["NEVERLAND (HOOK, DANIEL_BRYAN)","THE DP BOYS (AUSTIN_THEORY, JULIUS_CREED)"]
 		}
 	],
 	"TRIOS":[
