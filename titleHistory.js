@@ -506,7 +506,7 @@ const titleHistory = {
 			"number": 86, 
 			"name": "AZM",
 			"reign": 1,
-			"defenses": ["UNAGI_SAYAKA&TIFFANY_STRATTON", "UNAGI_SAYAKA", "TIFFANY_STRATTON", "RAM_KAICHOW"]
+			"defenses": ["UNAGI_SAYAKA&TIFFANY_STRATTON", "UNAGI_SAYAKA", "TIFFANY_STRATTON", "RAM_KAICHOW", "GIGI_DOLIN"]
 		}
 	],
 	"SMACKDOWN": [
@@ -878,7 +878,7 @@ const titleHistory = {
 			"number": 60, 
 			"name": "DAKOTA_KAI",
 			"reign": 2,
-			"defenses": ["CORA_JADE"]
+			"defenses": ["CORA_JADE", "CORA_JADE"]
 		}
 
 	], 
@@ -1338,7 +1338,7 @@ const titleHistory = {
 			"number": 43, 
 			"name": "SILENT ROSE",
 			"members": "CHELSEA_GREEN[1]&MARIAH_MAY[1]",
-			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)"]
+			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "ALISON_JANS, ROXANNE_PEREZ"]
 		}
 		
 	],
@@ -1559,7 +1559,7 @@ const titleHistory = {
 			"number": 16, 
 			"name": "CARMELLA",
 			"reign": 2,
-			"defenses": ["STARLIGHT_KID", "ZELINA_VEGA"]
+			"defenses": ["STARLIGHT_KID", "ZELINA_VEGA", "DANA_BROOKE"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1727,7 +1727,7 @@ const titleHistory = {
 			"number": 28, 
 			"name": "DEXTER_LUMIS",
 			"reign": 2,
-			"defenses": ["CASH_WHEELER"]
+			"defenses": ["CASH_WHEELER", "AJ_STYLES", "AUSTIN_THEORY"]
 		}
 	],
 	"WORLD-TOP":[
@@ -1895,7 +1895,7 @@ const titleHistory = {
 			"number": 28, 
 			"name": "JON_MOXLEY",
 			"reign": 4,
-			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC", "RIDGE_HOLLAND", "RIDGE_HOLLAND", "SHANE_HASTE", "SHANE_MCMAHON", "RIDGE_HOLLAND&SHANE_HASTE"], 
+			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC", "RIDGE_HOLLAND", "RIDGE_HOLLAND", "SHANE_HASTE", "SHANE_MCMAHON", "RIDGE_HOLLAND&SHANE_HASTE", "SHANE_HASTE", "PAC"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1957,7 +1957,7 @@ const titleHistory = {
 			"number": 10, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON"]
+			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON", "FRED_CHATTY"]
 		}
 	],
 	"DOM-TOP":[
