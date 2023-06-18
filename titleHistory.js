@@ -1056,6 +1056,12 @@ const titleHistory = {
 			"name": "MADISON_RAYNE",
 			"reign": 1,
 			"defenses": ["ANGELINA_LOVE", "ANGELINA_LOVE", "VELVET_SKY"], 
+		},
+		{
+			"number": 32, 
+			"name": "MICHELLE_VELVET",
+			"reign": 1,
+			"defenses": ["MADISON_RAYNE"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1957,7 +1963,7 @@ const titleHistory = {
 			"number": 10, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON", "FRED_CHATTY"]
+			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON", "FRED_CHATTY", "MR_ENVIRONMENT"]
 		}
 	],
 	"DOM-TOP":[
