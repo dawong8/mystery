@@ -878,7 +878,7 @@ const titleHistory = {
 			"number": 60, 
 			"name": "DAKOTA_KAI",
 			"reign": 2,
-			"defenses": ["CORA_JADE", "CORA_JADE"]
+			"defenses": ["CORA_JADE", "CORA_JADE", "ROXANNE_PEREZ"]
 		}
 
 	], 
@@ -1061,7 +1061,7 @@ const titleHistory = {
 			"number": 32, 
 			"name": "MICHELLE_VELVET",
 			"reign": 1,
-			"defenses": ["MADISON_RAYNE"], 
+			"defenses": ["MADISON_RAYNE", "MADISON_RAYNE"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1469,7 +1469,7 @@ const titleHistory = {
 			"number": 21, 
 			"name": "ZOEY_STARK",
 			"reign": 1,
-			"defenses": ["ROXANNE_PEREZ", "JACY_JAYNE", "SHOTZI", "MIA_YIM", "JACY_JAYNE"]
+			"defenses": ["ROXANNE_PEREZ", "JACY_JAYNE", "SHOTZI", "MIA_YIM", "JACY_JAYNE", "BAYLEY"]
 		}
 	],
 	"US": [
@@ -1902,6 +1902,12 @@ const titleHistory = {
 			"name": "JON_MOXLEY",
 			"reign": 4,
 			"defenses": ["KENNY_OMEGA", "JULIUS_CREED-MITB", "PAC", "RIDGE_HOLLAND", "RIDGE_HOLLAND", "SHANE_HASTE", "SHANE_MCMAHON", "RIDGE_HOLLAND&SHANE_HASTE", "SHANE_HASTE", "PAC"], 
+		},
+		{
+			"number": 29, 
+			"name": "SHANE_HASTE",
+			"reign": 1,
+			"defenses": ["JON_MOXLEY", "JON_MOXLEY"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1963,7 +1969,7 @@ const titleHistory = {
 			"number": 10, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON", "FRED_CHATTY", "MR_ENVIRONMENT"]
+			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON", "FRED_CHATTY", "MR_ENVIRONMENT", "BEN_SEED"]
 		}
 	],
 	"DOM-TOP":[
@@ -1983,7 +1989,7 @@ const titleHistory = {
 			"number": 3, 
 			"name": "FANDANGO",
 			"reign": 1,
-			"defenses": ["LA_KNIGHT"]
+			"defenses": ["LA_KNIGHT", "GIOVANNI_VINCI"]
 		}
 	],
 	"MENS-TAG":[
