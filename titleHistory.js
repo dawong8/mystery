@@ -506,7 +506,7 @@ const titleHistory = {
 			"number": 86, 
 			"name": "AZM",
 			"reign": 1,
-			"defenses": ["UNAGI_SAYAKA&TIFFANY_STRATTON", "UNAGI_SAYAKA", "TIFFANY_STRATTON", "RAM_KAICHOW", "GIGI_DOLIN"]
+			"defenses": ["UNAGI_SAYAKA&TIFFANY_STRATTON", "UNAGI_SAYAKA", "TIFFANY_STRATTON", "RAM_KAICHOW", "GIGI_DOLIN", "STARLIGHT_KID"]
 		}
 	],
 	"SMACKDOWN": [
@@ -879,6 +879,12 @@ const titleHistory = {
 			"name": "DAKOTA_KAI",
 			"reign": 2,
 			"defenses": ["CORA_JADE", "CORA_JADE", "ROXANNE_PEREZ"]
+		},
+		{
+			"number": 61, 
+			"name": "LIV_MORGAN",
+			"reign": 3,
+			"defenses": ["DAKOTA_KAI"]
 		}
 
 	], 
@@ -1734,6 +1740,12 @@ const titleHistory = {
 			"name": "DEXTER_LUMIS",
 			"reign": 2,
 			"defenses": ["CASH_WHEELER", "AJ_STYLES", "AUSTIN_THEORY"]
+		},
+		{
+			"number": 29, 
+			"name": "AUSTIN_THEORY",
+			"reign": 1,
+			"defenses": ["DEXTER_LUMIS"]
 		}
 	],
 	"WORLD-TOP":[
@@ -1908,6 +1920,12 @@ const titleHistory = {
 			"name": "SHANE_HASTE",
 			"reign": 1,
 			"defenses": ["JON_MOXLEY", "JON_MOXLEY"], 
+		},
+		{
+			"number": 30, 
+			"name": "FINN_BALOR",
+			"reign": 7,
+			"defenses": ["SHANE_HASTE"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1969,7 +1987,7 @@ const titleHistory = {
 			"number": 10, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON", "FRED_CHATTY", "MR_ENVIRONMENT", "BEN_SEED"]
+			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON", "FRED_CHATTY", "MR_ENVIRONMENT", "BEN_SEED", "POSI"]
 		}
 	],
 	"DOM-TOP":[
@@ -2103,7 +2121,7 @@ const titleHistory = {
 			"number": 19, 
 			"name": "ALPHA ACADEMY",
 			"members": "CHAD_GABLE[1]&OTIS[1]",
-			"defenses": ["NEVERLAND (HOOK, DANIEL_BRYAN)","THE DP BOYS (AUSTIN_THEORY, JULIUS_CREED)"]
+			"defenses": ["NEVERLAND (HOOK, DANIEL_BRYAN)","THE DP BOYS (AUSTIN_THEORY, JULIUS_CREED)", "DUELING FORCES (JOHNNY_GARGANO, DREW_GULAK)"]
 		}
 	],
 	"TRIOS":[
