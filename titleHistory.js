@@ -507,6 +507,12 @@ const titleHistory = {
 			"name": "AZM",
 			"reign": 1,
 			"defenses": ["UNAGI_SAYAKA&TIFFANY_STRATTON", "UNAGI_SAYAKA", "TIFFANY_STRATTON", "RAM_KAICHOW", "GIGI_DOLIN", "STARLIGHT_KID"]
+		},
+		{
+			"number": 87, 
+			"name": "MASK_GIRL",
+			"reign": 1,
+			"defenses": ["AZM"]
 		}
 	],
 	"SMACKDOWN": [
@@ -884,7 +890,7 @@ const titleHistory = {
 			"number": 61, 
 			"name": "LIV_MORGAN",
 			"reign": 3,
-			"defenses": ["DAKOTA_KAI"]
+			"defenses": ["DAKOTA_KAI", "DAKOTA_KAI"]
 		}
 
 	], 
@@ -1067,7 +1073,7 @@ const titleHistory = {
 			"number": 32, 
 			"name": "MICHELLE_VELVET",
 			"reign": 1,
-			"defenses": ["MADISON_RAYNE", "MADISON_RAYNE"], 
+			"defenses": ["MADISON_RAYNE", "MADISON_RAYNE", "SLADER", "HALIE_QUINN"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1350,7 +1356,7 @@ const titleHistory = {
 			"number": 43, 
 			"name": "SILENT ROSE",
 			"members": "CHELSEA_GREEN[1]&MARIAH_MAY[1]",
-			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "ALISON_JANS, ROXANNE_PEREZ"]
+			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "ALISON_JANS, ROXANNE_PEREZ", "BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)"]
 		}
 		
 	],
@@ -1571,7 +1577,7 @@ const titleHistory = {
 			"number": 16, 
 			"name": "CARMELLA",
 			"reign": 2,
-			"defenses": ["STARLIGHT_KID", "ZELINA_VEGA", "DANA_BROOKE"]
+			"defenses": ["STARLIGHT_KID", "ZELINA_VEGA", "DANA_BROOKE", "RAQUEL_RODRIQUEZ"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1745,7 +1751,7 @@ const titleHistory = {
 			"number": 29, 
 			"name": "AUSTIN_THEORY",
 			"reign": 1,
-			"defenses": ["DEXTER_LUMIS"]
+			"defenses": ["DEXTER_LUMIS", "AJ_STYLES"]
 		}
 	],
 	"WORLD-TOP":[
@@ -1926,6 +1932,12 @@ const titleHistory = {
 			"name": "FINN_BALOR",
 			"reign": 7,
 			"defenses": ["SHANE_HASTE"], 
+		},
+		{
+			"number": 31, 
+			"name": "CALLUM_WOLF",
+			"reign": 1,
+			"defenses": ["FINN_BALOR"], 
 		}
 	],
 	"MENS-NXT":[
@@ -1987,7 +1999,17 @@ const titleHistory = {
 			"number": 10, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON", "FRED_CHATTY", "MR_ENVIRONMENT", "BEN_SEED", "POSI"]
+			"defenses": ["MR_ENVIRONMENT", "BEN_SEED", "KRIPPLER", "CLIFF_LEMON", "CLIFF_LEMON-DQ", "CLIFF_LEMON", "FRED_CHATTY", "MR_ENVIRONMENT", "BEN_SEED", "POSI", "BEN_SEED"]
+		},
+		{
+			"number": 11,
+			"name": "VACATED"
+		},
+		{
+			"number": 12, 
+			"name": "MR_ENVIRONMENT",
+			"reign": 2,
+			"defenses": ["BEN_SEED&BRENT_HUNTER&BRETT_HUNTER"]
 		}
 	],
 	"DOM-TOP":[
@@ -2007,7 +2029,7 @@ const titleHistory = {
 			"number": 3, 
 			"name": "FANDANGO",
 			"reign": 1,
-			"defenses": ["LA_KNIGHT", "GIOVANNI_VINCI"]
+			"defenses": ["LA_KNIGHT", "GIOVANNI_VINCI", "DREW_GULAK"]
 		}
 	],
 	"MENS-TAG":[
@@ -2122,6 +2144,12 @@ const titleHistory = {
 			"name": "ALPHA ACADEMY",
 			"members": "CHAD_GABLE[1]&OTIS[1]",
 			"defenses": ["NEVERLAND (HOOK, DANIEL_BRYAN)","THE DP BOYS (AUSTIN_THEORY, JULIUS_CREED)", "DUELING FORCES (JOHNNY_GARGANO, DREW_GULAK)"]
+		},
+		{
+			"number": 20, 
+			"name": "DREAM COME TRUE",
+			"members": "DARBY_ALLIN[3]&SHANE_HASTE[3]",
+			"defenses": ["ALPHA ACADEMY (CHAD_GABLE, OTIS)"]
 		}
 	],
 	"TRIOS":[
