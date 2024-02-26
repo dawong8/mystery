@@ -512,7 +512,13 @@ const titleHistory = {
 			"number": 87, 
 			"name": "MASK_GIRL",
 			"reign": 1,
-			"defenses": ["AZM"]
+			"defenses": ["AZM", "BETH_PHOENIX"]
+		},
+		{
+			"number": 88, 
+			"name": "AZM",
+			"reign": 2,
+			"defenses": ["MASK_GIRL"]
 		}
 	],
 	"SMACKDOWN": [
@@ -1074,6 +1080,16 @@ const titleHistory = {
 			"name": "MICHELLE_VELVET",
 			"reign": 1,
 			"defenses": ["MADISON_RAYNE", "MADISON_RAYNE", "SLADER", "HALIE_QUINN"], 
+		},
+		{
+			"number": 33, 
+			"name": "VACATED"
+		},
+		{
+			"number": 34, 
+			"name": "SLADER",
+			"reign": 1,
+			"defenses": ["KIRA"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1752,6 +1768,12 @@ const titleHistory = {
 			"name": "AUSTIN_THEORY",
 			"reign": 1,
 			"defenses": ["DEXTER_LUMIS", "AJ_STYLES"]
+		},
+		{
+			"number": 30, 
+			"name": "KRIPPLER",
+			"reign": 1,
+			"defenses": ["AUSTIN_THEORY"]
 		}
 	],
 	"WORLD-TOP":[
@@ -1937,7 +1959,7 @@ const titleHistory = {
 			"number": 31, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["FINN_BALOR"], 
+			"defenses": ["FINN_BALOR", "FINN_BALOR"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2009,7 +2031,7 @@ const titleHistory = {
 			"number": 12, 
 			"name": "MR_ENVIRONMENT",
 			"reign": 2,
-			"defenses": ["BEN_SEED&BRENT_HUNTER&BRETT_HUNTER"]
+			"defenses": ["BEN_SEED&BRENT_HUNTER&BRETT_HUNTER", "BEN_SEED"]
 		}
 	],
 	"DOM-TOP":[
@@ -2030,6 +2052,10 @@ const titleHistory = {
 			"name": "FANDANGO",
 			"reign": 1,
 			"defenses": ["LA_KNIGHT", "GIOVANNI_VINCI", "DREW_GULAK"]
+		},
+		{
+			"number": 4,
+			"name": "VACATED"
 		}
 	],
 	"MENS-TAG":[
