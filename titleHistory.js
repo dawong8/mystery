@@ -896,7 +896,7 @@ const titleHistory = {
 			"number": 61, 
 			"name": "LIV_MORGAN",
 			"reign": 3,
-			"defenses": ["DAKOTA_KAI", "DAKOTA_KAI"]
+			"defenses": ["DAKOTA_KAI", "DAKOTA_KAI", "MICHELLE_VELVET"]
 		}
 
 	], 
@@ -1498,6 +1498,12 @@ const titleHistory = {
 			"name": "ZOEY_STARK",
 			"reign": 1,
 			"defenses": ["ROXANNE_PEREZ", "JACY_JAYNE", "SHOTZI", "MIA_YIM", "JACY_JAYNE", "BAYLEY"]
+		},
+		{
+			"number": 22, 
+			"name": "JUNGO",
+			"reign": 1,
+			"defenses": ["ZOEY_STARK"]
 		}
 	],
 	"US": [
@@ -2032,6 +2038,12 @@ const titleHistory = {
 			"name": "MR_ENVIRONMENT",
 			"reign": 2,
 			"defenses": ["BEN_SEED&BRENT_HUNTER&BRETT_HUNTER", "BEN_SEED"]
+		},
+		{
+			"number": 13, 
+			"name": "JOHNNY_AMERICA",
+			"reign": 1,
+			"defenses": ["MR_ENVIRONMENT"]
 		}
 	],
 	"DOM-TOP":[
@@ -2176,6 +2188,12 @@ const titleHistory = {
 			"name": "DREAM COME TRUE",
 			"members": "DARBY_ALLIN[3]&SHANE_HASTE[3]",
 			"defenses": ["ALPHA ACADEMY (CHAD_GABLE, OTIS)"]
+		},
+		{
+			"number": 21, 
+			"name": "THE HUNTER BROTHERS",
+			"members": "BRETT_HUNTER[1]&BRENT_HUNTER[1]",
+			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)"]
 		}
 	],
 	"TRIOS":[
@@ -2210,6 +2228,12 @@ const titleHistory = {
 		{
 			"number": 6, 
 			"name": "VACATED"
+		},
+		{
+			"number": 7, 
+			"name": "SILENT ROSE",
+			"members": "CORA_JADE[1]&GIGI_DOLIN[1]&TERESA_SHARP[1]",
+			"defenses": ["BLACK GIRL MAGIC (SASHA_BANKS, NAOMI, JAKARA_JACKSON)"]
 		}
 	]
 };
