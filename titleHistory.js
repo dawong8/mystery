@@ -518,7 +518,7 @@ const titleHistory = {
 			"number": 88, 
 			"name": "AZM",
 			"reign": 2,
-			"defenses": ["MASK_GIRL"]
+			"defenses": ["MASK_GIRL", "MASK_GIRL", "UNAGI_SAYAKA"]
 		}
 	],
 	"SMACKDOWN": [
@@ -896,7 +896,13 @@ const titleHistory = {
 			"number": 61, 
 			"name": "LIV_MORGAN",
 			"reign": 3,
-			"defenses": ["DAKOTA_KAI", "DAKOTA_KAI", "MICHELLE_VELVET"]
+			"defenses": ["DAKOTA_KAI", "DAKOTA_KAI", "MICHELLE_VELVET", "MICHELLE_VELVET"]
+		},
+		{
+			"number": 62, 
+			"name": "ALISON_JANS",
+			"reign": 2,
+			"defenses": ["LIV_MORGAN"]
 		}
 
 	], 
@@ -1089,7 +1095,7 @@ const titleHistory = {
 			"number": 34, 
 			"name": "SLADER",
 			"reign": 1,
-			"defenses": ["KIRA"], 
+			"defenses": ["KIRA", "LISA_LOST"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1372,7 +1378,7 @@ const titleHistory = {
 			"number": 43, 
 			"name": "SILENT ROSE",
 			"members": "CHELSEA_GREEN[1]&MARIAH_MAY[1]",
-			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "ALISON_JANS, ROXANNE_PEREZ", "BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)"]
+			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "ALISON_JANS, ROXANNE_PEREZ", "BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)"]
 		}
 		
 	],
@@ -1503,7 +1509,7 @@ const titleHistory = {
 			"number": 22, 
 			"name": "JUNGO",
 			"reign": 1,
-			"defenses": ["ZOEY_STARK"]
+			"defenses": ["ZOEY_STARK", "ROXANNE_PEREZ", "ROXANNE_PEREZ"]
 		}
 	],
 	"US": [
@@ -1600,6 +1606,12 @@ const titleHistory = {
 			"name": "CARMELLA",
 			"reign": 2,
 			"defenses": ["STARLIGHT_KID", "ZELINA_VEGA", "DANA_BROOKE", "RAQUEL_RODRIQUEZ"]
+		},
+		{
+			"number": 17, 
+			"name": "CYNTHIA_RAMIREZ",
+			"reign": 1,
+			"defenses": ["CARMELLA"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1779,7 +1791,7 @@ const titleHistory = {
 			"number": 30, 
 			"name": "KRIPPLER",
 			"reign": 1,
-			"defenses": ["AUSTIN_THEORY"]
+			"defenses": ["AUSTIN_THEORY", "POSI", "JASON_HONEY"]
 		}
 	],
 	"WORLD-TOP":[
@@ -1965,7 +1977,7 @@ const titleHistory = {
 			"number": 31, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["FINN_BALOR", "FINN_BALOR"], 
+			"defenses": ["FINN_BALOR", "FINN_BALOR", "AJ_STYLES", "AJ_STYLES"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2043,7 +2055,7 @@ const titleHistory = {
 			"number": 13, 
 			"name": "JOHNNY_AMERICA",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT"]
+			"defenses": ["MR_ENVIRONMENT", "RYAN_PAGE"]
 		}
 	],
 	"DOM-TOP":[
@@ -2068,6 +2080,12 @@ const titleHistory = {
 		{
 			"number": 4,
 			"name": "VACATED"
+		},
+		{
+			"number": 5, 
+			"name": "BEN_SEED",
+			"reign": 1,
+			"defenses": ["MR_ENVIRONMENT&CLIFF_LEMON&TYSON_EVERETT", "FANDANGO"]
 		}
 	],
 	"MENS-TAG":[
@@ -2193,7 +2211,7 @@ const titleHistory = {
 			"number": 21, 
 			"name": "THE HUNTER BROTHERS",
 			"members": "BRETT_HUNTER[1]&BRENT_HUNTER[1]",
-			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)"]
+			"defenses": ["DREAM COME TRUE (DARBY_ALLIN, SHANE_HASTE)", "LEMON RUSH (CLIFF_LEMON, RUSSELL_RUSH)"]
 		}
 	],
 	"TRIOS":[
@@ -2233,7 +2251,13 @@ const titleHistory = {
 			"number": 7, 
 			"name": "SILENT ROSE",
 			"members": "CORA_JADE[1]&GIGI_DOLIN[1]&TERESA_SHARP[1]",
-			"defenses": ["BLACK GIRL MAGIC (SASHA_BANKS, NAOMI, JAKARA_JACKSON)"]
+			"defenses": ["BLACK GIRL MAGIC (SASHA_BANKS, NAOMI, JAKARA_JACKSON)", "TEAM BAD (CARMELLA, NAOMI, TAMINA)"]
+		},
+		{
+			"number": 8, 
+			"name": "TEAM BAD",
+			"members": "NAOMI[2]&CARMELLA[1]&TAMINA[1]",
+			"defenses": ["SILENT ROSE (CORA_JADE, GIGI_DOLIN, TERESA_SHARP)"]
 		}
 	]
 };
