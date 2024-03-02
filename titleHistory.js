@@ -909,6 +909,12 @@ const titleHistory = {
 			"name": "LIV_MORGAN",
 			"reign": 4,
 			"defenses": ["ALISON_JANS", "DAKOTA_KAI", "LISA_LOST"]
+		},
+		{
+			"number": 64, 
+			"name": "ALISON_JANS",
+			"reign": 3,
+			"defenses": ["LIV_MORGAN", "CORA_JADE"]
 		}
 
 	], 
@@ -1524,6 +1530,12 @@ const titleHistory = {
 			"name": "TERESA_SHARP",
 			"reign": 1,
 			"defenses": ["JUNGO", "JUNGO"]
+		},
+		{
+			"number": 24, 
+			"name": "MICHELLE_VELVET",
+			"reign": 1,
+			"defenses": ["TERESA_SHARP"]
 		}
 	],
 	"US": [
@@ -1625,7 +1637,7 @@ const titleHistory = {
 			"number": 17, 
 			"name": "CYNTHIA_RAMIREZ",
 			"reign": 1,
-			"defenses": ["CARMELLA", "CARMELLA", "NAOMI", "TAMINA", "TAMINA&CARMELLA&UNAGI_SAYAKA"]
+			"defenses": ["CARMELLA", "CARMELLA", "NAOMI", "TAMINA", "TAMINA&CARMELLA&UNAGI_SAYAKA", "CARMELLA"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1816,6 +1828,12 @@ const titleHistory = {
 		{
 			"number": 32, 
 			"name": "VACATED"
+		},
+		{
+			"number": 33, 
+			"name": "JASON_HONEY",
+			"reign": 1,
+			"defenses": ["BRENT_HUNTER&POSI&JASON_HONEY&CLIFF_LEMON&RUSSELL_RUSH", "POSI"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2013,7 +2031,19 @@ const titleHistory = {
 			"number": 33, 
 			"name": "CALLUM_WOLF",
 			"reign": 2,
-			"defenses": ["TYSON_EVERETT", "ADAM_PEARCE", "ADAM_PEARCE&TYSON_EVERETT", "KARRION_KROSS"], 
+			"defenses": ["TYSON_EVERETT", "ADAM_PEARCE", "ADAM_PEARCE&TYSON_EVERETT", "KARRION_KROSS", "TYSON_EVERETT-DQ"], 
+		},
+		{
+			"number": 34, 
+			"name": "ADAM_PEARCE",
+			"reign": 2,
+			"defenses": ["TYSON_EVERETT&BEN_SEED&CALLUM_WOLF"], 
+		},
+		{
+			"number": 35, 
+			"name": "CALLUM_WOLF",
+			"reign": 3,
+			"defenses": ["ADAM_PEARCE"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2122,6 +2152,12 @@ const titleHistory = {
 			"name": "BEN_SEED",
 			"reign": 1,
 			"defenses": ["MR_ENVIRONMENT&CLIFF_LEMON&TYSON_EVERETT", "FANDANGO", "RUSSELL_RUSH", "RUSSELL_RUSH", "KRIPPLER-DQ"]
+		},
+		{
+			"number": 6, 
+			"name": "KRIPPLER",
+			"reign": 1,
+			"defenses": ["BEN_SEED"]
 		}
 	],
 	"MENS-TAG":[
@@ -2254,6 +2290,12 @@ const titleHistory = {
 			"name": "GLOBAL PROTECTORS",
 			"members": "CLIP_MAVERICK[1]&MR_ENVIRONMENT[1]",
 			"defenses": ["THE HUNTER BROTHERS (BRETT_HUNTER, BRENT_HUNTER)", "LEMON RUSH (CLIFF_LEMON, RUSSELL_RUSH)"]
+		},
+		{
+			"number": 23, 
+			"name": "THE HUNTER BROTHERS",
+			"members": "BRETT_HUNTER[2]&BRENT_HUNTER[2]",
+			"defenses": ["GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)"]
 		}
 	],
 	"TRIOS":[
@@ -2305,7 +2347,7 @@ const titleHistory = {
 			"number": 9, 
 			"name": "SILENT ROSE",
 			"members": "CORA_JADE[2]&GIGI_DOLIN[2]&SCARLETT[1]",
-			"defenses": ["TEAM BAD (CARMELLA, NAOMI, TAMINA)", "TEAM BAD (CARMELLA, NAOMI, TAMINA)"]
+			"defenses": ["TEAM BAD (CARMELLA, NAOMI, TAMINA)", "TEAM BAD (CARMELLA, NAOMI, TAMINA)", "TEAM BAD (CARMELLA, NAOMI, TAMINA)"]
 		}
 	]
 };
