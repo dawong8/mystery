@@ -2121,7 +2121,7 @@ const titleHistory = {
 			"number": 13, 
 			"name": "JOHNNY_AMERICA",
 			"reign": 1,
-			"defenses": ["MR_ENVIRONMENT", "RYAN_PAGE", "FRED_CHATTY", "FRED_CHATTY&TURBO"]
+			"defenses": ["MR_ENVIRONMENT", "RYAN_PAGE", "FRED_CHATTY", "FRED_CHATTY&TURBO", "TURBO&RYAN_PAGE"]
 		}
 	],
 	"DOM-TOP":[
