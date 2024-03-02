@@ -2396,6 +2396,10 @@ const titleHistory = {
 			"name": "SILENT ROSE",
 			"members": "CORA_JADE[2]&GIGI_DOLIN[2]&SCARLETT[1]",
 			"defenses": ["TEAM BAD (CARMELLA, NAOMI, TAMINA)", "TEAM BAD (CARMELLA, NAOMI, TAMINA)", "TEAM BAD (CARMELLA, NAOMI, TAMINA)"]
+		},
+		{
+			"number": 10, 
+			"name": "VACATED"
 		}
 	]
 };
