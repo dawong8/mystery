@@ -525,6 +525,12 @@ const titleHistory = {
 			"name": "CYNTHIA_RAMIREZ",
 			"reign": 1,
 			"defenses": ["AZM"]
+		},
+		{
+			"number": 90, 
+			"name": "AMA_BIG",
+			"reign": 1,
+			"defenses": ["CYNTHIA_RAMIREZ", "CYNTHIA_RAMIREZ"]
 		}
 	],
 	"SMACKDOWN": [
@@ -927,6 +933,12 @@ const titleHistory = {
 			"name": "LIV_MORGAN",
 			"reign": 5,
 			"defenses": ["ALISON_JANS", "ALISON_JANS", "ALISON_JANS"]
+		},
+		{
+			"number": 66, 
+			"name": "CORA_JADE",
+			"reign": 2,
+			"defenses": ["LIV_MORGAN", "ALISON_JANS", "ROXANNE_PEREZ", "ROXANNE_PEREZ"]
 		}
 
 	], 
@@ -1125,7 +1137,7 @@ const titleHistory = {
 			"number": 35, 
 			"name": "NELLY",
 			"reign": 1,
-			"defenses": ["SLADER"], 
+			"defenses": ["SLADER", "SLADER&BLAIRE_COUNTY"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1410,7 +1422,13 @@ const titleHistory = {
 			"number": 43, 
 			"name": "SILENT ROSE",
 			"members": "CHELSEA_GREEN[1]&MARIAH_MAY[1]",
-			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "ALISON_JANS, ROXANNE_PEREZ", "BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)"]
+			"defenses": ["BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "THE IICONICS (PEYTON_ROYCE, BILLIE_KAY)", "ALISON_JANS, ROXANNE_PEREZ", "BLACK GIRL MAGIC (NAOMI, JAKARA_JACKSON)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)", "TEAM BAD (NAOMI, TAMINA)"]
+		},
+		{
+			"number": 44, 
+			"name": "THE FALLEN",
+			"members": "LIV_MORGAN[1]&GIGI_DOLIN[2]",
+			"defenses": ["SILENT ROSE (CHELSEA_GREEN, MARIAH_MAY)"]
 		}
 		
 	],
@@ -1559,7 +1577,7 @@ const titleHistory = {
 			"number": 25, 
 			"name": "SLOANE",
 			"reign": 1,
-			"defenses": ["MICHELLE_VELVET", "ROXANNE_PEREZ"]
+			"defenses": ["MICHELLE_VELVET", "ROXANNE_PEREZ", "MICHELLE_VELVET"]
 		}
 	],
 	"US": [
@@ -1668,6 +1686,12 @@ const titleHistory = {
 			"name": "ALICIA_HOUSE",
 			"reign": 1,
 			"defenses": ["CYNTHIA_RAMIREZ"]
+		},
+		{
+			"number": 19, 
+			"name": "JULIET_SUNSET",
+			"reign": 1,
+			"defenses": ["ALICIA_HOUSE"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1869,7 +1893,7 @@ const titleHistory = {
 			"number": 34, 
 			"name": "CLIFF_LEMON",
 			"reign": 1,
-			"defenses": ["JASON_HONEY", "JASON_HONEY", "BRENT_HUNTER"]
+			"defenses": ["JASON_HONEY", "JASON_HONEY", "BRENT_HUNTER", "POSI", "JOHNNY_AMERICA"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2085,7 +2109,7 @@ const titleHistory = {
 			"number": 36, 
 			"name": "BEN_SEED",
 			"reign": 1,
-			"defenses": ["CALLUM_WOLF", "CALLUM_WOLF", "CALLUM_WOLF"], 
+			"defenses": ["CALLUM_WOLF", "CALLUM_WOLF", "CALLUM_WOLF", "TYSON_EVERETT", "DANIEL_BRYAN"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2169,7 +2193,7 @@ const titleHistory = {
 			"number": 14, 
 			"name": "RYAN_PAGE",
 			"reign": 1,
-			"defenses": ["JOHNNY_AMERICA"]
+			"defenses": ["JOHNNY_AMERICA", "DADDY_TODD"]
 		}
 	],
 	"DOM-TOP":[
@@ -2205,7 +2229,7 @@ const titleHistory = {
 			"number": 6, 
 			"name": "KRIPPLER",
 			"reign": 1,
-			"defenses": ["BEN_SEED", "CLIFF_LEMON"]
+			"defenses": ["BEN_SEED", "CLIFF_LEMON", "RUSSELL_RUSH"]
 		}
 	],
 	"MENS-TAG":[
@@ -2343,7 +2367,7 @@ const titleHistory = {
 			"number": 23, 
 			"name": "THE HUNTER BROTHERS",
 			"members": "BRETT_HUNTER[2]&BRENT_HUNTER[2]",
-			"defenses": ["GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)"]
+			"defenses": ["GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)"]
 		}
 	],
 	"TRIOS":[
