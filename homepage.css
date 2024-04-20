@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
 /*reset*/
 * {
 	margin: 0;
-	font-family: 'Raleway', sans-serif;
+	font-family: "Paytone One", sans-serif;
 	scroll-behavior: smooth;
 
 }
@@ -18,16 +18,22 @@ body::-webkit-scrollbar {
     display: none;  /* Safari and Chrome */
 }
 body {
-    background-image: url("./public/wwe_back1.gif");
-    background-repeat: no-repeat;
-    background-size: cover;
+
 	-ms-overflow-style: none;  /* Internet Explorer 10+ */
     scrollbar-width: none;  /* Firefox */
-
+    background: #0c0c0c;
 }
 
+#home {
+	background-image: url("./public/wwe_back1.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
 .hide {
-    display: none;
+    display: none !important;
 }
 
 header {
@@ -44,7 +50,15 @@ header {
 	top: 0;
 	width:100%;
 	background: black;
+	color: white;
+
+	display: flex; 
+	justify-content: space-around;
+	padding-top:2em;
+	font-size: 1em;
 }
+
+
 .bottom-border {
 	height:4em;
 	position:absolute;
@@ -117,7 +131,7 @@ table {
 }
 
 .sidebar-content {
-	width:90%;
+	width:100%;
 }
 
 .nav {
@@ -129,7 +143,7 @@ table {
 
 .selected {
 	text-decoration: underline;
-	color: gold;
+	color: gold !important;
 }
 
 .tag-member {
@@ -152,4 +166,12 @@ table {
 
 .tag-width {
 	width:40%;
+}
+
+#sidebar {
+	padding-top: 5%;
+}
+
+#title-name, #sort-toggle, .nav-title {
+	color: white;
 }

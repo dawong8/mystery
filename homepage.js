@@ -240,15 +240,15 @@ function openBar() {
     $sidebarContent.removeClass("hide");
 }
 
-$("#sidebar").mouseenter(function() {
-    openBar();
-}); 
+// $("#sidebar").mouseenter(function() {
+//     openBar();
+// }); 
 
-$("#sidebar-button").click(function() {
-    $("#sidebar").animate({width: "5%"});
-    $(this).html("❯");
-    $sidebarContent.addClass("hide");
-});
+// $("#sidebar-button").click(function() {
+//     $("#sidebar").animate({width: "5%"});
+//     $(this).html("❯");
+//     $sidebarContent.addClass("hide");
+// });
 
 let shortHandDictionary = {
     "RAW" : "RAW", 
@@ -324,5 +324,11 @@ $(window).on("load", function() {
     console.log("Everything is loaded");
 
 
-    openBar();
+   // openBar();
+
+    renderRoster(rosterArray.sort(sortAlpha)); 
+
+
+    
 });
+

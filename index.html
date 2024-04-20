@@ -10,6 +10,7 @@
 
 
     <link rel="stylesheet" type="text/css" href="./homepage.css">
+    <link rel="stylesheet" type="text/css" href="./nav.css">
 
 </head>
 <body>
@@ -18,10 +19,51 @@
 <!-- Header with image -->
   <header class=" position-relative" id="home">
     
-    <div class="top-border"></div>
+    <div class="top-border">
+        <span class="cursor" id="roster"> ROSTER </span>
+        <span class="cursor" id="titles"> TITLES </span>
+        <span>  </span> 
+
+        <img class="name-logo cursor" src="./public/logo.png" />
+        <span class="cursor" id="apply"> APPLY </span>
+        <span class="cursor" id="shop"> SHOP </span>
+
+    </div>
     <div class="bottom-border">
     </div>
-    <div class="sidebar sidebar-closed position-relative" id="sidebar">
+
+
+  </header>
+
+
+  <section id="content">
+
+      <div id="roster_content_container">
+        <div id="champions">
+
+
+        </div>
+        <div class="roster-title"> <span>CURRENT ROSTER <span id="sorted-roster"> </span></span> <span>SORT -  
+
+            <select id="sort-roster">
+                <option value="all"> ALL </option>
+                <option value="raw"> RAW </option>
+                <option value="sd"> SD </option>
+                <option value="nxt"> NXT </option>
+                <option value="men"> MEN </option>
+                <option value="women"> WOMEN </option>
+                <option value="alumni"> ALUMNI </option>
+
+            </select>
+        </span> </div>
+        <div id="roster_content">
+
+
+        </div>   
+
+      </div>  
+
+    <div class=" position-relative" id="sidebar">
         <div class="hide sidebar-content" id="sidebar-content">
             <div class="nav" id="title-nav"> 
                 <span class="cursor selected nav-title">RAW</span>
@@ -169,14 +211,17 @@
             
         </div>
 
-        <p class="cursor sidebar-close-button" id="sidebar-button">❯</p>
     </div>
-  </header>
 
 
+    <div class="position-relative" id="profile">
+    </div>
+  </section>
 
-
+  <script type="text/javascript" src="./alumni.js"></script>
+  <script type="text/javascript" src="./roster.js"></script>
   <script type="text/javascript" src="./titleHistory.js"></script>
+  <script type="text/javascript" src="./rosterGenerate.js"></script>
   <script type="text/javascript" src="./homepage.js"></script>
 
 </body>
