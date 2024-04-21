@@ -530,7 +530,7 @@ const titleHistory = {
 			"number": 90, 
 			"name": "AMA_BIG",
 			"reign": 1,
-			"defenses": ["CYNTHIA_RAMIREZ", "CYNTHIA_RAMIREZ", "HALIE_QUINN", "CYNTHIA_RAMIREZ&HALIE_QUINN", "CYNTHIA_RAMIREZ", "JULIET_SUNSET"]
+			"defenses": ["CYNTHIA_RAMIREZ", "CYNTHIA_RAMIREZ", "HALIE_QUINN", "CYNTHIA_RAMIREZ&HALIE_QUINN", "CYNTHIA_RAMIREZ", "JULIET_SUNSET", "CARMELLA"]
 		}
 	],
 	"SMACKDOWN": [
@@ -945,6 +945,12 @@ const titleHistory = {
 			"name": "JUNGO",
 			"reign": 1,
 			"defenses": ["CORA_JADE"]
+		},
+		{
+			"number": 68, 
+			"name": "LIV_MORGAN",
+			"reign": 6,
+			"defenses": ["JUNGO"]
 		}
 
 	], 
@@ -1143,7 +1149,7 @@ const titleHistory = {
 			"number": 35, 
 			"name": "NELLY_STORM",
 			"reign": 1,
-			"defenses": ["SLADER", "SLADER&BLAIRE_COUNTY", "BELINDA_LEE", "SLADER", "SLADER"], 
+			"defenses": ["SLADER", "SLADER&BLAIRE_COUNTY", "BELINDA_LEE", "SLADER", "SLADER", "BELINDA_LEE&UPSKIRT_KIRA", "NATASHA_IVY"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1441,6 +1447,18 @@ const titleHistory = {
 			"name": "DOUBLE SPICE",
 			"members": "CYNTHIA_RAMIREZ[1]&HALIE_QUINN[1]",
 			"defenses": ["THE FALLEN (LIV_MORGAN, GIGI_DOLIN)"]
+		},
+		{
+			"number": 46, 
+			"name": "HOUSE GIRLS",
+			"members": "ALICIA_HOUSE[1]&MASK_GIRL[1]",
+			"defenses": ["DOUBLE SPICE (CYNTHIA_RAMIREZ, HALIE_QUINN)"]
+		},
+		{
+			"number": 47, 
+			"name": "DOUBLE SPICE",
+			"members": "CYNTHIA_RAMIREZ[2]&HALIE_QUINN[2]",
+			"defenses": ["HOUSE GIRLS (ALICIA_HOUSE, MASK_GIRL)"]
 		}
 		
 	],
@@ -1601,7 +1619,7 @@ const titleHistory = {
 			"number": 27, 
 			"name": "SLOANE",
 			"reign": 2,
-			"defenses": ["JUNGO"]
+			"defenses": ["JUNGO", "JANE_MACK"]
 		}
 	],
 	"US": [
@@ -1721,7 +1739,13 @@ const titleHistory = {
 			"number": 20, 
 			"name": "JESSICA_CUP",
 			"reign": 1,
-			"defenses": ["JULIET_SUNSET", "ALICIA_HOUSE"]
+			"defenses": ["JULIET_SUNSET", "ALICIA_HOUSE", "JULIET_SUNSET"]
+		},
+		{
+			"number": 21, 
+			"name": "JULIET_SUNSET",
+			"reign": 2,
+			"defenses": ["JESSICA_CUP&JANINE&SLADER"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1929,7 +1953,7 @@ const titleHistory = {
 			"number": 35, 
 			"name": "JOHNNY_AMERICA",
 			"reign": 1,
-			"defenses": ["CLIFF_LEMON", "CLIFF_LEMON", "POSI", "CLIFF_LEMON"]
+			"defenses": ["CLIFF_LEMON", "CLIFF_LEMON", "POSI", "CLIFF_LEMON", "RUSSELL_RUSH"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2163,7 +2187,7 @@ const titleHistory = {
 			"number": 39, 
 			"name": "MR_ENVIRONMENT",
 			"reign": 1,
-			"defenses": ["BEN_SEED"], 
+			"defenses": ["BEN_SEED", "BEN_SEED", "BEN_SEED&TYSON_EVERETT", "CALLUM_WOLF"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2247,7 +2271,13 @@ const titleHistory = {
 			"number": 14, 
 			"name": "RYAN_PAGE",
 			"reign": 1,
-			"defenses": ["JOHNNY_AMERICA", "DADDY_TODD", "HARDBEAR", "ANTONIO_DASHING", "TURBO-DQ"]
+			"defenses": ["JOHNNY_AMERICA", "DADDY_TODD", "HARDBEAR", "ANTONIO_DASHING", "TURBO-DQ", "TURBO"]
+		},
+		{
+			"number": 15, 
+			"name": "ALEX_CONNOR",
+			"reign": 1,
+			"defenses": ["RYAN_PAGE"]
 		}
 	],
 	"DOM-TOP":[
@@ -2284,6 +2314,12 @@ const titleHistory = {
 			"name": "KRIPPLER",
 			"reign": 1,
 			"defenses": ["BEN_SEED", "CLIFF_LEMON", "RUSSELL_RUSH", "LA_KNIGHT", "RUSSELL_RUSH"]
+		},
+		{
+			"number": 7, 
+			"name": "CLIFF_LEMON",
+			"reign": 1,
+			"defenses": ["KRIPPLER"]
 		}
 	],
 	"MENS-TAG":[
