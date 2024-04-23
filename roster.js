@@ -8,6 +8,11 @@ const rosterArray = [ // currrent roster
   name: "JUNGO", 
   brand: "SD", 
   gender: "F"
+}, 
+{
+  name: "PARIS_MONET", 
+  brand: "NXT", 
+  gender: "F"
 },
 {
   name: "TERESA_SHARP", 
@@ -71,7 +76,7 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "NELLY_STORM", 
-  brand: "NXT", 
+  brand: "SD", 
   gender: "F"
 },
 {
