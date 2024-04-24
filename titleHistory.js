@@ -536,7 +536,7 @@ const titleHistory = {
 			"number": 91, 
 			"name": "CYNTHIA_RAMIREZ",
 			"reign": 2,
-			"defenses": ["AMA_BIG", "AMA_BIG-DQ"]
+			"defenses": ["AMA_BIG", "AMA_BIG-DQ", "HALIE_QUINN-DQ", "HALIE_QUINN"]
 		}
 	],
 	"SMACKDOWN": [
@@ -956,7 +956,7 @@ const titleHistory = {
 			"number": 68, 
 			"name": "LIV_MORGAN",
 			"reign": 6,
-			"defenses": ["JUNGO", "CORA_JADE", "CORA_JADE&ROXANNE_PEREZ&MICHELLE_VELVET", "CORA_JADE", "JUNGO", "ROXANNE_PEREZ"]
+			"defenses": ["JUNGO", "CORA_JADE", "CORA_JADE&ROXANNE_PEREZ&MICHELLE_VELVET", "CORA_JADE", "JUNGO", "ROXANNE_PEREZ", "JUNGO", "SLOANNE", "CORA_JADE"]
 		}
 
 	], 
@@ -1161,7 +1161,13 @@ const titleHistory = {
 			"number": 36, 
 			"name": "PARIS_MONET",
 			"reign": 1,
-			"defenses": ["NELLY_STORM"], 
+			"defenses": ["NELLY_STORM", "NATASHA_IVY"], 
+		},
+		{
+			"number": 37, 
+			"name": "BROOK_TAYLOR",
+			"reign": 1,
+			"defenses": ["PARIS_MONET", "PARIS_MONET"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1190,7 +1196,9 @@ const titleHistory = {
 		"RIDGE_HOLLAND": 1,
 		"UNAGI_SAYAKA": 1,
 		"STARLIGHT_KID": 1,
-		"JULIUS_CREED": 1
+		"JULIUS_CREED": 1,
+		"HALIE_QUINN": 1, 
+		"JOHNNY_AMERICA": 1
 	},
 	"ROYAL_RUMBLE":{
 		"ASUKA": 1
@@ -1476,7 +1484,13 @@ const titleHistory = {
 			"number": 48, 
 			"name": "SILENT ROSE",
 			"members": "TERESA_SHARP[1]&LAUREN_SNOW[1]",
-			"defenses": ["DOUBLE SPICE (CYNTHIA_RAMIREZ, HALIE_QUINN)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)"]
+			"defenses": ["DOUBLE SPICE (CYNTHIA_RAMIREZ, HALIE_QUINN)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)", "TOUGH COMPANY (LISA_LOST, JANE_MACK)"]
+		},
+		{
+			"number": 49, 
+			"name": "THE ATTITUDE",
+			"members": "CRYSTAL[1]&PARIS_MONET[1]",
+			"defenses": ["SILENT ROSE (TERESA_SHARP, LAUREN_SNOW)", "HOUSE GIRLS (ALICIA_HOUSE, MASK_GIRL)"]
 		}
 		
 	],
@@ -1643,7 +1657,13 @@ const titleHistory = {
 			"number": 28, 
 			"name": "NELLY_STORM",
 			"reign": 1,
-			"defenses": ["SLOANNE", "SLOANNE"]
+			"defenses": ["SLOANNE", "SLOANNE", "MICHELLE_VELVET", "JUNGO"]
+		},
+		{
+			"number": 29, 
+			"name": "LAUREN_SNOW",
+			"reign": 1,
+			"defenses": ["NELLY_STORM"]
 		}
 	],
 	"US": [
@@ -1769,7 +1789,7 @@ const titleHistory = {
 			"number": 21, 
 			"name": "JULIET_SUNSET",
 			"reign": 2,
-			"defenses": ["JESSICA_CUP&JANINE&SLADER", "JANINE"]
+			"defenses": ["JESSICA_CUP&JANINE&SLADER", "JANINE", "JANINE"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -1989,7 +2009,7 @@ const titleHistory = {
 			"number": 37, 
 			"name": "RUSSELL_RUSH",
 			"reign": 1,
-			"defenses": ["FRED_CHATTY"]
+			"defenses": ["FRED_CHATTY", "JOHNNY_AMERICA", "FRED_CHATTY"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2229,7 +2249,7 @@ const titleHistory = {
 			"number": 40, 
 			"name": "BEN_SEED",
 			"reign": 3,
-			"defenses": ["MR_ENVIRONMENT", "CALLUM_WOLF", "MR_ENVIRONMENT"], 
+			"defenses": ["MR_ENVIRONMENT", "CALLUM_WOLF", "MR_ENVIRONMENT", "KRIPPLER", "TYSON_EVERETT", "MR_ENVIRONMENT"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2319,7 +2339,7 @@ const titleHistory = {
 			"number": 15, 
 			"name": "ALEX_CONNOR",
 			"reign": 1,
-			"defenses": ["RYAN_PAGE", "RYAN_PAGE", "RYAN_PAGE"]
+			"defenses": ["RYAN_PAGE", "RYAN_PAGE", "RYAN_PAGE", "ANGELO_KNIGHT", "HARDBEAR", "DANNY_PUMPKIN"]
 		}
 	],
 	"DOM-TOP":[
@@ -2362,6 +2382,12 @@ const titleHistory = {
 			"name": "CLIFF_LEMON",
 			"reign": 1,
 			"defenses": ["KRIPPLER", "JASON_HONEY"]
+		},
+		{
+			"number": 8, 
+			"name": "TYSON_EVERETT",
+			"reign": 1,
+			"defenses": ["CLIFF_LEMON", "JASON_HONEY"]
 		}
 	],
 	"MENS-TAG":[
@@ -2499,7 +2525,13 @@ const titleHistory = {
 			"number": 23, 
 			"name": "THE HUNTER BROTHERS",
 			"members": "BRETT_HUNTER[2]&BRENT_HUNTER[2]",
-			"defenses": ["GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)"]
+			"defenses": ["GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "GLOBAL PROTECTORS (CLIP_MAVERICK, MR_ENVIRONMENT)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)", "LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK)"]
+		},
+		{
+			"number": 24, 
+			"name": "LEMON CLIP",
+			"members": "CLIP_MAVERICK[2]&CLIFF_LEMON[1]",
+			"defenses": ["THE HUNTER BROTHERS (BRETT_HUNTER, BRENT_HUNTER)"]
 		}
 	],
 	"TRIOS":[
