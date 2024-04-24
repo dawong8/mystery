@@ -10,9 +10,24 @@ const rosterArray = [ // currrent roster
   gender: "F"
 }, 
 {
-  name: "PARIS_MONET", 
+  name: "CRYSTAL", 
+  brand: "SD", 
+  gender: "F"
+}, 
+{
+  name: "BROOK_TAYLOR", 
   brand: "NXT", 
   gender: "F"
+}, 
+{
+  name: "PARIS_MONET", 
+  brand: "SD", 
+  gender: "F"
+}, 
+{
+  name: "WILL_PHERBY", 
+  brand: "NXT", 
+  gender: "M"
 },
 {
   name: "TERESA_SHARP", 
