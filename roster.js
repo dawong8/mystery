@@ -20,6 +20,26 @@ const rosterArray = [ // currrent roster
   gender: "F"
 }, 
 {
+  name: "LOGAN_GURT", 
+  brand: "NXT", 
+  gender: "M"
+}, 
+{
+  name: "JUJU_FUN", 
+  brand: "NXT", 
+  gender: "F"
+}, 
+{
+  name: "SAMANTHA_ROSE", 
+  brand: "NXT", 
+  gender: "F"
+}, 
+{
+  name: "VERONICA_STEEL", 
+  brand: "NXT", 
+  gender: "F"
+}, 
+{
   name: "PARIS_MONET", 
   brand: "SD", 
   gender: "F"
@@ -271,7 +291,7 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "ALEX_CONNOR", 
-  brand: "NXT", 
+  brand: "RAW", 
   gender: "M"
 },
 {
