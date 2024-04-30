@@ -542,7 +542,7 @@ const titleHistory = {
 			"number": 92, 
 			"name": "HALIE_QUINN",
 			"reign": 1,
-			"defenses": ["CYNTHIA_RAMIREZ"]
+			"defenses": ["CYNTHIA_RAMIREZ", "CYNTHIA_RAMIREZ"]
 		}
 	],
 	"SMACKDOWN": [
@@ -968,7 +968,7 @@ const titleHistory = {
 			"number": 69, 
 			"name": "NELLY_STORM",
 			"reign": 1,
-			"defenses": ["LIV_MORGAN"]
+			"defenses": ["LIV_MORGAN", "ROXANNE_PEREZ"]
 		}
 
 	], 
@@ -1179,7 +1179,7 @@ const titleHistory = {
 			"number": 37, 
 			"name": "BROOK_TAYLOR",
 			"reign": 1,
-			"defenses": ["PARIS_MONET", "PARIS_MONET", "BELINDA_LEE"], 
+			"defenses": ["PARIS_MONET", "PARIS_MONET", "BELINDA_LEE", "SAMANTHA_ROSE"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1508,7 +1508,7 @@ const titleHistory = {
 			"number": 50, 
 			"name": "TOUGH COMPANY",
 			"members": "LISA_LOST[1]&JANE_MACK[1]",
-			"defenses": ["THE ATTITUDE (CRYSTAL, PARIS_MONET)"]
+			"defenses": ["THE ATTITUDE (CRYSTAL, PARIS_MONET)", "THE ATTITUDE (CRYSTAL, PARIS_MONET)"]
 		}
 		
 	],
@@ -1807,7 +1807,7 @@ const titleHistory = {
 			"number": 21, 
 			"name": "JULIET_SUNSET",
 			"reign": 2,
-			"defenses": ["JESSICA_CUP&JANINE&SLADER", "JANINE", "JANINE", "JESSICA_CUP"]
+			"defenses": ["JESSICA_CUP&JANINE&SLADER", "JANINE", "JANINE", "JESSICA_CUP", "SLADER"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -2027,7 +2027,7 @@ const titleHistory = {
 			"number": 37, 
 			"name": "RUSSELL_RUSH",
 			"reign": 1,
-			"defenses": ["FRED_CHATTY", "JOHNNY_AMERICA", "FRED_CHATTY"]
+			"defenses": ["FRED_CHATTY", "JOHNNY_AMERICA", "FRED_CHATTY", "JOHNNY_AMERICA"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2273,7 +2273,7 @@ const titleHistory = {
 			"number": 41, 
 			"name": "CLIFF_LEMON",
 			"reign": 1,
-			"defenses": ["BEN_SEED"], 
+			"defenses": ["BEN_SEED", "MR_ENVIRONMENT"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2373,7 +2373,7 @@ const titleHistory = {
 			"number": 17, 
 			"name": "LOGAN_GURT",
 			"reign": 1,
-			"defenses": ["DANNY_PUMPKIN"]
+			"defenses": ["DANNY_PUMPKIN", "WILL_PHERBY"]
 		}
 	],
 	"DOM-TOP":[
@@ -2427,7 +2427,7 @@ const titleHistory = {
 			"number": 9, 
 			"name": "ALEX_CONNOR",
 			"reign": 1,
-			"defenses": ["TYSON_EVERETT", "POSI"]
+			"defenses": ["TYSON_EVERETT", "POSI", "KRIPPLER"]
 		}
 	],
 	"MENS-TAG":[
@@ -2577,7 +2577,7 @@ const titleHistory = {
 			"number": 25, 
 			"name": "THE HUNTER BROTHERS",
 			"members": "BRETT_HUNTER[3]&BRENT_HUNTER[3]",
-			"defenses": ["LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK)"]
+			"defenses": ["LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)"]
 		}
 	],
 	"TRIOS":[
