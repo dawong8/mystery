@@ -318,5 +318,10 @@ const rosterArray = [ // currrent roster
   name: "WYATT_WIPER", 
   brand: "NXT", 
   gender: "M"
+},
+{
+  name: "JOEY_JET", 
+  brand: "NXT", 
+  gender: "M"
 }
 ];
