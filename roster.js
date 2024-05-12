@@ -16,7 +16,7 @@ const rosterArray = [ // currrent roster
 }, 
 {
   name: "BROOK_TAYLOR", 
-  brand: "NXT", 
+  brand: "SD", 
   gender: "F"
 }, 
 {
@@ -296,6 +296,26 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "DANNY_PUMPKIN", 
+  brand: "NXT", 
+  gender: "M"
+},
+{
+  name: "TONY_TORNADO", 
+  brand: "RAW", 
+  gender: "M"
+},
+{
+  name: "MERCENARY", 
+  brand: "RAW", 
+  gender: "M"
+},
+{
+  name: "DAMON_KNIGHT", 
+  brand: "NXT", 
+  gender: "M"
+},
+{
+  name: "WYATT_WIPER", 
   brand: "NXT", 
   gender: "M"
 }
