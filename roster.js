@@ -36,7 +36,7 @@ const rosterArray = [ // currrent roster
 }, 
 {
   name: "VERONICA_STEEL", 
-  brand: "NXT", 
+  brand: "SD", 
   gender: "F"
 }, 
 {
