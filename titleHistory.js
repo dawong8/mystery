@@ -543,6 +543,12 @@ const titleHistory = {
 			"name": "HALIE_QUINN",
 			"reign": 1,
 			"defenses": ["CYNTHIA_RAMIREZ", "CYNTHIA_RAMIREZ", "AMA_BIG", "AMA_BIG"]
+		},
+		{
+			"number": 93, 
+			"name": "AMA_BIG",
+			"reign": 2,
+			"defenses": ["HALIE_QUINN&CYNTHIA_RAMIREZ", "CYNTHIA_RAMIREZ", "HALIE_QUINN", "JESSICA_CUP", "JANINE", "JESSICA_CUP&HALIE_QUINN&CYNTHIA_RAMIREZ"]
 		}
 	],
 	"SMACKDOWN": [
@@ -974,7 +980,7 @@ const titleHistory = {
 			"number": 70, 
 			"name": "PARIS_MONET",
 			"reign": 1,
-			"defenses": ["NELLY_STORM"]
+			"defenses": ["NELLY_STORM", "NELLY_STORM", "CORA_JADE", "CORA_JADE", "GIGI_DOLIN", "ROXANNE_PEREZ", "SLOANNE", "JUNGO-DQ", "JUNGO"]
 		}
 
 	], 
@@ -1191,7 +1197,7 @@ const titleHistory = {
 			"number": 38, 
 			"name": "UPSKIRT_KIRA",
 			"reign": 1,
-			"defenses": ["BROOK_TAYLOR"], 
+			"defenses": ["BROOK_TAYLOR", "BELINDA_LEE", "BELINDA_LEE", "SAMANTHA_ROSE", "JUJU_FUN"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
@@ -1527,6 +1533,10 @@ const titleHistory = {
 			"name": "JUICY GIRLS",
 			"members": "JESSICA_CUP[1]&JANINE[1]",
 			"defenses": ["TOUGH COMPANY (LISA_LOST, JANE_MACK)", "HOUSE GIRLS (ALICIA_HOUSE, MASK_GIRL)"]
+		},
+		{
+			"number": 52, 
+			"name": "VACATED"
 		}
 		
 	],
@@ -1699,7 +1709,7 @@ const titleHistory = {
 			"number": 29, 
 			"name": "LAUREN_SNOW",
 			"reign": 1,
-			"defenses": ["NELLY_STORM", "JUNGO", "CRYSTAL"]
+			"defenses": ["NELLY_STORM", "JUNGO", "CRYSTAL", "JUNGO", "CRYSTAL-DQ", "CRYSTAL-DQ"]
 		}
 	],
 	"US": [
@@ -1825,7 +1835,7 @@ const titleHistory = {
 			"number": 21, 
 			"name": "JULIET_SUNSET",
 			"reign": 2,
-			"defenses": ["JESSICA_CUP&JANINE&SLADER", "JANINE", "JANINE", "JESSICA_CUP", "SLADER", "SLADER"]
+			"defenses": ["JESSICA_CUP&JANINE&SLADER", "JANINE", "JANINE", "JESSICA_CUP", "SLADER", "SLADER", "SLADER", "JANINE", "ALICIA_HOUSE", "MASK_GIRL"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -2046,6 +2056,12 @@ const titleHistory = {
 			"name": "RUSSELL_RUSH",
 			"reign": 1,
 			"defenses": ["FRED_CHATTY", "JOHNNY_AMERICA", "FRED_CHATTY", "JOHNNY_AMERICA", "JOHNNY_AMERICA", "TONY_TORNADO"]
+		},
+		{
+			"number": 38, 
+			"name": "JOHNNY_AMERICA",
+			"reign": 2,
+			"defenses": ["RUSSELL_RUSH", "FRED_CHATTY", "FRED_CHATTY", "JASON_HONEY"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2297,7 +2313,25 @@ const titleHistory = {
 			"number": 42, 
 			"name": "MR_ENVIRONMENT",
 			"reign": 2,
-			"defenses": ["CLIFF_LEMON", "CLIFF_LEMON"], 
+			"defenses": ["CLIFF_LEMON", "CLIFF_LEMON", "BEN_SEED"], 
+		},
+		{
+			"number": 43, 
+			"name": "CLIFF_LEMON",
+			"reign": 2,
+			"defenses": ["MR_ENVIRONMENT", "MR_ENVIRONMENT", "BEN_SEED"], 
+		},
+		{
+			"number": 44, 
+			"name": "TYSON_EVERETT",
+			"reign": 2,
+			"defenses": ["CLIFF_LEMON&MR_ENVIRONMENT", "MR_ENVIRONMENT", "CLIFF_LEMON", "CLIFF_LEMON", "KRIPPLER", "KRIPPLER"], 
+		},
+		{
+			"number": 45, 
+			"name": "CALLUM_WOLF",
+			"reign": 4,
+			"defenses": ["TYSON_EVERETT", "CLIFF_LEMON", "KRIPPLER"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2398,6 +2432,24 @@ const titleHistory = {
 			"name": "LOGAN_GURT",
 			"reign": 1,
 			"defenses": ["DANNY_PUMPKIN", "WILL_PHERBY"]
+		},
+		{
+			"number": 18, 
+			"name": "WILL_PHERBY",
+			"reign": 1,
+			"defenses": ["LOGAN_GURT", "WYATT_WIPER"]
+		},
+		{
+			"number": 19, 
+			"name": "DAMON_KNIGHT",
+			"reign": 1,
+			"defenses": ["LOGAN_GURT&WILL_PHERBY", "WYATT_WIPER", "LOGAN_GURT", "ANGELO_KNIGHT", "ANGELO_KNIGHT", "WILL_PHERBY", "DADDY_TODD", "TURBO", "TURBO"]
+		},
+		{
+			"number": 20, 
+			"name": "WILL_PHERBY",
+			"reign": 2,
+			"defenses": ["DAMON_KNIGHT"]
 		}
 	],
 	"DOM-TOP":[
@@ -2457,7 +2509,13 @@ const titleHistory = {
 			"number": 10, 
 			"name": "CALLUM_WOLF",
 			"reign": 1,
-			"defenses": ["ALEX_CONNOR", "BRETT_HUNTER"]
+			"defenses": ["ALEX_CONNOR", "BRETT_HUNTER", "BRETT_HUNTER", "BRETT_HUNTER&BRENT_HUNTER"]
+		},
+		{
+			"number": 11, 
+			"name": "ALEX_CONNOR",
+			"reign": 2,
+			"defenses": ["CALLUM_WOLF&BRETT_HUNTER&BRENT_HUNTER", "BRENT_HUNTER", "BRENT_HUNTER", "KRIPPLER"]
 		}
 	],
 	"MENS-TAG":[
@@ -2613,7 +2671,25 @@ const titleHistory = {
 			"number": 26, 
 			"name": "LOUNGEWEAR",
 			"members": "MERCENARY[1]&KRIPPLER[1]",
-			"defenses": ["HONEY CHAT (FRED_CHATTY, JASON_HONEY) & THE HUNTER BROTHERS (BRETT_HUNTER, BRENT_HUNTER) & AROUSAL CHOCOLATE (POSI, TONY_TORNADO)"]
+			"defenses": ["HONEY CHAT (FRED_CHATTY, JASON_HONEY) & THE HUNTER BROTHERS (BRETT_HUNTER, BRENT_HUNTER) & AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)", "THE HUNTER BROTHERS (BRETT_HUNTER, BRENT_HUNTER)"]
+		},
+		{
+			"number": 26, 
+			"name": "HONEY CHAT",
+			"members": "JASON_HONEY[1]&FRED_CHATTY[1]",
+			"defenses": ["LOUNGEWEAR (MERCENARY, KRIPPLER)", "LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK)"]
+		},
+		{
+			"number": 27, 
+			"name": "THE HUNTER BROTHERS",
+			"members": "BRETT_HUNTER[4]&BRENT_HUNTER[4]",
+			"defenses": ["HONEY CHAT (FRED_CHATTY, JASON_HONEY)"]
+		},
+		{
+			"number": 28, 
+			"name": "LOUNGEWEAR",
+			"members": "MERCENARY[2]&KRIPPLER[2]",
+			"defenses": ["LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK) & THE HUNTER BROTHERS (BRETT_HUNTER, BRENT_HUNTER)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)"]
 		}
 	],
 	"TRIOS":[
@@ -2680,6 +2756,13 @@ const titleHistory = {
 		{
 			"number": 12, 
 			"name": "VACATED"
+		},
+		{
+			"number": 13, 
+			"name": "METALLIC ANGELS",
+			"members": "JANE_MACK[1]&BROOK_TAYLOR[1]&VERONICA_STEEL[1]",
+			"defenses": ["SILENT ROSE (SLOANNE, TERESA_SHARP, CORA_JADE)", "TEAM BAD (CARMELLA, NAOMI, TAMINA)", "SILENT ROSE (SLOANNE, TERESA_SHARP, CORA_JADE)", "SILENT ROSE (SLOANNE, TERESA_SHARP, CORA_JADE)"]
 		}
+		
 	]
 };
