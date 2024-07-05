@@ -555,6 +555,12 @@ const titleHistory = {
 			"name": "BROOK_TAYLOR",
 			"reign": 1,
 			"defenses": ["AMA_BIG", "CYNTHIA_RAMIREZ-DQ"]
+		},
+		{
+			"number": 95, 
+			"name": "CYNTHIA_RAMIREZ",
+			"reign": 3,
+			"defenses": ["BROOK_TAYLOR", "JANE_MACK", "VERONICA_STEEL", "BROOK_TAYLOR-DQ"]
 		}
 	],
 	"SMACKDOWN": [
@@ -997,6 +1003,12 @@ const titleHistory = {
 			"name": "HALIE_QUINN",
 			"reign": 1,
 			"defenses": ["ROXANNE_PEREZ&NELLY_STORM&SLADER&MASK_GIRL&CORA_JADE&GIGI_DOLIN", "ALICIA_HOUSE", "SLOANNE", "CRYSTAL", "CRYSTAL-DQ"]
+		},
+		{
+			"number": 73, 
+			"name": "PARIS_MONET",
+			"reign": 1,
+			"defenses": ["HALIE_QUINN", "HALIE_QUINN", "SLOANNE", "SLOANNE"]
 		}
 
 	], 
@@ -1559,6 +1571,18 @@ const titleHistory = {
 			"name": "NEON PARTY",
 			"members": "NELLY_STORM[1]&SLADER[1]",
 			"defenses": ["HOUSE GIRLS (ALICIA_HOUSE, MASK_GIRL)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "THE WILDSIDE (JUNGO, JULIET_SUNSET)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)"]
+		},
+		{
+			"number": 54, 
+			"name": "METALLIC ANGELS",
+			"members": "JANE_MACK[2]&VERONICA_STEEL[1]",
+			"defenses": ["NEON PARTY (NELLY_STORM, SLADER)", "NEON PARTY (NELLY_STORM, SLADER)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)"]
+		},
+		{
+			"number": 55, 
+			"name": "NEON PARTY",
+			"members": "NELLY_STORM[2]&SLADER[2]",
+			"defenses": ["METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)"]
 		}
 		
 	],
@@ -1876,6 +1900,12 @@ const titleHistory = {
 			"name": "JUNGO",
 			"reign": 1,
 			"defenses": ["TERESA_SHARP", "JESSICA_CUP"]
+		},
+		{
+			"number": 25, 
+			"name": "JUJU_FUN",
+			"reign": 1,
+			"defenses": ["JUNGO", "JUNGO", "JULIET_SUNSET", "JULIET_SUNSET", "JUNGO"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -2108,6 +2138,24 @@ const titleHistory = {
 			"name": "WYATT_WIPER",
 			"reign": 1,
 			"defenses": ["JOHNNY_AMERICA", "JOHNNY_AMERICA", "POSI", "JOHNNY_AMERICA", "JOEY_JET"]
+		},
+		{
+			"number": 40, 
+			"name": "JOEY_JET",
+			"reign": 1,
+			"defenses": ["WYATT_WIPER", "WYATT_WIPER", "JASON_HONEY"]
+		},
+		{
+			"number": 41, 
+			"name": "JOHNNY_AMERICA",
+			"reign": 3,
+			"defenses": ["JOEY_JET"]
+		},
+		{
+			"number": 42, 
+			"name": "WYATT_WIPER",
+			"reign": 2,
+			"defenses": ["JOHNNY_AMERICA", "JOEY_JET"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2393,7 +2441,19 @@ const titleHistory = {
 			"number": 48, 
 			"name": "RUSSELL_RUSH",
 			"reign": 1,
-			"defenses": ["BEN_SEED"], 
+			"defenses": ["BEN_SEED", "BEN_SEED-DQ", "MR_ENVIRONEMNT", "MR_ENVIRONMENT-DQ", "TYSON_EVERETT"], 
+		},
+		{
+			"number": 49, 
+			"name": "CALLUM_WOLF",
+			"reign": 5,
+			"defenses": ["RUSSELL_RUSH", "RUSSELL_RUSH", "BEN_SEED&MR_ENVIRONMENT"], 
+		},
+		{
+			"number": 50, 
+			"name": "BEN_SEED",
+			"reign": 5,
+			"defenses": ["CALLUM_WOLF&MR_ENVIRONMENT", "CALLUM_WOLF", "RUSSELL_RUSH", "CALLUM_WOLF-DQ"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2518,6 +2578,12 @@ const titleHistory = {
 			"name": "DADDY_TODD",
 			"reign": 1,
 			"defenses": ["WILL_PHERBY"]
+		},
+		{
+			"number": 22, 
+			"name": "WILL_PHERBY",
+			"reign": 3,
+			"defenses": ["DADDY_TODD", "DADDY_TODD", "DANNY_PUMPKIN", "HARDBEAR", "HARDBEAR", "ANTONIO_DASHING"]
 		}
 	],
 	"DOM-TOP":[
@@ -2595,7 +2661,19 @@ const titleHistory = {
 			"number": 13, 
 			"name": "BRETT_HUNTER",
 			"reign": 1,
-			"defenses": ["BRENT_HUNTER", "BRENT_HUNTER-DQ", "BRENT_HUNTER-DQ"]
+			"defenses": ["BRENT_HUNTER", "BRENT_HUNTER-DQ", "BRENT_HUNTER-DQ", "BRENT_HUNTER"]
+		},
+		{
+			"number": 14, 
+			"name": "BRENT_HUNTER",
+			"reign": 2,
+			"defenses": ["BRETT_HUNTER", "BRETT_HUNTER-DQ"]
+		},
+		{
+			"number": 15, 
+			"name": "RYAN_PAGE",
+			"reign": 1,
+			"defenses": ["BRENT_HUNTER", "BRETT_HUNTER", "BRETT_HUNTER&BRENT_HUNTER"]
 		}
 	],
 	"MENS-TAG":[
@@ -2770,6 +2848,18 @@ const titleHistory = {
 			"name": "LOUNGEWEAR",
 			"members": "MERCENARY[2]&KRIPPLER[2]",
 			"defenses": ["LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK) & THE HUNTER BROTHERS (BRETT_HUNTER, BRENT_HUNTER)", "HONEY CHAT (FRED_CHATTY, JASON_HONEY)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)"]
+		},
+		{
+			"number": 29, 
+			"name": "AROUSAL CHOCOLATE",
+			"members": "TONY_TORNADO[1]&POSI[1]",
+			"defenses": ["LOUNGEWEAR (MERCENARY, KRIPPLER)"]
+		},
+		{
+			"number": 30, 
+			"name": "LOUNGEWEAR",
+			"members": "MERCENARY[3]&KRIPPLER[3]",
+			"defenses": ["AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)"]
 		}
 	],
 	"TRIOS":[
