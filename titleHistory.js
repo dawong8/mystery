@@ -1007,7 +1007,7 @@ const titleHistory = {
 		{
 			"number": 73, 
 			"name": "PARIS_MONET",
-			"reign": 1,
+			"reign": 2,
 			"defenses": ["HALIE_QUINN", "HALIE_QUINN", "SLOANNE", "SLOANNE"]
 		}
 
