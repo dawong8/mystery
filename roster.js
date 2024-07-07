@@ -30,7 +30,7 @@ const rosterArray = [ // currrent roster
   gender: "F"
 }, 
 {
-  name: "SAMANTHA_ROSE", 
+  name: "SAMANTHA_GOLDEN", 
   brand: "NXT", 
   gender: "F"
 }, 
