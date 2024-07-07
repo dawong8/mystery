@@ -560,7 +560,7 @@ const titleHistory = {
 			"number": 95, 
 			"name": "CYNTHIA_RAMIREZ",
 			"reign": 3,
-			"defenses": ["BROOK_TAYLOR", "JANE_MACK", "VERONICA_STEEL", "BROOK_TAYLOR-DQ"]
+			"defenses": ["BROOK_TAYLOR", "JANE_MACK", "VERONICA_STEEL", "BROOK_TAYLOR-DQ", "BROOK_TAYLOR"]
 		}
 	],
 	"SMACKDOWN": [
@@ -1009,6 +1009,12 @@ const titleHistory = {
 			"name": "PARIS_MONET",
 			"reign": 2,
 			"defenses": ["HALIE_QUINN", "HALIE_QUINN", "SLOANNE", "SLOANNE"]
+		},
+		{
+			"number": 74, 
+			"name": "CRYSTAL",
+			"reign": 1,
+			"defenses": ["PARIS_MONET", "PARIS_MONET-DQ"]
 		}
 
 	], 
@@ -1256,7 +1262,9 @@ const titleHistory = {
 		"STARLIGHT_KID": 1,
 		"JULIUS_CREED": 1,
 		"HALIE_QUINN": 1, 
-		"JOHNNY_AMERICA": 1
+		"JOHNNY_AMERICA": 1,
+		"CRYSTAL": 1, 
+		"TONY_TORNADO": 1
 	},
 	"ROYAL_RUMBLE":{
 		"ASUKA": 1
@@ -1582,7 +1590,7 @@ const titleHistory = {
 			"number": 55, 
 			"name": "NEON PARTY",
 			"members": "NELLY_STORM[2]&SLADER[2]",
-			"defenses": ["METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)"]
+			"defenses": ["METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)", "THE WILDSIDE (JUNGO, JULIET_SUNSET)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)"]
 		}
 		
 	],
@@ -2155,7 +2163,7 @@ const titleHistory = {
 			"number": 42, 
 			"name": "WYATT_WIPER",
 			"reign": 2,
-			"defenses": ["JOHNNY_AMERICA", "JOEY_JET"]
+			"defenses": ["JOHNNY_AMERICA", "JOEY_JET", "JOEY_JET", "FRED_CHATTY"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2454,6 +2462,12 @@ const titleHistory = {
 			"name": "BEN_SEED",
 			"reign": 5,
 			"defenses": ["CALLUM_WOLF&MR_ENVIRONMENT", "CALLUM_WOLF", "RUSSELL_RUSH", "CALLUM_WOLF-DQ"], 
+		},
+		{
+			"number": 51, 
+			"name": "TONY_TORNADO",
+			"reign": 1,
+			"defenses": ["BEN_SEED"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2674,6 +2688,12 @@ const titleHistory = {
 			"name": "RYAN_PAGE",
 			"reign": 1,
 			"defenses": ["BRENT_HUNTER", "BRETT_HUNTER", "BRETT_HUNTER&BRENT_HUNTER"]
+		},
+		{
+			"number": 16, 
+			"name": "BRETT_HUNTER",
+			"reign": 2,
+			"defenses": ["RYAN_PAGE", "RYAN_PAGE"]
 		}
 	],
 	"MENS-TAG":[
@@ -2859,7 +2879,7 @@ const titleHistory = {
 			"number": 30, 
 			"name": "LOUNGEWEAR",
 			"members": "MERCENARY[3]&KRIPPLER[3]",
-			"defenses": ["AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)"]
+			"defenses": ["AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK)", "LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK)"]
 		}
 	],
 	"TRIOS":[
