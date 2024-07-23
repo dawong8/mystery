@@ -1591,6 +1591,12 @@ const titleHistory = {
 			"name": "NEON PARTY",
 			"members": "NELLY_STORM[2]&SLADER[2]",
 			"defenses": ["METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)", "THE WILDSIDE (JUNGO, JULIET_SUNSET)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)"]
+		},
+		{
+			"number": 56, 
+			"name": "SILENT ROSE",
+			"members": "SLOANE[1]&LAUREN_SNOW[2]",
+			"defenses": ["NEON PARTY (NELLY_STORM, SLADER)"]
 		}
 		
 	],
@@ -1764,6 +1770,12 @@ const titleHistory = {
 			"name": "LAUREN_SNOW",
 			"reign": 1,
 			"defenses": ["NELLY_STORM", "JUNGO", "CRYSTAL", "JUNGO", "CRYSTAL-DQ", "CRYSTAL-DQ", "CRYSTAL", "MICHELLE_VELVET"]
+		},
+		{
+			"number": 30, 
+			"name": "MICHELLE_VELVET",
+			"reign": 2,
+			"defenses": ["LAUREN_SNOW"]
 		}
 	],
 	"US": [
@@ -2164,6 +2176,12 @@ const titleHistory = {
 			"name": "WYATT_WIPER",
 			"reign": 2,
 			"defenses": ["JOHNNY_AMERICA", "JOEY_JET", "JOEY_JET", "FRED_CHATTY"]
+		},
+		{
+			"number": 43, 
+			"name": "JOHNNY_AMERICA",
+			"reign": 4,
+			"defenses": ["WYATT_WIPER"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2467,7 +2485,13 @@ const titleHistory = {
 			"number": 51, 
 			"name": "TONY_TORNADO",
 			"reign": 1,
-			"defenses": ["BEN_SEED"], 
+			"defenses": ["BEN_SEED", "BEN_SEED"], 
+		},
+		{
+			"number": 52, 
+			"name": "MR_ENVIRONMENT",
+			"reign": 3,
+			"defenses": ["TONY_TORNADO", "TONY_TORNADO", "BEN_SEED"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2694,6 +2718,12 @@ const titleHistory = {
 			"name": "BRETT_HUNTER",
 			"reign": 2,
 			"defenses": ["RYAN_PAGE", "RYAN_PAGE"]
+		},
+		{
+			"number": 17, 
+			"name": "BRENT_HUNTER",
+			"reign": 3,
+			"defenses": ["BRETT_HUNTER", "BRETT_HUNTER", "BRETT_HUNTER-DQ"]
 		}
 	],
 	"MENS-TAG":[
