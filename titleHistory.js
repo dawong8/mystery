@@ -560,7 +560,7 @@ const titleHistory = {
 			"number": 95, 
 			"name": "CYNTHIA_RAMIREZ",
 			"reign": 3,
-			"defenses": ["BROOK_TAYLOR", "JANE_MACK", "VERONICA_STEEL", "BROOK_TAYLOR-DQ", "BROOK_TAYLOR"]
+			"defenses": ["BROOK_TAYLOR", "JANE_MACK", "VERONICA_STEEL", "BROOK_TAYLOR-DQ", "BROOK_TAYLOR", "AMA_BIG"]
 		}
 	],
 	"SMACKDOWN": [
@@ -1015,6 +1015,12 @@ const titleHistory = {
 			"name": "CRYSTAL",
 			"reign": 1,
 			"defenses": ["PARIS_MONET", "PARIS_MONET-DQ"]
+		},
+		{
+			"number": 75, 
+			"name": "NELLY_STORM",
+			"reign": 2,
+			"defenses": ["CRYSTAL", "PARIS_MONET-DQ", "CRYSTAL&PARIS_MONET"]
 		}
 
 	], 
@@ -1596,7 +1602,19 @@ const titleHistory = {
 			"number": 56, 
 			"name": "SILENT ROSE",
 			"members": "SLOANE[1]&LAUREN_SNOW[2]",
-			"defenses": ["NEON PARTY (NELLY_STORM, SLADER)"]
+			"defenses": ["NEON PARTY (NELLY_STORM, SLADER)", "THE WILDSIDE (JUNGO, JULIET_SUNSET)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)"]
+		},
+		{
+			"number": 57, 
+			"name": "THE WILDSIDE",
+			"members": "JUNGO[1]&JULIET_SUNSET[1]",
+			"defenses": ["SILENT ROSE (SLOANNE, LAUREN_SNOW)"]
+		},
+		{
+			"number": 58, 
+			"name": "SILENT ROSE",
+			"members": "SLOANE[2]&LAUREN_SNOW[3]",
+			"defenses": ["THE WILDSIDE (JUNGO, JULIET_SUNSET)", "METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)"]
 		}
 		
 	],
@@ -1775,7 +1793,7 @@ const titleHistory = {
 			"number": 30, 
 			"name": "MICHELLE_VELVET",
 			"reign": 2,
-			"defenses": ["LAUREN_SNOW"]
+			"defenses": ["LAUREN_SNOW", "ALICIA_HOUSE", "ALICIA_HOUSE"]
 		}
 	],
 	"US": [
@@ -1925,7 +1943,7 @@ const titleHistory = {
 			"number": 25, 
 			"name": "JUJU_FUN",
 			"reign": 1,
-			"defenses": ["JUNGO", "JUNGO", "JULIET_SUNSET", "JULIET_SUNSET", "JUNGO"]
+			"defenses": ["JUNGO", "JUNGO", "JULIET_SUNSET", "JULIET_SUNSET", "JUNGO", "TERESA_SHARP"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -2181,7 +2199,7 @@ const titleHistory = {
 			"number": 43, 
 			"name": "JOHNNY_AMERICA",
 			"reign": 4,
-			"defenses": ["WYATT_WIPER"]
+			"defenses": ["WYATT_WIPER", "POSI", "JASON_HONEY"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2492,6 +2510,12 @@ const titleHistory = {
 			"name": "MR_ENVIRONMENT",
 			"reign": 3,
 			"defenses": ["TONY_TORNADO", "TONY_TORNADO", "BEN_SEED"], 
+		},
+		{
+			"number": 53, 
+			"name": "RUSSELL_RUSH",
+			"reign": 2,
+			"defenses": ["MR_ENVIRONMENT", "MR_ENVIRONMENT", "MR_ENVIRONMENT", "TONY_TORNADO", "CLIFF_LEMON", "CLIFF_LEMON", "KRIPPLER"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2622,6 +2646,12 @@ const titleHistory = {
 			"name": "WILL_PHERBY",
 			"reign": 3,
 			"defenses": ["DADDY_TODD", "DADDY_TODD", "DANNY_PUMPKIN", "HARDBEAR", "HARDBEAR", "ANTONIO_DASHING"]
+		},
+		{
+			"number": 23, 
+			"name": "DANNY_PUMKPIN",
+			"reign": 1,
+			"defenses": ["WILL_PHERBY", "WILL_PHERBY"]
 		}
 	],
 	"DOM-TOP":[
@@ -2724,6 +2754,12 @@ const titleHistory = {
 			"name": "BRENT_HUNTER",
 			"reign": 3,
 			"defenses": ["BRETT_HUNTER", "BRETT_HUNTER", "BRETT_HUNTER-DQ"]
+		},
+		{
+			"number": 18, 
+			"name": "WYATT_WIPER",
+			"reign": 1,
+			"defenses": ["BRENT_HUNTER", "BRETT_HUNTER", "ALEX_CONNOR", "ALEX_CONNOR"]
 		}
 	],
 	"MENS-TAG":[
