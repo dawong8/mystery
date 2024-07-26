@@ -2649,7 +2649,7 @@ const titleHistory = {
 		},
 		{
 			"number": 23, 
-			"name": "DANNY_PUMKPIN",
+			"name": "DANNY_PUMPKIN",
 			"reign": 1,
 			"defenses": ["WILL_PHERBY", "WILL_PHERBY"]
 		}
