@@ -566,7 +566,13 @@ const titleHistory = {
 			"number": 96, 
 			"name": "BROOK_TAYLOR",
 			"reign": 2,
-			"defenses": ["TERESA_SHARP&CYNTHIA_RAMIREZ&AMA_BIG"]
+			"defenses": ["TERESA_SHARP&CYNTHIA_RAMIREZ&AMA_BIG", "CYNTHIA_RAMIREZ"]
+		},
+		{
+			"number": 97, 
+			"name": "PARIS_MONET",
+			"reign": 1,
+			"defenses": ["BROOK_TAYLOR", "BROOK_TAYLOR", "CYNTHIA_RAMIREZ"]
 		}
 	],
 	"SMACKDOWN": [
@@ -1032,7 +1038,13 @@ const titleHistory = {
 			"number": 76, 
 			"name": "PARIS_MONET",
 			"reign": 3,
-			"defenses": ["NELLY_STORM"]
+			"defenses": ["NELLY_STORM", "NELLY_STORM", "CRYSTAL"]
+		},
+		{
+			"number": 76, 
+			"name": "NELLY_STORM",
+			"reign": 3,
+			"defenses": ["PARIS_MONET", "PARIS_MONET&HALIE_QUINN"]
 		}
 
 	], 
@@ -1636,7 +1648,7 @@ const titleHistory = {
 			"number": 60, 
 			"name": "METALLIC ANGELS",
 			"members": "JANE_MACK[3]&VERONICA_STEEL[2]",
-			"defenses": ["THE WILDSIDE (JUNGO, JULIET_SUNSET)"]
+			"defenses": ["THE WILDSIDE (JUNGO, JULIET_SUNSET)", "THE WILDSIDE (JUNGO, JULIET_SUNSET)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)"]
 		}
 		
 	],
@@ -1966,6 +1978,12 @@ const titleHistory = {
 			"name": "JUJU_FUN",
 			"reign": 1,
 			"defenses": ["JUNGO", "JUNGO", "JULIET_SUNSET", "JULIET_SUNSET", "JUNGO", "TERESA_SHARP", "JULIET_SUNSET"]
+		},
+		{
+			"number": 26, 
+			"name": "TERESA_SHARP",
+			"reign": 2,
+			"defenses": ["JUJU_FUN", "JUJU_FUN", "JUJU_FUN"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -2544,6 +2562,18 @@ const titleHistory = {
 			"name": "RUSSELL_RUSH",
 			"reign": 2,
 			"defenses": ["MR_ENVIRONMENT", "MR_ENVIRONMENT", "MR_ENVIRONMENT", "TONY_TORNADO", "CLIFF_LEMON", "CLIFF_LEMON", "KRIPPLER", "MR_ENVIRONMENT"], 
+		},
+		{
+			"number": 54, 
+			"name": "CALLUM_WOLF",
+			"reign": 6,
+			"defenses": ["RUSSELL_RUSH"], 
+		},
+		{
+			"number": 55, 
+			"name": "ALEX_CONNOR",
+			"reign": 1,
+			"defenses": ["CALLUM_WOLF", "RUSSELL_RUSH"], 
 		}
 	],
 	"MENS-NXT":[
@@ -3046,6 +3076,12 @@ const titleHistory = {
 			"name": "METALLIC ANGELS",
 			"members": "JANE_MACK[1]&BROOK_TAYLOR[1]&VERONICA_STEEL[1]",
 			"defenses": ["SILENT ROSE (SLOANNE, TERESA_SHARP, CORA_JADE)", "TEAM BAD (CARMELLA, NAOMI, TAMINA)", "SILENT ROSE (SLOANNE, TERESA_SHARP, CORA_JADE)", "SILENT ROSE (SLOANNE, TERESA_SHARP, CORA_JADE)"]
+		},
+		{
+			"number": 14, 
+			"name": "SILENT ROSE",
+			"members": "GIGI_DOLIN[3]&CORA_JADE[4]&LAUREN_SNOW[1]",
+			"defenses": ["METALLIC ANGELS (JANE_MACK, BROOK_TAYLOR, VERONICA_STEEL)", "METALLIC ANGELS (JANE_MACK, BROOK_TAYLOR, VERONICA_STEEL)"]
 		}
 		
 	]
