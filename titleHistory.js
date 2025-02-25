@@ -3080,7 +3080,7 @@ const titleHistory = {
 		{
 			"number": 14, 
 			"name": "SILENT ROSE",
-			"members": "GIGI_DOLIN[3]&CORA_JADE[4]&LAUREN_SNOW[1]",
+			"members": "GIGI_DOLIN[3]&CORA_JADE[4]&LAUREN_SNOW[2]",
 			"defenses": ["METALLIC ANGELS (JANE_MACK, BROOK_TAYLOR, VERONICA_STEEL)", "METALLIC ANGELS (JANE_MACK, BROOK_TAYLOR, VERONICA_STEEL)"]
 		}
 		
