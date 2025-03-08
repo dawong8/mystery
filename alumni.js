@@ -8,6 +8,10 @@ const alumniArray = [
         "brand": "ALUMNI",
         "gender": "F"
     },{
+        "name": "JICKIE_MAMES",
+        "brand": "ALUMNI",
+        "gender": "F"
+    },{
         "name": "GIGI_MONDAY",
         "brand": "ALUMNI",
         "gender": "F"
