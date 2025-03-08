@@ -572,7 +572,7 @@ const titleHistory = {
 			"number": 97, 
 			"name": "PARIS_MONET",
 			"reign": 1,
-			"defenses": ["BROOK_TAYLOR", "BROOK_TAYLOR", "CYNTHIA_RAMIREZ"]
+			"defenses": ["BROOK_TAYLOR", "BROOK_TAYLOR", "CYNTHIA_RAMIREZ", "TERESA_SHARP", "AMA_BIG"]
 		}
 	],
 	"SMACKDOWN": [
@@ -1044,7 +1044,19 @@ const titleHistory = {
 			"number": 76, 
 			"name": "NELLY_STORM",
 			"reign": 3,
-			"defenses": ["PARIS_MONET", "PARIS_MONET&HALIE_QUINN"]
+			"defenses": ["PARIS_MONET", "PARIS_MONET&HALIE_QUINN", "HALIE_QUINN&JANINE", "JANINE"]
+		},
+		{
+			"number": 77, 
+			"name": "HALIE_QUINN",
+			"reign": 2,
+			"defenses": ["NELLY_STORM", "ALICIA_HOUSE", "JANINE&NELLY_STORM"]
+		},
+		{
+			"number": 78, 
+			"name": "NELLY_STORM",
+			"reign": 4,
+			"defenses": ["HALIE_QUINN", "HALIE_QUINN"]
 		}
 
 	], 
@@ -1828,6 +1840,12 @@ const titleHistory = {
 			"name": "MICHELLE_VELVET",
 			"reign": 2,
 			"defenses": ["LAUREN_SNOW", "ALICIA_HOUSE", "ALICIA_HOUSE", "LAUREN_SNOW"]
+		},
+		{
+			"number": 31, 
+			"name": "LAUREN_SNOW",
+			"reign": 2,
+			"defenses": ["MICHELLE_VELVET"]
 		}
 	],
 	"US": [
@@ -1984,6 +2002,12 @@ const titleHistory = {
 			"name": "TERESA_SHARP",
 			"reign": 2,
 			"defenses": ["JUJU_FUN", "JUJU_FUN", "JUJU_FUN"]
+		},
+		{
+			"number": 27, 
+			"name": "JUNGO",
+			"reign": 2,
+			"defenses": ["TERESA_SHARP", "TERESA_SHARP", "JUJU_FUN"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -2246,6 +2270,12 @@ const titleHistory = {
 			"name": "JOEY_JET",
 			"reign": 2,
 			"defenses": ["JOHNNY_AMERICA", "POSI"]
+		},
+		{
+			"number": 45, 
+			"name": "JOHNNY_AMERICA",
+			"reign": 5,
+			"defenses": ["JOEY_JET&WYATT_WIPER", "JASON_HONEY"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2574,6 +2604,18 @@ const titleHistory = {
 			"name": "ALEX_CONNOR",
 			"reign": 1,
 			"defenses": ["CALLUM_WOLF", "RUSSELL_RUSH"], 
+		},
+		{
+			"number": 55, 
+			"name": "ALEX_CONNOR",
+			"reign": 1,
+			"defenses": ["CALLUM_WOLF", "RUSSELL_RUSH"], 
+		},
+		{
+			"number": 56, 
+			"name": "BEN_SEED",
+			"reign": 6,
+			"defenses": ["ALEX_CONNOR", "RUSSELL_RUSH", "CALLUM_WOLF"], 
 		}
 	],
 	"MENS-NXT":[
@@ -3004,6 +3046,12 @@ const titleHistory = {
 			"name": "LOUNGEWEAR",
 			"members": "MERCENARY[3]&KRIPPLER[3]",
 			"defenses": ["AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK)", "LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK)"]
+		},
+		{
+			"number": 30, 
+			"name": "TOTAL DOMINATION",
+			"members": "FRED_CHATTY[2]&TYSON_EVERETT[1]",
+			"defenses": ["LOUNGEWEAR (MERCENARY, KRIPPLER)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK)"]
 		}
 	],
 	"TRIOS":[
@@ -3082,6 +3130,18 @@ const titleHistory = {
 			"name": "SILENT ROSE",
 			"members": "GIGI_DOLIN[3]&CORA_JADE[4]&LAUREN_SNOW[2]",
 			"defenses": ["METALLIC ANGELS (JANE_MACK, BROOK_TAYLOR, VERONICA_STEEL)", "METALLIC ANGELS (JANE_MACK, BROOK_TAYLOR, VERONICA_STEEL)"]
+		},
+		{
+			"number": 15, 
+			"name": "THE BIG THREE",
+			"members": "AMA_BIG[1]&PARIS_MONET[1]&TAMINA[2]",
+			"defenses": ["SILENT ROSE (GIGI_DOLIN, CORA_JADE, LAUREN_SNOW)", "METALLIC ANGELS (JANE_MACK, BROOK_TAYLOR, VERONICA_STEEL)"]
+		},
+		{
+			"number": 16, 
+			"name": "METALLIC ANGELS",
+			"members": "JANE_MACK[2]&BROOK_TAYLOR[2]&VERONICA_STEEL[2]",
+			"defenses": ["THE BIG THREE (AMA_BIG, PARIS_MONET, TAMINA)" ,"SILENT ROSE (SLOANNE, TERESA_SHARP, CORA_JADE)", "TEAM BAD (CARMELLA, NAOMI, TAMINA)", "SILENT ROSE (SLOANNE, TERESA_SHARP, CORA_JADE)", "SILENT ROSE (SLOANNE, TERESA_SHARP, CORA_JADE)"]
 		}
 		
 	]
