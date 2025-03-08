@@ -2606,12 +2606,6 @@ const titleHistory = {
 			"defenses": ["CALLUM_WOLF", "RUSSELL_RUSH"], 
 		},
 		{
-			"number": 55, 
-			"name": "ALEX_CONNOR",
-			"reign": 1,
-			"defenses": ["CALLUM_WOLF", "RUSSELL_RUSH"], 
-		},
-		{
 			"number": 56, 
 			"name": "BEN_SEED",
 			"reign": 6,
