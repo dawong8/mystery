@@ -1056,7 +1056,13 @@ const titleHistory = {
 			"number": 78, 
 			"name": "NELLY_STORM",
 			"reign": 4,
-			"defenses": ["HALIE_QUINN", "HALIE_QUINN"]
+			"defenses": ["HALIE_QUINN", "HALIE_QUINN", "HALIE_QUINN"]
+		},
+		{
+			"number": 79, 
+			"name": "TERESA_SHARP",
+			"reign": 1,
+			"defenses": ["NELLY_STORM", "BROOK_TAYLOR", "BROOK_TAYLOR"]
 		}
 
 	], 
@@ -1661,6 +1667,12 @@ const titleHistory = {
 			"name": "METALLIC ANGELS",
 			"members": "JANE_MACK[3]&VERONICA_STEEL[2]",
 			"defenses": ["THE WILDSIDE (JUNGO, JULIET_SUNSET)", "THE WILDSIDE (JUNGO, JULIET_SUNSET)", "SILENT ROSE (SLOANNE, LAUREN_SNOW)"]
+		},
+		{
+			"number": 61, 
+			"name": "THE WILDSIDE",
+			"members": "JUNGO[2]&JULIET_SUNSET[2]",
+			"defenses": ["METALLIC ANGELS (VERONICA_STEEL, JANE_MACK)"]
 		}
 		
 	],
@@ -1846,6 +1858,16 @@ const titleHistory = {
 			"name": "LAUREN_SNOW",
 			"reign": 2,
 			"defenses": ["MICHELLE_VELVET"]
+		},
+		{
+			"number": 32,
+			"name": "VACATED"
+		},
+		{
+			"number": 33, 
+			"name": "NATASHA_IVY",
+			"reign": 1,
+			"defenses": ["MICHELLE_VELVET&MASK_GIRL&LISA_LOST", "LISA_LOST", "LISA_LOST"]
 		}
 	],
 	"US": [
@@ -2008,6 +2030,16 @@ const titleHistory = {
 			"name": "JUNGO",
 			"reign": 2,
 			"defenses": ["TERESA_SHARP", "TERESA_SHARP", "JUJU_FUN"]
+		},
+		{
+			"number": 28, 
+			"name": "VACATED"
+		},
+		{
+			"number": 29, 
+			"name": "CRYSTAL",
+			"reign": 1,
+			"defenses": ["CYNTHIA_RAMIREZ", "NORI-DQ"]
 		}
 	],
 	"ALPHA-TOP":[
@@ -2275,7 +2307,13 @@ const titleHistory = {
 			"number": 45, 
 			"name": "JOHNNY_AMERICA",
 			"reign": 5,
-			"defenses": ["JOEY_JET&WYATT_WIPER", "JASON_HONEY"]
+			"defenses": ["JOEY_JET", "JASON_HONEY"]
+		},
+		{
+			"number": 46, 
+			"name": "HENRY_TATE",
+			"reign": 1,
+			"defenses": ["JOHNNY_AMERICA", "JOHNNY_AMERICA", "RYAN_PAGE", "RYAN_PAGE", "JASON_HONEY", "JASON_HONEY"]
 		}
 	],
 	"WORLD-TOP":[
@@ -2610,6 +2648,18 @@ const titleHistory = {
 			"name": "BEN_SEED",
 			"reign": 6,
 			"defenses": ["ALEX_CONNOR", "RUSSELL_RUSH", "CALLUM_WOLF"], 
+		},
+		{
+			"number": 57, 
+			"name": "BRETT_HUNTER",
+			"reign": 1,
+			"defenses": ["BEN_SEED", "MR_ENVIRONMENT", "BEN_SEED", "TONY_TORNADO"], 
+		},
+		{
+			"number": 58, 
+			"name": "CALLUM_WOLF",
+			"reign": 7,
+			"defenses": ["BRETT_HUNTER", "BRETT_HUNTER", "RUSSELL_RUSH"], 
 		}
 	],
 	"MENS-NXT":[
@@ -2746,6 +2796,12 @@ const titleHistory = {
 			"name": "DANNY_PUMPKIN",
 			"reign": 1,
 			"defenses": ["WILL_PHERBY", "WILL_PHERBY", "LOGAN_GURT"]
+		},
+		{
+			"number": 24, 
+			"name": "NICK_GOODE",
+			"reign": 1,
+			"defenses": ["DANNY_PUMPKIN", "WILL_PHERBY", "HARDBEAR", "ANGELO_KNIGHT"]
 		}
 	],
 	"DOM-TOP":[
@@ -2854,6 +2910,12 @@ const titleHistory = {
 			"name": "WYATT_WIPER",
 			"reign": 1,
 			"defenses": ["BRENT_HUNTER", "BRETT_HUNTER", "ALEX_CONNOR", "ALEX_CONNOR", "BEN_SEED"]
+		},
+		{
+			"number": 19, 
+			"name": "RETIRED",
+			"reign": 1,
+			"defenses": ["BELT IS RETIRED"]
 		}
 	],
 	"MENS-TAG":[
@@ -3046,6 +3108,18 @@ const titleHistory = {
 			"name": "TOTAL DOMINATION",
 			"members": "FRED_CHATTY[2]&TYSON_EVERETT[1]",
 			"defenses": ["LOUNGEWEAR (MERCENARY, KRIPPLER)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "LEMON CLIP (CLIFF_LEMON, CLIP_MAVERICK)"]
+		},
+		{
+			"number": 31, 
+			"name": "VACATION TIME",
+			"members": "DANNY_PUMPKIN[1]&JOEY_JET[1]",
+			"defenses": ["TOTAL DOMINATION (FRED_CHATTY, TYSON_EVERETT)"]
+		},
+		{
+			"number": 32, 
+			"name": "THE BANG BROS",
+			"members": "ALEX_CONNOR[1]&WYATT_WIPER[1]",
+			"defenses": ["VACATION TIME (DANNY_PUMPKIN, JOEY_JET)", "VACATION TIME (DANNY_PUMPKIN, JOEY_JET)", "TOTAL DOMINATION (FRED_CHATTY, TYSON_EVERETT)", "VACATION TIME (DANNY_PUMPKIN, JOEY_JET)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)", "AROUSAL CHOCOLATE (POSI, TONY_TORNADO)"]
 		}
 	],
 	"TRIOS":[
