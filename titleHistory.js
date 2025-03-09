@@ -572,7 +572,7 @@ const titleHistory = {
 			"number": 97, 
 			"name": "PARIS_MONET",
 			"reign": 1,
-			"defenses": ["BROOK_TAYLOR", "BROOK_TAYLOR", "CYNTHIA_RAMIREZ", "TERESA_SHARP", "AMA_BIG"]
+			"defenses": ["BROOK_TAYLOR", "BROOK_TAYLOR", "CYNTHIA_RAMIREZ", "TERESA_SHARP", "AMA_BIG", "AMA_BIG"]
 		}
 	],
 	"SMACKDOWN": [
