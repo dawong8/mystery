@@ -5,6 +5,16 @@ const rosterArray = [ // currrent roster
   gender: "F" 
 }, 
 {
+  name: "HENRY_TATE", 
+  brand: "RAW",
+  gender: "M" 
+}, 
+{
+  name: "NICK_GOODE", 
+  brand: "NXT",
+  gender: "M" 
+},
+{
   name: "JUNGO", 
   brand: "RAW", 
   gender: "F"
@@ -16,7 +26,7 @@ const rosterArray = [ // currrent roster
 }, 
 {
   name: "BROOK_TAYLOR", 
-  brand: "RAW", 
+  brand: "SD", 
   gender: "F"
 }, 
 {
@@ -36,7 +46,7 @@ const rosterArray = [ // currrent roster
 }, 
 {
   name: "VERONICA_STEEL", 
-  brand: "RAW", 
+  brand: "SD", 
   gender: "F"
 }, 
 {
@@ -51,29 +61,24 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "TERESA_SHARP", 
-  brand: "RAW",
+  brand: "SD",
   gender: "F" 
 }, 
 {
   name: "SLOANE", 
-  brand: "SD", 
-  gender: "F"
-},
-{
-  name: "LAUREN_SNOW", 
-  brand: "SD",
-  gender: "F" 
-}, 
-{
-  name: "JANE_MACK", 
   brand: "RAW", 
   gender: "F"
 },
 {
-  name: "LIV_MORGAN", 
-  brand: "SD",
+  name: "LAUREN_SNOW", 
+  brand: "RAW",
   gender: "F" 
 }, 
+{
+  name: "JANE_MACK", 
+  brand: "SD", 
+  gender: "F"
+},
 {
   name: "GIGI_DOLIN", 
   brand: "SD", 
@@ -81,7 +86,7 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "MICHELLE_VELVET", 
-  brand: "SD",
+  brand: "RAW",
   gender: "F" 
 }, 
 {
@@ -96,7 +101,7 @@ const rosterArray = [ // currrent roster
 }, 
 {
   name: "SLADER", 
-  brand: "SD", 
+  brand: "RAW", 
   gender: "F"
 },
 {
@@ -111,7 +116,7 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "BLAIRE_COUNTY", 
-  brand: "NXT", 
+  brand: "RAW", 
   gender: "F"
 },
 {
@@ -126,7 +131,7 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "NATASHA_IVY", 
-  brand: "NXT", 
+  brand: "RAW", 
   gender: "F"
 },
 {
@@ -136,7 +141,7 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "CYNTHIA_RAMIREZ", 
-  brand: "RAW", 
+  brand: "SD", 
   gender: "F"
 },
 {
@@ -156,7 +161,7 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "MASK_GIRL", 
-  brand: "SD", 
+  brand: "RAW", 
   gender: "F"
 },
 {
@@ -166,7 +171,7 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "JANINE", 
-  brand: "SD", 
+  brand: "RAW", 
   gender: "F"
 },
 {
