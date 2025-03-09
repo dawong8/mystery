@@ -281,7 +281,7 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "ANTONIO_DASHING", 
-  brand: "NXT", 
+  brand: "RAW", 
   gender: "M"
 },
 {
@@ -296,7 +296,7 @@ const rosterArray = [ // currrent roster
 },
 {
   name: "DANNY_PUMPKIN", 
-  brand: "NXT", 
+  brand: "RAW", 
   gender: "M"
 },
 {
