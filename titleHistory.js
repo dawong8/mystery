@@ -1280,6 +1280,12 @@ const titleHistory = {
 			"name": "UPSKIRT_KIRA",
 			"reign": 1,
 			"defenses": ["BROOK_TAYLOR", "BELINDA_LEE", "BELINDA_LEE", "SAMANTHA_ROSE", "JUJU_FUN", "NORI", "BLAIRE_COUNTY", "NORI"], 
+		},
+		{
+			"number": 39, 
+			"name": "CELINE",
+			"reign": 1,
+			"defenses": ["UPSKIRT_KIRA"], 
 		}
 	],
 	"ELIMINATION_CHAMBER": {
