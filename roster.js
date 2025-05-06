@@ -124,6 +124,36 @@ const rosterArray = [ // currrent roster
   brand: "NXT", 
   gender: "F"
 },
+  {
+  name: "X4", 
+  brand: "NXT", 
+  gender: "F"
+},
+  {
+  name: "X3", 
+  brand: "NXT", 
+  gender: "F"
+},
+  {
+  name: "X2", 
+  brand: "NXT", 
+  gender: "F"
+},
+  {
+  name: "LORNA_BLISS", 
+  brand: "NXT", 
+  gender: "F"
+},
+  {
+  name: "CELINE", 
+  brand: "NXT", 
+  gender: "F"
+},
+  {
+  name: "SCARLETT", 
+  brand: "NXT", 
+  gender: "F"
+},
 {
   name: "BELINDA_LEE", 
   brand: "NXT", 
